@@ -1,0 +1,1317 @@
+{
+  "binary": "extracted/rootfs/Applications/TVMusic.app/TVMusic",
+  "swift_version": "Swift 5.1 / 5.2 (ABI Stable)",
+  "runtime_libraries": [
+    "/usr/lib/swift/libswiftCore.dylib",
+    "/usr/lib/swift/libswiftFoundation.dylib",
+    "/usr/lib/swift/libswiftUIKit.dylib",
+    "/usr/lib/swift/libswiftAVFoundation.dylib",
+    "/usr/lib/swift/libswiftCoreAudio.dylib",
+    "/usr/lib/swift/libswiftCoreFoundation.dylib",
+    "/usr/lib/swift/libswiftCoreGraphics.dylib",
+    "/usr/lib/swift/libswiftCoreImage.dylib",
+    "/usr/lib/swift/libswiftCoreMedia.dylib",
+    "/usr/lib/swift/libswiftDarwin.dylib",
+    "/usr/lib/swift/libswiftDispatch.dylib",
+    "/usr/lib/swift/libswiftMetal.dylib",
+    "/usr/lib/swift/libswiftMetalKit.dylib",
+    "/usr/lib/swift/libswiftModelIO.dylib",
+    "/usr/lib/swift/libswiftObjectiveC.dylib",
+    "/usr/lib/swift/libswiftQuartzCore.dylib",
+    "/usr/lib/swift/libswiftos.dylib",
+    "/usr/lib/swift/libswiftsimd.dylib"
+  ],
+  "metadata_sections": {
+    "__swift5_typeref": {
+      "segname": "__TEXT",
+      "addr": "0x0000000100107d66",
+      "size_hex": "0x0000000000000553",
+      "size_bytes": 1363,
+      "offset": 1080678
+    },
+    "__swift5_reflstr": {
+      "segname": "__TEXT",
+      "addr": "0x00000001001082c0",
+      "size_hex": "0x00000000000004c3",
+      "size_bytes": 1219,
+      "offset": 1082048
+    },
+    "__swift5_fieldmd": {
+      "segname": "__TEXT",
+      "addr": "0x0000000100108784",
+      "size_hex": "0x000000000000068c",
+      "size_bytes": 1676,
+      "offset": 1083268
+    },
+    "__swift5_builtin": {
+      "segname": "__TEXT",
+      "addr": "0x0000000100108e10",
+      "size_hex": "0x00000000000000dc",
+      "size_bytes": 220,
+      "offset": 1084944
+    },
+    "__swift5_assocty": {
+      "segname": "__TEXT",
+      "addr": "0x0000000100108eec",
+      "size_hex": "0x00000000000000c0",
+      "size_bytes": 192,
+      "offset": 1085164
+    },
+    "__swift5_proto": {
+      "segname": "__TEXT",
+      "addr": "0x0000000100108fac",
+      "size_hex": "0x0000000000000034",
+      "size_bytes": 52,
+      "offset": 1085356
+    },
+    "__swift5_types": {
+      "segname": "__TEXT",
+      "addr": "0x0000000100108fe0",
+      "size_hex": "0x0000000000000064",
+      "size_bytes": 100,
+      "offset": 1085408
+    },
+    "__swift5_protos": {
+      "segname": "__TEXT",
+      "addr": "0x0000000100109044",
+      "size_hex": "0x0000000000000004",
+      "size_bytes": 4,
+      "offset": 1085508
+    },
+    "__swift5_capture": {
+      "segname": "__TEXT",
+      "addr": "0x0000000100109048",
+      "size_hex": "0x0000000000000034",
+      "size_bytes": 52,
+      "offset": 1085512
+    }
+  },
+  "reflection_identifiers": [
+    "device",
+    "commandQueue",
+    "library",
+    "textureLoader",
+    "rasterSampleCount",
+    "time",
+    "viewMatrix",
+    "models",
+    "textureTransitionMix",
+    "timingControlPoints",
+    "meshWarpTimeScale",
+    "saturation",
+    "whiteScrimAlpha",
+    "blackScrimAlpha",
+    "floor",
+    "ceiling",
+    "spectrumPower",
+    "visualizerIntensity",
+    "position",
+    "textureCoordinates",
+    "fromPosition",
+    "toPosition",
+    "width",
+    "height",
+    "columns",
+    "matrix",
+    "parent",
+    "timeScale",
+    "alpha",
+    "p0",
+    "p1",
+    "vertices",
+    "sharpness",
+    "rawValue",
+    "base",
+    "secondary",
+    "tertiary",
+    "mix",
+    "_rawValue",
+    "x",
+    "y",
+    "z",
+    "ArrayLiteralElement",
+    "RawValue",
+    "Element",
+    "_ObjectiveCType",
+    "mix",
+    "filter",
+    "count",
+    "recentValues",
+    "min",
+    "max",
+    "target",
+    "current",
+    "samples",
+    "Element",
+    "visualizerIntensity",
+    "paused",
+    "crossfadeDuration",
+    "image",
+    "context",
+    "uniforms",
+    "imageScale",
+    "spectrumAnalysis",
+    "aspectRatio",
+    "renderers",
+    "traitCollection",
+    "uniqueMesh",
+    "texture",
+    "vertices",
+    "indices",
+    "vertexBuffer",
+    "indexBuffer",
+    "pipelineState",
+    "$__lazy_storage_$_pipelineDescriptor",
+    "outputSize",
+    "inputTextures",
+    "renderPassDescriptor",
+    "rotationDrawTexture",
+    "msaaSampleTexture",
+    "blurredTexture",
+    "$__lazy_storage_$_blur",
+    "blank",
+    "vertices",
+    "faces",
+    "divisions",
+    "analyzer",
+    "$__lazy_storage_$_spectrumObserver",
+    "delayCount",
+    "delayedReports",
+    "updateMix",
+    "power",
+    "inputFilters",
+    "source",
+    "destination",
+    "next",
+    "image",
+    "visualizer"
+  ],
+  "symbols_count": 124,
+  "symbols_by_category": {
+    "Metal_Visualization": 0,
+    "Dispatch": 7,
+    "Foundation_Bridge": 7,
+    "Swift_Standard_Library": 15,
+    "OS_Log": 4,
+    "SIMD_Math": 5,
+    "Other": 86
+  },
+  "symbols": [
+    {
+      "mangled": "_$s15_ObjectiveCTypes01_A11CBridgeablePTl",
+      "demangled": "[Swift 5 Symbol] _$s15_ObjectiveCTypes01_A11CBridgeablePTl",
+      "segment": "__DATA_CONST",
+      "section": "__const",
+      "address": "0x1001122C8",
+      "dylib": "0",
+      "kind": "bind"
+    },
+    {
+      "mangled": "_$s19ArrayLiteralElements013ExpressibleByaB0PTl",
+      "demangled": "[Swift 5 Symbol] _$s19ArrayLiteralElements013ExpressibleByaB0PTl",
+      "segment": "__DATA_CONST",
+      "section": "__const",
+      "address": "0x100112188",
+      "dylib": "0",
+      "kind": "bind"
+    },
+    {
+      "mangled": "_$s7Elements10SetAlgebraPTl",
+      "demangled": "[Swift 5 Symbol] _$s7Elements10SetAlgebraPTl",
+      "segment": "__DATA_CONST",
+      "section": "__const",
+      "address": "0x1001121E0",
+      "dylib": "0",
+      "kind": "bind"
+    },
+    {
+      "mangled": "_$s8RawValueSYTl",
+      "demangled": "[Swift 5 Symbol] _$s8RawValueSYTl",
+      "segment": "__DATA_CONST",
+      "section": "__const",
+      "address": "0x1001121B0",
+      "dylib": "0",
+      "kind": "bind"
+    },
+    {
+      "mangled": "_$sBOWV",
+      "demangled": "[Swift 5 Symbol] _$sBOWV",
+      "segment": "__DATA_CONST",
+      "section": "__const",
+      "address": "0x100111DE0",
+      "dylib": "0",
+      "kind": "bind"
+    },
+    {
+      "mangled": "_$sBOWV",
+      "demangled": "[Swift 5 Symbol] _$sBOWV",
+      "segment": "__DATA",
+      "section": "__objc_data",
+      "address": "0x100153610",
+      "dylib": "0",
+      "kind": "bind"
+    },
+    {
+      "mangled": "_$sBOWV",
+      "demangled": "[Swift 5 Symbol] _$sBOWV",
+      "segment": "__DATA",
+      "section": "__objc_data",
+      "address": "0x1001537B8",
+      "dylib": "0",
+      "kind": "bind"
+    },
+    {
+      "mangled": "_$sBi64_WV",
+      "demangled": "[Swift 5 Symbol] _$sBi64_WV",
+      "segment": "__DATA_CONST",
+      "section": "__const",
+      "address": "0x100111E80",
+      "dylib": "0",
+      "kind": "bind"
+    },
+    {
+      "mangled": "_$sBoWV",
+      "demangled": "[Swift 5 Symbol] _$sBoWV",
+      "segment": "__DATA",
+      "section": "__data",
+      "address": "0x100155C18",
+      "dylib": "0",
+      "kind": "bind"
+    },
+    {
+      "mangled": "_$sBoWV",
+      "demangled": "[Swift 5 Symbol] _$sBoWV",
+      "segment": "__DATA",
+      "section": "__data",
+      "address": "0x100155DD0",
+      "dylib": "0",
+      "kind": "bind"
+    },
+    {
+      "mangled": "_$sBoWV",
+      "demangled": "[Swift 5 Symbol] _$sBoWV",
+      "segment": "__DATA",
+      "section": "__data",
+      "address": "0x1001560C0",
+      "dylib": "0",
+      "kind": "bind"
+    },
+    {
+      "mangled": "_$sSH13_rawHashValue4seedS2i_tFTq",
+      "demangled": "[Swift 5 Symbol] _$sSH13_rawHashValue4seedS2i_tFTq",
+      "segment": "__DATA_CONST",
+      "section": "__const",
+      "address": "0x100112310",
+      "dylib": "0",
+      "kind": "bind"
+    },
+    {
+      "mangled": "_$sSH4hash4intoys6HasherVz_tFTq",
+      "demangled": "[Swift 5 Symbol] _$sSH4hash4intoys6HasherVz_tFTq",
+      "segment": "__DATA_CONST",
+      "section": "__const",
+      "address": "0x100112308",
+      "dylib": "0",
+      "kind": "bind"
+    },
+    {
+      "mangled": "_$sSH9hashValueSivgTq",
+      "demangled": "[Swift 5 Symbol] _$sSH9hashValueSivgTq",
+      "segment": "__DATA_CONST",
+      "section": "__const",
+      "address": "0x100112300",
+      "dylib": "0",
+      "kind": "bind"
+    },
+    {
+      "mangled": "_$sSHMp",
+      "demangled": "[Swift 5 Symbol] _$sSHMp",
+      "segment": "__DATA_CONST",
+      "section": "__const",
+      "address": "0x1001122F0",
+      "dylib": "0",
+      "kind": "bind"
+    },
+    {
+      "mangled": "_$sSHSQTb",
+      "demangled": "[Swift 5 Symbol] _$sSHSQTb",
+      "segment": "__DATA_CONST",
+      "section": "__const",
+      "address": "0x1001122F8",
+      "dylib": "0",
+      "kind": "bind"
+    },
+    {
+      "mangled": "_$sSQ2eeoiySbx_xtFZTq",
+      "demangled": "[Swift 5 Symbol] _$sSQ2eeoiySbx_xtFZTq",
+      "segment": "__DATA_CONST",
+      "section": "__const",
+      "address": "0x1001121A0",
+      "dylib": "0",
+      "kind": "bind"
+    },
+    {
+      "mangled": "_$sSQMp",
+      "demangled": "[Swift 5 Symbol] _$sSQMp",
+      "segment": "__DATA_CONST",
+      "section": "__const",
+      "address": "0x100112198",
+      "dylib": "0",
+      "kind": "bind"
+    },
+    {
+      "mangled": "_$sSS9hashValueSivg",
+      "demangled": "[Swift 5 Symbol] _$sSS9hashValueSivg",
+      "segment": "__DATA_CONST",
+      "section": "__got",
+      "address": "0x10010C060",
+      "dylib": "0",
+      "kind": "bind"
+    },
+    {
+      "mangled": "_$sSSN",
+      "demangled": "[Swift 5 Symbol] _$sSSN",
+      "segment": "__DATA_CONST",
+      "section": "__got",
+      "address": "0x10010C068",
+      "dylib": "0",
+      "kind": "bind"
+    },
+    {
+      "mangled": "_$sSSSHsWP",
+      "demangled": "[Swift 5 Symbol] _$sSSSHsWP",
+      "segment": "__DATA_CONST",
+      "section": "__got",
+      "address": "0x10010C070",
+      "dylib": "0",
+      "kind": "bind"
+    },
+    {
+      "mangled": "_$sSY8rawValue03RawB0QzvgTq",
+      "demangled": "[Swift 5 Symbol] _$sSY8rawValue03RawB0QzvgTq",
+      "segment": "__DATA_CONST",
+      "section": "__const",
+      "address": "0x1001121C0",
+      "dylib": "0",
+      "kind": "bind"
+    },
+    {
+      "mangled": "_$sSY8rawValuexSg03RawB0Qz_tcfCTq",
+      "demangled": "[Swift 5 Symbol] _$sSY8rawValuexSg03RawB0Qz_tcfCTq",
+      "segment": "__DATA_CONST",
+      "section": "__const",
+      "address": "0x1001121B8",
+      "dylib": "0",
+      "kind": "bind"
+    },
+    {
+      "mangled": "_$sSYMp",
+      "demangled": "[Swift 5 Symbol] _$sSYMp",
+      "segment": "__DATA_CONST",
+      "section": "__const",
+      "address": "0x1001121A8",
+      "dylib": "0",
+      "kind": "bind"
+    },
+    {
+      "mangled": "_$sSayxGSTsMc",
+      "demangled": "[Swift 5 Symbol] _$sSayxGSTsMc",
+      "segment": "__DATA_CONST",
+      "section": "__got",
+      "address": "0x10010C078",
+      "dylib": "0",
+      "kind": "bind"
+    },
+    {
+      "mangled": "_$sSbN",
+      "demangled": "[Swift 5 Symbol] _$sSbN",
+      "segment": "__DATA_CONST",
+      "section": "__got",
+      "address": "0x10010C080",
+      "dylib": "0",
+      "kind": "bind"
+    },
+    {
+      "mangled": "_$sSfN",
+      "demangled": "[Swift 5 Symbol] _$sSfN",
+      "segment": "__DATA_CONST",
+      "section": "__got",
+      "address": "0x10010C088",
+      "dylib": "0",
+      "kind": "bind"
+    },
+    {
+      "mangled": "_$ss10SetAlgebraMp",
+      "demangled": "[Swift 5 Symbol] _$ss10SetAlgebraMp",
+      "segment": "__DATA_CONST",
+      "section": "__const",
+      "address": "0x1001121C8",
+      "dylib": "0",
+      "kind": "bind"
+    },
+    {
+      "mangled": "_$ss10SetAlgebraP10isDisjoint4withSbx_tFTq",
+      "demangled": "[Swift 5 Symbol] _$ss10SetAlgebraP10isDisjoint4withSbx_tFTq",
+      "segment": "__DATA_CONST",
+      "section": "__const",
+      "address": "0x100112250",
+      "dylib": "0",
+      "kind": "bind"
+    },
+    {
+      "mangled": "_$ss10SetAlgebraP10isSuperset2ofSbx_tFTq",
+      "demangled": "[Swift 5 Symbol] _$ss10SetAlgebraP10isSuperset2ofSbx_tFTq",
+      "segment": "__DATA_CONST",
+      "section": "__const",
+      "address": "0x100112258",
+      "dylib": "0",
+      "kind": "bind"
+    },
+    {
+      "mangled": "_$ss10SetAlgebraP11subtractingyxxFTq",
+      "demangled": "[Swift 5 Symbol] _$ss10SetAlgebraP11subtractingyxxFTq",
+      "segment": "__DATA_CONST",
+      "section": "__const",
+      "address": "0x100112240",
+      "dylib": "0",
+      "kind": "bind"
+    },
+    {
+      "mangled": "_$ss10SetAlgebraP12intersectionyxxFTq",
+      "demangled": "[Swift 5 Symbol] _$ss10SetAlgebraP12intersectionyxxFTq",
+      "segment": "__DATA_CONST",
+      "section": "__const",
+      "address": "0x100112200",
+      "dylib": "0",
+      "kind": "bind"
+    },
+    {
+      "mangled": "_$ss10SetAlgebraP16formIntersectionyyxFTq",
+      "demangled": "[Swift 5 Symbol] _$ss10SetAlgebraP16formIntersectionyyxFTq",
+      "segment": "__DATA_CONST",
+      "section": "__const",
+      "address": "0x100112230",
+      "dylib": "0",
+      "kind": "bind"
+    },
+    {
+      "mangled": "_$ss10SetAlgebraP19symmetricDifferenceyxxnFTq",
+      "demangled": "[Swift 5 Symbol] _$ss10SetAlgebraP19symmetricDifferenceyxxnFTq",
+      "segment": "__DATA_CONST",
+      "section": "__const",
+      "address": "0x100112208",
+      "dylib": "0",
+      "kind": "bind"
+    },
+    {
+      "mangled": "_$ss10SetAlgebraP23formSymmetricDifferenceyyxnFTq",
+      "demangled": "[Swift 5 Symbol] _$ss10SetAlgebraP23formSymmetricDifferenceyyxnFTq",
+      "segment": "__DATA_CONST",
+      "section": "__const",
+      "address": "0x100112238",
+      "dylib": "0",
+      "kind": "bind"
+    },
+    {
+      "mangled": "_$ss10SetAlgebraP5unionyxxnFTq",
+      "demangled": "[Swift 5 Symbol] _$ss10SetAlgebraP5unionyxxnFTq",
+      "segment": "__DATA_CONST",
+      "section": "__const",
+      "address": "0x1001121F8",
+      "dylib": "0",
+      "kind": "bind"
+    },
+    {
+      "mangled": "_$ss10SetAlgebraP6insertySb8inserted_7ElementQz17memberAfterInserttAFnFTq",
+      "demangled": "[Swift 5 Symbol] _$ss10SetAlgebraP6insertySb8inserted_7ElementQz17memberAfterInserttAFnFTq",
+      "segment": "__DATA_CONST",
+      "section": "__const",
+      "address": "0x100112210",
+      "dylib": "0",
+      "kind": "bind"
+    },
+    {
+      "mangled": "_$ss10SetAlgebraP6removey7ElementQzSgAEFTq",
+      "demangled": "[Swift 5 Symbol] _$ss10SetAlgebraP6removey7ElementQzSgAEFTq",
+      "segment": "__DATA_CONST",
+      "section": "__const",
+      "address": "0x100112218",
+      "dylib": "0",
+      "kind": "bind"
+    },
+    {
+      "mangled": "_$ss10SetAlgebraP6update4with7ElementQzSgAFn_tFTq",
+      "demangled": "[Swift 5 Symbol] _$ss10SetAlgebraP6update4with7ElementQzSgAFn_tFTq",
+      "segment": "__DATA_CONST",
+      "section": "__const",
+      "address": "0x100112220",
+      "dylib": "0",
+      "kind": "bind"
+    },
+    {
+      "mangled": "_$ss10SetAlgebraP7isEmptySbvgTq",
+      "demangled": "[Swift 5 Symbol] _$ss10SetAlgebraP7isEmptySbvgTq",
+      "segment": "__DATA_CONST",
+      "section": "__const",
+      "address": "0x100112260",
+      "dylib": "0",
+      "kind": "bind"
+    },
+    {
+      "mangled": "_$ss10SetAlgebraP8containsySb7ElementQzFTq",
+      "demangled": "[Swift 5 Symbol] _$ss10SetAlgebraP8containsySb7ElementQzFTq",
+      "segment": "__DATA_CONST",
+      "section": "__const",
+      "address": "0x1001121F0",
+      "dylib": "0",
+      "kind": "bind"
+    },
+    {
+      "mangled": "_$ss10SetAlgebraP8isSubset2ofSbx_tFTq",
+      "demangled": "[Swift 5 Symbol] _$ss10SetAlgebraP8isSubset2ofSbx_tFTq",
+      "segment": "__DATA_CONST",
+      "section": "__const",
+      "address": "0x100112248",
+      "dylib": "0",
+      "kind": "bind"
+    },
+    {
+      "mangled": "_$ss10SetAlgebraP8subtractyyxFTq",
+      "demangled": "[Swift 5 Symbol] _$ss10SetAlgebraP8subtractyyxFTq",
+      "segment": "__DATA_CONST",
+      "section": "__const",
+      "address": "0x100112270",
+      "dylib": "0",
+      "kind": "bind"
+    },
+    {
+      "mangled": "_$ss10SetAlgebraP9formUnionyyxnFTq",
+      "demangled": "[Swift 5 Symbol] _$ss10SetAlgebraP9formUnionyyxnFTq",
+      "segment": "__DATA_CONST",
+      "section": "__const",
+      "address": "0x100112228",
+      "dylib": "0",
+      "kind": "bind"
+    },
+    {
+      "mangled": "_$ss10SetAlgebraPSQTb",
+      "demangled": "[Swift 5 Symbol] _$ss10SetAlgebraPSQTb",
+      "segment": "__DATA_CONST",
+      "section": "__const",
+      "address": "0x1001121D0",
+      "dylib": "0",
+      "kind": "bind"
+    },
+    {
+      "mangled": "_$ss10SetAlgebraPs25ExpressibleByArrayLiteralTb",
+      "demangled": "[Swift 5 Symbol] _$ss10SetAlgebraPs25ExpressibleByArrayLiteralTb",
+      "segment": "__DATA_CONST",
+      "section": "__const",
+      "address": "0x1001121D8",
+      "dylib": "0",
+      "kind": "bind"
+    },
+    {
+      "mangled": "_$ss10SetAlgebraPxycfCTq",
+      "demangled": "[Swift 5 Symbol] _$ss10SetAlgebraPxycfCTq",
+      "segment": "__DATA_CONST",
+      "section": "__const",
+      "address": "0x1001121E8",
+      "dylib": "0",
+      "kind": "bind"
+    },
+    {
+      "mangled": "_$ss10SetAlgebraPyxqd__ncSTRd__7ElementQyd__ACRtzlufCTq",
+      "demangled": "[Swift 5 Symbol] _$ss10SetAlgebraPyxqd__ncSTRd__7ElementQyd__ACRtzlufCTq",
+      "segment": "__DATA_CONST",
+      "section": "__const",
+      "address": "0x100112268",
+      "dylib": "0",
+      "kind": "bind"
+    },
+    {
+      "mangled": "_$ss18_DictionaryStorageCMn",
+      "demangled": "[Swift 5 Symbol] _$ss18_DictionaryStorageCMn",
+      "segment": "__DATA_CONST",
+      "section": "__got",
+      "address": "0x10010C0B0",
+      "dylib": "0",
+      "kind": "bind"
+    },
+    {
+      "mangled": "_$ss20_SwiftNewtypeWrapperMp",
+      "demangled": "[Swift 5 Symbol] _$ss20_SwiftNewtypeWrapperMp",
+      "segment": "__DATA_CONST",
+      "section": "__const",
+      "address": "0x1001122A8",
+      "dylib": "0",
+      "kind": "bind"
+    },
+    {
+      "mangled": "_$ss20_SwiftNewtypeWrapperPSYTb",
+      "demangled": "[Swift 5 Symbol] _$ss20_SwiftNewtypeWrapperPSYTb",
+      "segment": "__DATA_CONST",
+      "section": "__const",
+      "address": "0x1001122B0",
+      "dylib": "0",
+      "kind": "bind"
+    },
+    {
+      "mangled": "_$ss20_SwiftNewtypeWrapperPs35_HasCustomAnyHashableRepresentationTb",
+      "demangled": "[Swift 5 Symbol] _$ss20_SwiftNewtypeWrapperPs35_HasCustomAnyHashableRepresentationTb",
+      "segment": "__DATA_CONST",
+      "section": "__const",
+      "address": "0x1001122B8",
+      "dylib": "0",
+      "kind": "bind"
+    },
+    {
+      "mangled": "_$ss21_ObjectiveCBridgeableMp",
+      "demangled": "[Swift 5 Symbol] _$ss21_ObjectiveCBridgeableMp",
+      "segment": "__DATA_CONST",
+      "section": "__const",
+      "address": "0x1001122C0",
+      "dylib": "0",
+      "kind": "bind"
+    },
+    {
+      "mangled": "_$ss21_ObjectiveCBridgeableP016_forceBridgeFromA1C_6resulty01_A5CTypeQz_xSgztFZTq",
+      "demangled": "[Swift 5 Symbol] _$ss21_ObjectiveCBridgeableP016_forceBridgeFromA1C_6resulty01_A5CTypeQz_xSgztFZTq",
+      "segment": "__DATA_CONST",
+      "section": "__const",
+      "address": "0x1001122D8",
+      "dylib": "0",
+      "kind": "bind"
+    },
+    {
+      "mangled": "_$ss21_ObjectiveCBridgeableP024_conditionallyBridgeFromA1C_6resultSb01_A5CTypeQz_xSgztFZTq",
+      "demangled": "[Swift 5 Symbol] _$ss21_ObjectiveCBridgeableP024_conditionallyBridgeFromA1C_6resultSb01_A5CTypeQz_xSgztFZTq",
+      "segment": "__DATA_CONST",
+      "section": "__const",
+      "address": "0x1001122E0",
+      "dylib": "0",
+      "kind": "bind"
+    },
+    {
+      "mangled": "_$ss21_ObjectiveCBridgeableP026_unconditionallyBridgeFromA1Cyx01_A5CTypeQzSgFZTq",
+      "demangled": "[Swift 5 Symbol] _$ss21_ObjectiveCBridgeableP026_unconditionallyBridgeFromA1Cyx01_A5CTypeQzSgFZTq",
+      "segment": "__DATA_CONST",
+      "section": "__const",
+      "address": "0x1001122E8",
+      "dylib": "0",
+      "kind": "bind"
+    },
+    {
+      "mangled": "_$ss21_ObjectiveCBridgeableP09_bridgeToA1C01_A5CTypeQzyFTq",
+      "demangled": "[Swift 5 Symbol] _$ss21_ObjectiveCBridgeableP09_bridgeToA1C01_A5CTypeQzyFTq",
+      "segment": "__DATA_CONST",
+      "section": "__const",
+      "address": "0x1001122D0",
+      "dylib": "0",
+      "kind": "bind"
+    },
+    {
+      "mangled": "_$ss23_ContiguousArrayStorageCMn",
+      "demangled": "[Swift 5 Symbol] _$ss23_ContiguousArrayStorageCMn",
+      "segment": "__DATA_CONST",
+      "section": "__got",
+      "address": "0x10010C0B8",
+      "dylib": "0",
+      "kind": "bind"
+    },
+    {
+      "mangled": "_$ss25ExpressibleByArrayLiteralMp",
+      "demangled": "[Swift 5 Symbol] _$ss25ExpressibleByArrayLiteralMp",
+      "segment": "__DATA_CONST",
+      "section": "__const",
+      "address": "0x100112180",
+      "dylib": "0",
+      "kind": "bind"
+    },
+    {
+      "mangled": "_$ss25ExpressibleByArrayLiteralP05arrayD0x0cD7ElementQzd_tcfCTq",
+      "demangled": "[Swift 5 Symbol] _$ss25ExpressibleByArrayLiteralP05arrayD0x0cD7ElementQzd_tcfCTq",
+      "segment": "__DATA_CONST",
+      "section": "__const",
+      "address": "0x100112190",
+      "dylib": "0",
+      "kind": "bind"
+    },
+    {
+      "mangled": "_$ss26DefaultStringInterpolationVN",
+      "demangled": "[Swift 5 Symbol] _$ss26DefaultStringInterpolationVN",
+      "segment": "__DATA_CONST",
+      "section": "__got",
+      "address": "0x10010C0C0",
+      "dylib": "0",
+      "kind": "bind"
+    },
+    {
+      "mangled": "_$ss26DefaultStringInterpolationVs16TextOutputStreamsWP",
+      "demangled": "[Swift 5 Symbol] _$ss26DefaultStringInterpolationVs16TextOutputStreamsWP",
+      "segment": "__DATA_CONST",
+      "section": "__got",
+      "address": "0x10010C0C8",
+      "dylib": "0",
+      "kind": "bind"
+    },
+    {
+      "mangled": "_$ss35_HasCustomAnyHashableRepresentationMp",
+      "demangled": "[Swift 5 Symbol] _$ss35_HasCustomAnyHashableRepresentationMp",
+      "segment": "__DATA_CONST",
+      "section": "__const",
+      "address": "0x100112298",
+      "dylib": "0",
+      "kind": "bind"
+    },
+    {
+      "mangled": "_$ss35_HasCustomAnyHashableRepresentationP03_tobcD0s0cD0VSgyFTq",
+      "demangled": "[Swift 5 Symbol] _$ss35_HasCustomAnyHashableRepresentationP03_tobcD0s0cD0VSgyFTq",
+      "segment": "__DATA_CONST",
+      "section": "__const",
+      "address": "0x1001122A0",
+      "dylib": "0",
+      "kind": "bind"
+    },
+    {
+      "mangled": "_$ss5ErrorMp",
+      "demangled": "[Swift 5 Symbol] _$ss5ErrorMp",
+      "segment": "__DATA_CONST",
+      "section": "__got",
+      "address": "0x10010C0D0",
+      "dylib": "0",
+      "kind": "bind"
+    },
+    {
+      "mangled": "_$ss5Int16VMn",
+      "demangled": "[Swift 5 Symbol] _$ss5Int16VMn",
+      "segment": "__DATA_CONST",
+      "section": "__got",
+      "address": "0x10010C0D8",
+      "dylib": "0",
+      "kind": "bind"
+    },
+    {
+      "mangled": "_$ss5SIMD2VMn",
+      "demangled": "[Swift 5 Symbol] _$ss5SIMD2VMn",
+      "segment": "__DATA_CONST",
+      "section": "__got",
+      "address": "0x10010C0E0",
+      "dylib": "0",
+      "kind": "bind"
+    },
+    {
+      "mangled": "_$ss5SIMD3VMn",
+      "demangled": "[Swift 5 Symbol] _$ss5SIMD3VMn",
+      "segment": "__DATA_CONST",
+      "section": "__got",
+      "address": "0x10010C0E8",
+      "dylib": "0",
+      "kind": "bind"
+    },
+    {
+      "mangled": "_$ss5SIMD4VMn",
+      "demangled": "[Swift 5 Symbol] _$ss5SIMD4VMn",
+      "segment": "__DATA_CONST",
+      "section": "__got",
+      "address": "0x10010C0F0",
+      "dylib": "0",
+      "kind": "bind"
+    },
+    {
+      "mangled": "_$ss6UInt16VMn",
+      "demangled": "[Swift 5 Symbol] _$ss6UInt16VMn",
+      "segment": "__DATA_CONST",
+      "section": "__got",
+      "address": "0x10010C0F8",
+      "dylib": "0",
+      "kind": "bind"
+    },
+    {
+      "mangled": "_$ss6UInt32VMn",
+      "demangled": "[Swift 5 Symbol] _$ss6UInt32VMn",
+      "segment": "__DATA_CONST",
+      "section": "__got",
+      "address": "0x10010C100",
+      "dylib": "0",
+      "kind": "bind"
+    },
+    {
+      "mangled": "_$ss9OptionSetMp",
+      "demangled": "[Swift 5 Symbol] _$ss9OptionSetMp",
+      "segment": "__DATA_CONST",
+      "section": "__const",
+      "address": "0x100112278",
+      "dylib": "0",
+      "kind": "bind"
+    },
+    {
+      "mangled": "_$ss9OptionSetP8rawValuex03RawD0Qz_tcfCTq",
+      "demangled": "[Swift 5 Symbol] _$ss9OptionSetP8rawValuex03RawD0Qz_tcfCTq",
+      "segment": "__DATA_CONST",
+      "section": "__const",
+      "address": "0x100112290",
+      "dylib": "0",
+      "kind": "bind"
+    },
+    {
+      "mangled": "_$ss9OptionSetPSYTb",
+      "demangled": "[Swift 5 Symbol] _$ss9OptionSetPSYTb",
+      "segment": "__DATA_CONST",
+      "section": "__const",
+      "address": "0x100112280",
+      "dylib": "0",
+      "kind": "bind"
+    },
+    {
+      "mangled": "_$ss9OptionSetPs0B7AlgebraTb",
+      "demangled": "[Swift 5 Symbol] _$ss9OptionSetPs0B7AlgebraTb",
+      "segment": "__DATA_CONST",
+      "section": "__const",
+      "address": "0x100112288",
+      "dylib": "0",
+      "kind": "bind"
+    },
+    {
+      "mangled": "_$sypN",
+      "demangled": "[Swift 5 Symbol] _$sypN",
+      "segment": "__DATA_CONST",
+      "section": "__got",
+      "address": "0x10010C108",
+      "dylib": "0",
+      "kind": "bind"
+    },
+    {
+      "mangled": "_$sytWV",
+      "demangled": "[Swift 5 Symbol] _$sytWV",
+      "segment": "__DATA_CONST",
+      "section": "__const",
+      "address": "0x100112398",
+      "dylib": "0",
+      "kind": "bind"
+    },
+    {
+      "mangled": "_$sytWV",
+      "demangled": "[Swift 5 Symbol] _$sytWV",
+      "segment": "__DATA_CONST",
+      "section": "__const",
+      "address": "0x1001124C0",
+      "dylib": "0",
+      "kind": "bind"
+    },
+    {
+      "mangled": "_OBJC_CLASS_$__TtCs12_SwiftObject",
+      "demangled": "_OBJC_CLASS_$__TtCs12_SwiftObject",
+      "segment": "__DATA",
+      "section": "__data",
+      "address": "0x100155C28",
+      "dylib": "0",
+      "kind": "bind"
+    },
+    {
+      "mangled": "_OBJC_CLASS_$__TtCs12_SwiftObject",
+      "demangled": "_OBJC_CLASS_$__TtCs12_SwiftObject",
+      "segment": "__DATA",
+      "section": "__data",
+      "address": "0x100155DE0",
+      "dylib": "0",
+      "kind": "bind"
+    },
+    {
+      "mangled": "_OBJC_CLASS_$__TtCs12_SwiftObject",
+      "demangled": "_OBJC_CLASS_$__TtCs12_SwiftObject",
+      "segment": "__DATA",
+      "section": "__data",
+      "address": "0x1001560D0",
+      "dylib": "0",
+      "kind": "bind"
+    },
+    {
+      "mangled": "_OBJC_METACLASS_$__TtCs12_SwiftObject",
+      "demangled": "_OBJC_METACLASS_$__TtCs12_SwiftObject",
+      "segment": "__DATA",
+      "section": "__data",
+      "address": "0x100155BE0",
+      "dylib": "0",
+      "kind": "bind"
+    },
+    {
+      "mangled": "_OBJC_METACLASS_$__TtCs12_SwiftObject",
+      "demangled": "_OBJC_METACLASS_$__TtCs12_SwiftObject",
+      "segment": "__DATA",
+      "section": "__data",
+      "address": "0x100155BE8",
+      "dylib": "0",
+      "kind": "bind"
+    },
+    {
+      "mangled": "_OBJC_METACLASS_$__TtCs12_SwiftObject",
+      "demangled": "_OBJC_METACLASS_$__TtCs12_SwiftObject",
+      "segment": "__DATA",
+      "section": "__data",
+      "address": "0x100155D98",
+      "dylib": "0",
+      "kind": "bind"
+    },
+    {
+      "mangled": "_OBJC_METACLASS_$__TtCs12_SwiftObject",
+      "demangled": "_OBJC_METACLASS_$__TtCs12_SwiftObject",
+      "segment": "__DATA",
+      "section": "__data",
+      "address": "0x100155DA0",
+      "dylib": "0",
+      "kind": "bind"
+    },
+    {
+      "mangled": "_OBJC_METACLASS_$__TtCs12_SwiftObject",
+      "demangled": "_OBJC_METACLASS_$__TtCs12_SwiftObject",
+      "segment": "__DATA",
+      "section": "__data",
+      "address": "0x100156088",
+      "dylib": "0",
+      "kind": "bind"
+    },
+    {
+      "mangled": "_OBJC_METACLASS_$__TtCs12_SwiftObject",
+      "demangled": "_OBJC_METACLASS_$__TtCs12_SwiftObject",
+      "segment": "__DATA",
+      "section": "__data",
+      "address": "0x100156090",
+      "dylib": "0",
+      "kind": "bind"
+    },
+    {
+      "mangled": "_$s12CoreGraphics7CGFloatVMn",
+      "demangled": "[Swift 5 Symbol] _$s12CoreGraphics7CGFloatVMn",
+      "segment": "__DATA_CONST",
+      "section": "__got",
+      "address": "0x10010C000",
+      "dylib": "0",
+      "kind": "bind"
+    },
+    {
+      "mangled": "_$s12CoreGraphics7CGFloatVN",
+      "demangled": "[Swift 5 Symbol] _$s12CoreGraphics7CGFloatVN",
+      "segment": "__DATA_CONST",
+      "section": "__got",
+      "address": "0x10010C008",
+      "dylib": "0",
+      "kind": "bind"
+    },
+    {
+      "mangled": "_$s8Dispatch0A13WorkItemFlagsVMn",
+      "demangled": "[Swift 5 Symbol] _$s8Dispatch0A13WorkItemFlagsVMn",
+      "segment": "__DATA_CONST",
+      "section": "__got",
+      "address": "0x10010C048",
+      "dylib": "0",
+      "kind": "bind"
+    },
+    {
+      "mangled": "_$s8Dispatch0A13WorkItemFlagsVs10SetAlgebraAAMc",
+      "demangled": "[Swift 5 Symbol] _$s8Dispatch0A13WorkItemFlagsVs10SetAlgebraAAMc",
+      "segment": "__DATA_CONST",
+      "section": "__got",
+      "address": "0x10010C050",
+      "dylib": "0",
+      "kind": "bind"
+    },
+    {
+      "mangled": "_$sSS10FoundationE19_bridgeToObjectiveCSo8NSStringCyF",
+      "demangled": "Swift.String._bridgeToObjectiveC() -> NSString",
+      "segment": "__DATA_CONST",
+      "section": "__got",
+      "address": "0x10010C058",
+      "dylib": "0",
+      "kind": "bind"
+    },
+    {
+      "mangled": "_$s10Foundation22_convertNSErrorToErrorys0E0_pSo0C0CSgF",
+      "demangled": "Foundation._convertNSErrorToError(NSError?) -> Error",
+      "segment": "__DATA",
+      "section": "__la_symbol_ptr",
+      "address": "0x10011C000",
+      "dylib": "_$s10Foundation22_convertNSErrorToErrorys0E0_pSo0C0CSgF",
+      "kind": "lazy-bind"
+    },
+    {
+      "mangled": "_$s2os0A4_log_3dso0B0__ySo0a1_B7_type_ta_SVSo03OS_a1_B0Cs12StaticStringVs7CVarArg_pdtF",
+      "demangled": "os.os_log(_:type:dso:log:_:args:)",
+      "segment": "__DATA",
+      "section": "__la_symbol_ptr",
+      "address": "0x10011C008",
+      "dylib": "_$s2os0A4_log_3dso0B0__ySo0a1_B7_type_ta_SVSo03OS_a1_B0Cs12StaticStringVs7CVarArg_pdtF",
+      "kind": "lazy-bind"
+    },
+    {
+      "mangled": "_$s8Dispatch0A13WorkItemFlagsVMa",
+      "demangled": "Dispatch.DispatchWorkItemFlags.type_metadata_accessor",
+      "segment": "__DATA",
+      "section": "__la_symbol_ptr",
+      "address": "0x10011C010",
+      "dylib": "_$s8Dispatch0A13WorkItemFlagsVMa",
+      "kind": "lazy-bind"
+    },
+    {
+      "mangled": "_$s8Dispatch0A3QoSV11unspecifiedACvgZ",
+      "demangled": "static Dispatch.DispatchQoS.unspecified.getter : Dispatch.DispatchQoS",
+      "segment": "__DATA",
+      "section": "__la_symbol_ptr",
+      "address": "0x10011C018",
+      "dylib": "_$s8Dispatch0A3QoSV11unspecifiedACvgZ",
+      "kind": "lazy-bind"
+    },
+    {
+      "mangled": "_$s8Dispatch0A3QoSVMa",
+      "demangled": "Dispatch.DispatchQoS.type_metadata_accessor",
+      "segment": "__DATA",
+      "section": "__la_symbol_ptr",
+      "address": "0x10011C020",
+      "dylib": "_$s8Dispatch0A3QoSVMa",
+      "kind": "lazy-bind"
+    },
+    {
+      "mangled": "_$sSD10FoundationE19_bridgeToObjectiveCSo12NSDictionaryCyF",
+      "demangled": "Swift.Dictionary._bridgeToObjectiveC() -> NSDictionary",
+      "segment": "__DATA",
+      "section": "__la_symbol_ptr",
+      "address": "0x10011C028",
+      "dylib": "_$sSD10FoundationE19_bridgeToObjectiveCSo12NSDictionaryCyF",
+      "kind": "lazy-bind"
+    },
+    {
+      "mangled": "_$sSS10FoundationE19_bridgeToObjectiveCSo8NSStringCyF",
+      "demangled": "Swift.String._bridgeToObjectiveC() -> NSString",
+      "segment": "__DATA",
+      "section": "__la_symbol_ptr",
+      "address": "0x10011C030",
+      "dylib": "_$sSS10FoundationE19_bridgeToObjectiveCSo8NSStringCyF",
+      "kind": "lazy-bind"
+    },
+    {
+      "mangled": "_$sSS10FoundationE26_forceBridgeFromObjectiveC_6resultySo8NSStringC_SSSgztFZ",
+      "demangled": "static Swift.String._forceBridgeFromObjectiveC(NSString, result: inout String?)",
+      "segment": "__DATA",
+      "section": "__la_symbol_ptr",
+      "address": "0x10011C038",
+      "dylib": "_$sSS10FoundationE26_forceBridgeFromObjectiveC_6resultySo8NSStringC_SSSgztFZ",
+      "kind": "lazy-bind"
+    },
+    {
+      "mangled": "_$sSS10FoundationE34_conditionallyBridgeFromObjectiveC_6resultSbSo8NSStringC_SSSgztFZ",
+      "demangled": "static Swift.String._conditionallyBridgeFromObjectiveC(NSString, result: inout String?) -> Bool",
+      "segment": "__DATA",
+      "section": "__la_symbol_ptr",
+      "address": "0x10011C040",
+      "dylib": "_$sSS10FoundationE34_conditionallyBridgeFromObjectiveC_6resultSbSo8NSStringC_SSSgztFZ",
+      "kind": "lazy-bind"
+    },
+    {
+      "mangled": "_$sSS10FoundationE36_unconditionallyBridgeFromObjectiveCySSSo8NSStringCSgFZ",
+      "demangled": "static Swift.String._unconditionallyBridgeFromObjectiveC(NSString?) -> String",
+      "segment": "__DATA",
+      "section": "__la_symbol_ptr",
+      "address": "0x10011C048",
+      "dylib": "_$sSS10FoundationE36_unconditionallyBridgeFromObjectiveCySSSo8NSStringCSgFZ",
+      "kind": "lazy-bind"
+    },
+    {
+      "mangled": "_$sSS4hash4intoys6HasherVz_tF",
+      "demangled": "Swift.String.hash(into: inout Hasher)",
+      "segment": "__DATA",
+      "section": "__la_symbol_ptr",
+      "address": "0x10011C050",
+      "dylib": "_$sSS4hash4intoys6HasherVz_tF",
+      "kind": "lazy-bind"
+    },
+    {
+      "mangled": "_$sSS5write2toyxz_ts16TextOutputStreamRzlF",
+      "demangled": "Swift.String.write<Target>(to: inout Target) where Target : TextOutputStream",
+      "segment": "__DATA",
+      "section": "__la_symbol_ptr",
+      "address": "0x10011C058",
+      "dylib": "_$sSS5write2toyxz_ts16TextOutputStreamRzlF",
+      "kind": "lazy-bind"
+    },
+    {
+      "mangled": "_$sSa28_allocateBufferUninitialized15minimumCapacitys06_ArrayB0VyxGSi_tFZ",
+      "demangled": "static Swift.Array._allocateBufferUninitialized(minimumCapacity: Int)",
+      "segment": "__DATA",
+      "section": "__la_symbol_ptr",
+      "address": "0x10011C060",
+      "dylib": "_$sSa28_allocateBufferUninitialized15minimumCapacitys06_ArrayB0VyxGSi_tFZ",
+      "kind": "lazy-bind"
+    },
+    {
+      "mangled": "_$sSd8exponentSivg",
+      "demangled": "Swift.Double.exponent.getter : Int",
+      "segment": "__DATA",
+      "section": "__la_symbol_ptr",
+      "address": "0x10011C068",
+      "dylib": "_$sSd8exponentSivg",
+      "kind": "lazy-bind"
+    },
+    {
+      "mangled": "_$sSo13os_log_type_ta0A0E4infoABvgZ",
+      "demangled": "static os.os_log_type_t.info.getter",
+      "segment": "__DATA",
+      "section": "__la_symbol_ptr",
+      "address": "0x10011C070",
+      "dylib": "_$sSo13os_log_type_ta0A0E4infoABvgZ",
+      "kind": "lazy-bind"
+    },
+    {
+      "mangled": "_$sSo13os_log_type_ta0A0E5errorABvgZ",
+      "demangled": "static os.os_log_type_t.error.getter",
+      "segment": "__DATA",
+      "section": "__la_symbol_ptr",
+      "address": "0x10011C078",
+      "dylib": "_$sSo13os_log_type_ta0A0E5errorABvgZ",
+      "kind": "lazy-bind"
+    },
+    {
+      "mangled": "_$sSo13simd_float4x4a0A0EyABSfcfC",
+      "demangled": "simd.simd_float4x4.init(_: Float)",
+      "segment": "__DATA",
+      "section": "__la_symbol_ptr",
+      "address": "0x10011C080",
+      "dylib": "_$sSo13simd_float4x4a0A0EyABSfcfC",
+      "kind": "lazy-bind"
+    },
+    {
+      "mangled": "_$sSo13simd_float4x4a0A0EyABs5SIMD4VySfG_A3FtcfC",
+      "demangled": "simd.simd_float4x4.init(_:SIMD4<Float>, _:SIMD4<Float>, _:SIMD4<Float>, _:SIMD4<Float>)",
+      "segment": "__DATA",
+      "section": "__la_symbol_ptr",
+      "address": "0x10011C088",
+      "dylib": "_$sSo13simd_float4x4a0A0EyABs5SIMD4VySfG_A3FtcfC",
+      "kind": "lazy-bind"
+    },
+    {
+      "mangled": "_$sSo17OS_dispatch_queueC8DispatchE4mainABvgZ",
+      "demangled": "static Dispatch.DispatchQueue.main.getter : Dispatch.DispatchQueue",
+      "segment": "__DATA",
+      "section": "__la_symbol_ptr",
+      "address": "0x10011C090",
+      "dylib": "_$sSo17OS_dispatch_queueC8DispatchE4mainABvgZ",
+      "kind": "lazy-bind"
+    },
+    {
+      "mangled": "_$sSo17OS_dispatch_queueC8DispatchE5async5group3qos5flags7executeySo0a1_b1_F0CSg_AC0D3QoSVAC0D13WorkItemFlagsVyyXBtF",
+      "demangled": "Dispatch.DispatchQueue.async(group:qos:flags:execute:)",
+      "segment": "__DATA",
+      "section": "__la_symbol_ptr",
+      "address": "0x10011C098",
+      "dylib": "_$sSo17OS_dispatch_queueC8DispatchE5async5group3qos5flags7executeySo0a1_b1_F0CSg_AC0D3QoSVAC0D13WorkItemFlagsVyyXBtF",
+      "kind": "lazy-bind"
+    },
+    {
+      "mangled": "_$sSo9OS_os_logC0B0E7defaultABvgZ",
+      "demangled": "static os.OS_os_log.default.getter",
+      "segment": "__DATA",
+      "section": "__la_symbol_ptr",
+      "address": "0x10011C0A0",
+      "dylib": "_$sSo9OS_os_logC0B0E7defaultABvgZ",
+      "kind": "lazy-bind"
+    },
+    {
+      "mangled": "_$sSqMa",
+      "demangled": "Swift.Optional.type_metadata_accessor",
+      "segment": "__DATA",
+      "section": "__la_symbol_ptr",
+      "address": "0x10011C0A8",
+      "dylib": "_$sSqMa",
+      "kind": "lazy-bind"
+    },
+    {
+      "mangled": "_$ss10SetAlgebraPsEyxqd__ncSTRd__7ElementQyd__ACRtzlufC",
+      "demangled": "Swift.SetAlgebra.init<Sequence>(_ sequence: Sequence)",
+      "segment": "__DATA",
+      "section": "__la_symbol_ptr",
+      "address": "0x10011C0B0",
+      "dylib": "_$ss10SetAlgebraPsEyxqd__ncSTRd__7ElementQyd__ACRtzlufC",
+      "kind": "lazy-bind"
+    },
+    {
+      "mangled": "_$ss10SetAlgebraPyxqd__ncSTRd__7ElementQyd__ACRtzlufCTj",
+      "demangled": "Swift.SetAlgebra.init<Sequence>(_ sequence: Sequence) [dispatch_thunk]",
+      "segment": "__DATA",
+      "section": "__la_symbol_ptr",
+      "address": "0x10011C0B8",
+      "dylib": "_$ss10SetAlgebraPyxqd__ncSTRd__7ElementQyd__ACRtzlufCTj",
+      "kind": "lazy-bind"
+    },
+    {
+      "mangled": "_$ss11_StringGutsV4growyySiF",
+      "demangled": "Swift._StringGuts.grow(Int)",
+      "segment": "__DATA",
+      "section": "__la_symbol_ptr",
+      "address": "0x10011C0C0",
+      "dylib": "_$ss11_StringGutsV4growyySiF",
+      "kind": "lazy-bind"
+    },
+    {
+      "mangled": "_$ss17_assertionFailure__4file4line5flagss5NeverOs12StaticStringV_SSAHSus6UInt32VtF",
+      "demangled": "Swift._assertionFailure(_:StaticString, _:String, file:StaticString, line:UInt, flags:UInt32) -> Never",
+      "segment": "__DATA",
+      "section": "__la_symbol_ptr",
+      "address": "0x10011C0C8",
+      "dylib": "_$ss17_assertionFailure__4file4line5flagss5NeverOs12StaticStringV_SSAHSus6UInt32VtF",
+      "kind": "lazy-bind"
+    },
+    {
+      "mangled": "_$ss18_DictionaryStorageC8allocate8capacityAByxq_GSi_tFZ",
+      "demangled": "static Swift._DictionaryStorage.allocate(capacity: Int)",
+      "segment": "__DATA",
+      "section": "__la_symbol_ptr",
+      "address": "0x10011C0D0",
+      "dylib": "_$ss18_DictionaryStorageC8allocate8capacityAByxq_GSi_tFZ",
+      "kind": "lazy-bind"
+    },
+    {
+      "mangled": "_$ss20_SwiftNewtypeWrapperPsSHRzSH8RawValueSYRpzrlE20_toCustomAnyHashables0hI0VSgyF",
+      "demangled": "Swift._SwiftNewtypeWrapper._toCustomAnyHashable() -> AnyHashable?",
+      "segment": "__DATA",
+      "section": "__la_symbol_ptr",
+      "address": "0x10011C0D8",
+      "dylib": "_$ss20_SwiftNewtypeWrapperPsSHRzSH8RawValueSYRpzrlE20_toCustomAnyHashables0hI0VSgyF",
+      "kind": "lazy-bind"
+    },
+    {
+      "mangled": "_$ss27_stringCompareWithSmolCheck__9expectingSbs11_StringGutsV_ADs01_G16ComparisonResultOtF",
+      "demangled": "Swift._stringCompareWithSmolCheck(_:_:) -> Bool",
+      "segment": "__DATA",
+      "section": "__la_symbol_ptr",
+      "address": "0x10011C0E0",
+      "dylib": "_$ss27_stringCompareWithSmolCheck__9expectingSbs11_StringGutsV_ADs01_G16ComparisonResultOtF",
+      "kind": "lazy-bind"
+    },
+    {
+      "mangled": "_$ss5print_9separator10terminatoryypd_S2StF",
+      "demangled": "Swift.print(_:separator:terminator:)",
+      "segment": "__DATA",
+      "section": "__la_symbol_ptr",
+      "address": "0x10011C0E8",
+      "dylib": "_$ss5print_9separator10terminatoryypd_S2StF",
+      "kind": "lazy-bind"
+    },
+    {
+      "mangled": "_$ss6HasherV5_seedABSi_tcfC",
+      "demangled": "Swift.Hasher.init(_seed: Int)",
+      "segment": "__DATA",
+      "section": "__la_symbol_ptr",
+      "address": "0x10011C0F0",
+      "dylib": "_$ss6HasherV5_seedABSi_tcfC",
+      "kind": "lazy-bind"
+    },
+    {
+      "mangled": "_$ss6HasherV9_finalizeSiyF",
+      "demangled": "Swift.Hasher.finalize() -> Int",
+      "segment": "__DATA",
+      "section": "__la_symbol_ptr",
+      "address": "0x10011C0F8",
+      "dylib": "_$ss6HasherV9_finalizeSiyF",
+      "kind": "lazy-bind"
+    }
+  ]
+}

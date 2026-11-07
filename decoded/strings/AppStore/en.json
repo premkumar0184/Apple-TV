@@ -1,0 +1,43 @@
+{
+  "Localizable": {
+    "ONBOARDING_TV_SPLASH_PICKER_ARCADE": "Apple Arcade",
+    "OFFER_BUTTON_TITLE_BUY": "Buy",
+    "INFO_LIST_REQUIREMENTS_SUMMARY": "Works on this {deviceName}",
+    "PREORDER_TERMS_FREE": "This content may change without notice, and the final product may be different.\n\nTo view or cancel your pre-orders on iPhone or iPad, go to Account Settings in the App Store. On a Mac or PC, use the Mac App Store or iTunes.",
+    "OFFER_BUTTON_TITLE_ARCADE_TRY": "Try It Free",
+    "OFFER_BUTTON_TITLE_BUY_WITH_PRICE": "Buy {price}",
+    "OFFER_BUTTON_TITLE_PREORDER_WITH_PRICE": "Pre-Order {price}",
+    "BADGE_MFI_REQUIRED_HEADING": "Controller Required",
+    "OFFERS_IN_APP_PURCHASES": "Offers In-App Purchases",
+    "OFFER_BUTTON_TITLE_ARCADE_OPEN": "Play Game",
+    "SEARCH_PLACEHOLDER": "Search",
+    "MORE_INFORMATION": "More Information",
+    "ONBOARDING_TV_ARCADE_TITLE": "Welcome to Apple Arcade",
+    "ONBOARDING_TV_SPLASH_PICKER_DESCRIPTION": "Apple Services are designed to protect your information and enable you to choose what you share.",
+    "ARCADE_WELCOME_TV_DEVICES_PRE_MACOS_BODY": "Play on your iPhone, iPad, Mac, and Apple TV. Coming later this fall.",
+    "INLINE_IN_APP_PURCHASES": "In-App Purchases",
+    "ONBOARDING_TV_ARCADE_DESCRIPTION": "Play 100+ extraordinary games with one subscription. No ads or additional purchases.",
+    "VERSION_STRING": "Version",
+    "ONBOARDING_TV_UNIFIED_APP_STORE_HEADING": "New to the App Store",
+    "PURCHASES_RESTRICTED_DESCRIPTION": "Purchases are restricted on this Apple TV. To change the restrictions, go to Settings.",
+    "ONBOARDING_TV_UNIFIED_APP_STORE_DESCRIPTION": "Play 100+ extraordinary games with one subscription. No ads or additional purchases.",
+    "OFFER_BUTTON_TITLE_ARCADE_NOT_SUBSCRIBED": "Start Playing",
+    "PREORDER_TERMS_PAID": "This content may change without notice, and the final product may be different.\n\nYou won’t be charged until the day this app is released. To view or cancel your pre-orders on iPhone or iPad, go to Account Settings in the App Store. On a Mac or PC, use the Mac App Store or iTunes.",
+    "ONBOARDING_TV_APP_STORE_DESCRIPTION": "Your Apple TV is an incredible platform for great apps and games, and the App Store is the place to find them.",
+    "OFFER_BUTTON_TITLE_OPEN": "Open",
+    "PRODUCT_SECTION_TEXT_CARDS": "About",
+    "OFFER_BUTTON_TITLE_PREORDER": "Pre-Order",
+    "VERSION_STRING_WITH_RELEASE_DATE": "{version}—Released {date}",
+    "ONBOARDING_TV_SPLASH_PICKER_APP_STORE": "App Store",
+    "PURCHASES_RESTRICTED_TITLE": "App Purchases Restricted",
+    "ONBOARDING_TV_APP_STORE_TITLE": "Welcome to the App Store",
+    "ONBOARDING_TV_SPLASH_PICKER_TITLE": "Privacy",
+    "BADGE_MFI_HEADING": "Controller Optional",
+    "OFFER_BUTTON_TITLE_ARCADE_STANDARD": "Get",
+    "OFFER_BUTTON_TITLE_GET": "Get",
+    "PRODUCT_DESCRIPTION_HEADER": "{title}—{subtitle}"
+  },
+  "InfoPlist": {
+    "CFBundleDisplayName": "App Store"
+  }
+}

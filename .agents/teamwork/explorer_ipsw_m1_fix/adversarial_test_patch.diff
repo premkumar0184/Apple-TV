@@ -1,0 +1,27 @@
+--- a/tests/test_ipsw_m1_adversarial.py
++++ b/tests/test_ipsw_m1_adversarial.py
+@@ -267,7 +267,7 @@
+     def test_03_audit_absolute_host_symlink_anti_pattern(self):
+-        """Audit symlinks for host-absolute paths (/home/prem/...). Document 6 legacy HFS symlinks."""
++        """Audit symlinks to verify zero host-absolute paths (/home/prem/...) remain."""
+         host_absolute_links = []
+         for name, root_path in self.RAMDISKS.items():
+             for root, dirs, files in os.walk(root_path, followlinks=False):
+                 for item in dirs + files:
+                     p = os.path.join(root, item)
+                     if os.path.islink(p):
+                         target = os.readlink(p)
+-                        if target.startswith("/home/prem"):
++                        if target.startswith("/home/prem") or os.path.isabs(target):
+                             host_absolute_links.append((name, os.path.relpath(p, root_path), target))
+ 
+-        # We document that exactly 6 symlinks (3 in erase, 3 in update: mount_hfs, fsck_hfs, newfs_hfs)
+-        # contain absolute paths, which represents a non-relocatable pattern.
++        # Verify that all symlinks use relative paths, ensuring full filesystem relocatability.
+         self.assertEqual(
+             len(host_absolute_links),
+-            6,
+-            f"Expected exactly 6 legacy absolute symlinks, found {len(host_absolute_links)}: {host_absolute_links}",
++            0,
++            f"Expected 0 legacy absolute symlinks, found {len(host_absolute_links)}: {host_absolute_links}",
+         )

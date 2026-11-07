@@ -1,0 +1,43 @@
+{
+  "Localizable": {
+    "ONBOARDING_TV_SPLASH_PICKER_ARCADE": "Apple Arcade",
+    "OFFER_BUTTON_TITLE_BUY": "Comprar",
+    "INFO_LIST_REQUIREMENTS_SUMMARY": "Esta {deviceName}",
+    "PREORDER_TERMS_FREE": "Este conteúdo pode mudar sem aviso e o produto final pode ser diferente.\n\nPara visualizar ou cancelar encomendas em um iPhone ou iPad, visite a página de Ajustes da Conta na App Store. Em um Mac ou PC, use a Mac App Store ou o iTunes.",
+    "OFFER_BUTTON_TITLE_ARCADE_TRY": "Testar Grátis",
+    "OFFER_BUTTON_TITLE_BUY_WITH_PRICE": "Comprar {price}",
+    "OFFER_BUTTON_TITLE_PREORDER_WITH_PRICE": "Encomendar {price}",
+    "BADGE_MFI_REQUIRED_HEADING": "Requer Controle",
+    "OFFERS_IN_APP_PURCHASES": "Com Compras Dentro do App",
+    "OFFER_BUTTON_TITLE_ARCADE_OPEN": "Jogar",
+    "SEARCH_PLACEHOLDER": "Buscar",
+    "MORE_INFORMATION": "Mais Informações",
+    "ONBOARDING_TV_ARCADE_TITLE": "Apple Arcade",
+    "ONBOARDING_TV_SPLASH_PICKER_DESCRIPTION": "Os Serviços da Apple são projetados para proteger as suas informações e permitir que você escolha os dados que compartilha.",
+    "ARCADE_WELCOME_TV_DEVICES_PRE_MACOS_BODY": "Jogue no seu iPhone, iPad, Mac e Apple TV. Disponível na primavera.",
+    "INLINE_IN_APP_PURCHASES": "Compras Dentro do App",
+    "ONBOARDING_TV_ARCADE_DESCRIPTION": "Mais de 100 jogos extraordinários com apenas uma assinatura. Sem anúncios ou compras adicionais.",
+    "VERSION_STRING": "Versão",
+    "ONBOARDING_TV_UNIFIED_APP_STORE_HEADING": "Novidades da App Store",
+    "PURCHASES_RESTRICTED_DESCRIPTION": "As compras estão restringidas nesta Apple TV. Para alterar as restrições, abra os Ajustes.",
+    "ONBOARDING_TV_UNIFIED_APP_STORE_DESCRIPTION": "Mais de 100 jogos extraordinários com apenas uma assinatura. Sem anúncios ou compras adicionais.",
+    "OFFER_BUTTON_TITLE_ARCADE_NOT_SUBSCRIBED": "Jogar",
+    "PREORDER_TERMS_PAID": "Este conteúdo pode mudar sem aviso e o produto final pode ser diferente.\n\nVocê não será cobrado até o dia do lançamento do app. Para visualizar ou cancelar encomendas em um iPhone ou iPad, visite a página de Ajustes da Conta na App Store. Em um Mac ou PC, use a Mac App Store ou o iTunes.",
+    "ONBOARDING_TV_APP_STORE_DESCRIPTION": "A Apple TV é uma plataforma incrível para ótimos apps e jogos, e a App Store é o lugar para encontrá-los.",
+    "OFFER_BUTTON_TITLE_OPEN": "Abrir",
+    "PRODUCT_SECTION_TEXT_CARDS": "Sobre",
+    "OFFER_BUTTON_TITLE_PREORDER": "Encomendar",
+    "VERSION_STRING_WITH_RELEASE_DATE": "{version}—Lançamento: {date}",
+    "ONBOARDING_TV_SPLASH_PICKER_APP_STORE": "App Store",
+    "PURCHASES_RESTRICTED_TITLE": "Compra de Apps Restringida",
+    "ONBOARDING_TV_APP_STORE_TITLE": "App Store",
+    "ONBOARDING_TV_SPLASH_PICKER_TITLE": "Privacidade",
+    "BADGE_MFI_HEADING": "Controle Opcional",
+    "OFFER_BUTTON_TITLE_ARCADE_STANDARD": "Obter",
+    "OFFER_BUTTON_TITLE_GET": "Obter",
+    "PRODUCT_DESCRIPTION_HEADER": "{title} — {subtitle}"
+  },
+  "InfoPlist": {
+    "CFBundleDisplayName": "App Store"
+  }
+}

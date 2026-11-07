@@ -1,0 +1,10 @@
+{
+  "Localizable": {
+    "PREConfirmationMessage": "Confirmes que vols restablir la configuració?\nHauràs de tornar a configurar l’Apple TV.",
+    "PREResetAllSettingsButton": "Restablir configuració",
+    "PREDialogTitle": "Mode de recuperació",
+    "PRERestartButton": "Reiniciar",
+    "PREMainMessage": "Hi ha problemes amb l’Apple TV.\nPots restablir la configuració i els comptes seleccionant “Restablir configuració”.\nPer reiniciar sense restablir, selecciona Reiniciar.",
+    "PRECancelButton": "Cancel·lar"
+  }
+}

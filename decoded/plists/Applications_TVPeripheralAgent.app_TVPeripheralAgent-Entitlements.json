@@ -1,0 +1,19 @@
+{
+  "com.apple.BTServer.allowRestrictedServices": true,
+  "com.apple.BTServer.appleMfgDataScanner": true,
+  "com.apple.BTServer.programmaticPairing": true,
+  "com.apple.BTServer.supportsPairing": true,
+  "com.apple.SystemConfiguration.SCDynamicStore-write-access": true,
+  "com.apple.appletv.pbs.bulletin-service-access": true,
+  "com.apple.appletv.pbs.diagnostic-logs-service-access": true,
+  "com.apple.bluetooth.system": true,
+  "com.apple.private.externalaccessory.showallaccessories": true,
+  "com.apple.private.hid.client.event-monitor": true,
+  "com.apple.private.security.container-required": true,
+  "com.apple.security.exception.files.absolute-path.read-only": [
+    "/private/var/preferences/SystemConfiguration/preferences.plist"
+  ],
+  "com.apple.security.exception.files.absolute-path.read-write": "/tmp/",
+  "com.apple.springboard.CFUserNotification": true,
+  "com.apple.system.diagnostics.iokit-properties": true
+}

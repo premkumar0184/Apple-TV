@@ -1,0 +1,43 @@
+{
+  "Localizable": {
+    "ONBOARDING_TV_SPLASH_PICKER_ARCADE": "Apple Arcade",
+    "OFFER_BUTTON_TITLE_BUY": "Koupit",
+    "INFO_LIST_REQUIREMENTS_SUMMARY": "Podporuje {deviceName}",
+    "PREORDER_TERMS_FREE": "Tento obsah se může bez upozornění změnit a finální verze produktu může být odlišná. Na iPhonu nebo iPadu si můžete své předobjednávky prohlédnout nebo je zrušit v Nastavení účtu v App Storu. Na Macu či PC použijte Mac App Store nebo iTunes.",
+    "OFFER_BUTTON_TITLE_ARCADE_TRY": "Vyzkoušet zdarma",
+    "OFFER_BUTTON_TITLE_BUY_WITH_PRICE": "Koupit za {price}",
+    "OFFER_BUTTON_TITLE_PREORDER_WITH_PRICE": "Předobjednat za {price}",
+    "BADGE_MFI_REQUIRED_HEADING": "Vyžaduje ovladač",
+    "OFFERS_IN_APP_PURCHASES": "Nabízí nákupy v aplikaci",
+    "OFFER_BUTTON_TITLE_ARCADE_OPEN": "Hrát hru",
+    "SEARCH_PLACEHOLDER": "Hledat",
+    "MORE_INFORMATION": "Další informace",
+    "ONBOARDING_TV_ARCADE_TITLE": "Vítá vás Apple Arcade",
+    "ONBOARDING_TV_SPLASH_PICKER_DESCRIPTION": "Služby Apple chrání vaše osobní údaje a ponechávají vám kontrolu nad tím, co sdílíte.",
+    "ARCADE_WELCOME_TV_DEVICES_PRE_MACOS_BODY": "Hrajte na iPhonu, iPadu, Macu a Apple TV. Už na podzim.",
+    "INLINE_IN_APP_PURCHASES": "Nákupy v aplikaci",
+    "ONBOARDING_TV_ARCADE_DESCRIPTION": "Za jedno předplatné si můžete zahrát přes 100 her, co stojí za to. Bez reklam a dalšího placení.",
+    "VERSION_STRING": "Verze",
+    "ONBOARDING_TV_UNIFIED_APP_STORE_HEADING": "Novinka v App Storu",
+    "PURCHASES_RESTRICTED_DESCRIPTION": "Nákupy na Apple TV jsou zablokované. Chcete‑li toto omezení změnit, přejděte do Nastavení.",
+    "ONBOARDING_TV_UNIFIED_APP_STORE_DESCRIPTION": "Za jedno předplatné si můžete zahrát přes 100 her, co stojí za to. Bez reklam a dalšího placení.",
+    "OFFER_BUTTON_TITLE_ARCADE_NOT_SUBSCRIBED": "Začít hrát",
+    "PREORDER_TERMS_PAID": "Tento obsah se může bez upozornění změnit a finální verze produktu může být odlišná.\n\nPlatba vám nebude naúčtována, dokud nebude aplikace vydána. Na iPhonu nebo iPadu si můžete své předobjednávky prohlédnout nebo je zrušit v Nastavení účtu v App Storu. Na Macu či PC použijte Mac App Store nebo iTunes.",
+    "ONBOARDING_TV_APP_STORE_DESCRIPTION": "Vaše Apple TV je ideální platformou pro báječné aplikace a hry. A App Store je místo, kde je můžete najít.",
+    "OFFER_BUTTON_TITLE_OPEN": "Otevřít",
+    "PRODUCT_SECTION_TEXT_CARDS": "Informace",
+    "OFFER_BUTTON_TITLE_PREORDER": "Předobjednat",
+    "VERSION_STRING_WITH_RELEASE_DATE": "{version} – vydáno {date}",
+    "ONBOARDING_TV_SPLASH_PICKER_APP_STORE": "App Store",
+    "PURCHASES_RESTRICTED_TITLE": "Nákupy aplikací jsou zablokovány",
+    "ONBOARDING_TV_APP_STORE_TITLE": "Vítá vás App Store",
+    "ONBOARDING_TV_SPLASH_PICKER_TITLE": "Soukromí",
+    "BADGE_MFI_HEADING": "Ovladač volitelný",
+    "OFFER_BUTTON_TITLE_ARCADE_STANDARD": "Získat",
+    "OFFER_BUTTON_TITLE_GET": "Získat",
+    "PRODUCT_DESCRIPTION_HEADER": "{title} – {subtitle}"
+  },
+  "InfoPlist": {
+    "CFBundleDisplayName": "App Store"
+  }
+}

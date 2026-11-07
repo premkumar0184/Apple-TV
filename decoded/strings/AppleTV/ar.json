@@ -1,0 +1,15 @@
+{
+  "InfoPlist": {
+    "NSLocationWhenInUseUsageDescription": "سنستخدم موقعك لتحديد ما المتوفر لك، ولعرض المباريات المباشرة والأحداث والأخبار من منطقتك.",
+    "CFBundleDisplayName": "TV",
+    "CFBundleDisplayName#CH": "الفيديوهات",
+    "kMDItemKeywords": "تي في، تلفاز، تلفزيون، تليفزيون، تيليفزيون، أفلام، فيلم، الأفلام، برامج، عروض، شو، فيديوهات، فديوهات، التي في، التلفاز، التلفزيون، التليفزيون، التيليفزيون، الفيديوهات، الفديوهات، مقاطع الفيديو، مقاطع الفديو، آبل تي في، آبل تي في بلس، آبل تي في+، آبل تي في +، تي في+، تي في +، تي في بلس، آيتيونز، آيتونز، TV, Videos, Apple TV, Apple TV+, Apple TV +, Apple TV Plus, TV+, TV +, TVPlus, TV Plus, iTunes"
+  },
+  "Localizable": {
+    "APP_FAILURE_BODY": "تحقق من اتصال الإنترنت ثم حاول مرة أخرى.",
+    "INTERNET_UNAVAILABLE_ERROR": "تأكد من إعدادات الشبكة ثم حاول مرة أخرى.",
+    "APP_FAILURE_TITLE": "تطبيق Apple TV غير متوفر في الوقت الحالي.",
+    "INTERNET_UNAVAILABLE_TITLE": "خطأ في الاتصال",
+    "LIBRARY_TAB": "المكتبة"
+  }
+}

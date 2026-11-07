@@ -1,0 +1,15 @@
+{
+  "InfoPlist": {
+    "NSLocationWhenInUseUsageDescription": "נשתמש במיקום שלך כדי לקבוע מה זמין עבורך וכדי להראות לך משחקים, אירועים וחדשות בזמן אמת הרלוונטיים לאזורך.",
+    "CFBundleDisplayName": "‏TV",
+    "CFBundleDisplayName#CH": "סרטים",
+    "kMDItemKeywords": "טלוויזיה, סרטונים, סרטים, תכניות טלוויזיה, Apple TV, Apple TV+, Apple TV +, Apple TV פלוס, TV+, TV +, טלוויזיה פלוס, TV Plus, iTunes"
+  },
+  "Localizable": {
+    "APP_FAILURE_BODY": "יש לבדוק את חיבור האינטרנט ולנסות שוב.",
+    "INTERNET_UNAVAILABLE_ERROR": "יש לבדוק את הגדרות הרשת ולנסות שוב.",
+    "APP_FAILURE_TITLE": "היישום של Apple TV אינו זמין כרגע.",
+    "INTERNET_UNAVAILABLE_TITLE": "שגיאת התחברות",
+    "LIBRARY_TAB": "ספריה"
+  }
+}

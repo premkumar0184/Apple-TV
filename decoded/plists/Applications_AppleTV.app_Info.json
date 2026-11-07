@@ -1,0 +1,81 @@
+{
+  "CFBundleURLTypes": [
+    {
+      "CFBundleURLName": "Watch List URL",
+      "CFBundleURLSchemes": [
+        "com.apple.tv"
+      ]
+    },
+    {
+      "CFBundleURLName": "Watch List URL",
+      "CFBundleURLSchemes": [
+        "com.apple.WatchList"
+      ]
+    },
+    {
+      "CFBundleURLName": "Watch List URL",
+      "CFBundleURLSchemes": [
+        "com.apple.TVWatchList"
+      ]
+    }
+  ],
+  "UIRequiredDeviceCapabilities": [
+    "arm64"
+  ],
+  "CFBundleInfoDictionaryVersion": "6.0",
+  "DTPlatformVersion": "13.4",
+  "UIUserInterfaceStyle": "Automatic",
+  "CFBundleName": "AppleTV",
+  "DTSDKName": "appletvos13.4.internal",
+  "CFBundleIcons": {
+    "CFBundlePrimaryIcon": "App Icon"
+  },
+  "LSRequiresIPhoneOS": true,
+  "NSLocationWhenInUseUsageDescription": "Sharing your location can help you discover live sports, events, and news near you. You can change this anytime in Settings.",
+  "UIBackgroundModes": [
+    "audio"
+  ],
+  "CFBundleAlternateNames": [
+    "Apple TV+"
+  ],
+  "DTSDKBuild": "17M59",
+  "UITemplateLaunchImage": true,
+  "TVTopShelfImage": {
+    "TVTopShelfPrimaryImageWide": "Top Shelf Image Wide"
+  },
+  "CFBundleShortVersionString": "1.0",
+  "CFBundleSupportedPlatforms": [
+    "AppleTVOS"
+  ],
+  "BuildMachineOSBuild": "18A391024",
+  "TVTopShelfFullScreenImage": "TopShelfImage",
+  "CFBundlePackageType": "APPL",
+  "MinimumOSVersion": "13.4",
+  "CFBundleDevelopmentRegion": "en",
+  "DTXcodeBuild": "11O62d",
+  "CFBundleVersion": "1",
+  "DTPlatformBuild": "",
+  "UILaunchImages": [
+    {
+      "UILaunchImageOrientation": "Landscape",
+      "UILaunchImageName": "LaunchImage",
+      "UILaunchImageSize": "{1920, 1080}",
+      "UILaunchImageMinimumOSVersion": "9.0"
+    },
+    {
+      "UILaunchImageOrientation": "Landscape",
+      "UILaunchImageName": "LaunchImage",
+      "UILaunchImageSize": "{1920, 1080}",
+      "UILaunchImageMinimumOSVersion": "9.0"
+    }
+  ],
+  "UIDeviceFamily": [
+    3
+  ],
+  "CFBundleIdentifier": "com.apple.TVWatchList",
+  "DTXcode": "1140",
+  "CFBundleExecutable": "AppleTV",
+  "CFBundleSignature": "????",
+  "DTPlatformName": "appletvos",
+  "DTCompiler": "com.apple.compilers.llvm.clang.1_0"
+}

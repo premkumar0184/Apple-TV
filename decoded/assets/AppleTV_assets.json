@@ -1,0 +1,390 @@
+{
+  "application": "AppleTV",
+  "car_path": "/home/prem/Projects/AppleTV/extracted/rootfs/Applications/AppleTV.app/Assets.car",
+  "file_size": 359208,
+  "sha256": "11344a3a5253f8c89e426d471ea607606da5f81a12e1a0f71cfdfc83e533f52f",
+  "car_header": "RATCa@(#)PROGRAM:CoreUI  PROJECT:CoreUI-609.4\nIBCocoaTouchImageCatalogTool-11.411O62d1348",
+  "extended_metadata": "METAcarutil 609.400000, thinned <mode app> <idiom 3,3> <subtype 3840,3840> <subtypefallback *> <scale 1,2> <gamut 0,1> <graphics 4,4> <graphicsfallback (2,1,0),(2,1,0)> <memory *> <deployment+ 5,5> <hostedIdioms *> <removed none>13.4atv@(#)PROGRAM:CoreThemeDefinition  PROJECT:CoreThemeDefinition-447.1",
+  "appearances": {
+    "0": "UIAppearanceAny"
+  },
+  "total_facets": 6,
+  "total_renditions": 15,
+  "extracted_bitmaps": 9,
+  "extracted_vectors": 0,
+  "extracted_layered_images": 1,
+  "facets": {
+    "App Icon": {
+      "name": "App Icon",
+      "raw_val_hex": "000000000300010055000200b50011001295",
+      "facet_id": null
+    },
+    "App Icon/Background/Content": {
+      "name": "App Icon/Background/Content",
+      "raw_val_hex": "000000000300010055000200b5001100e454",
+      "facet_id": null
+    },
+    "App Icon/Logo/Content": {
+      "name": "App Icon/Logo/Content",
+      "raw_val_hex": "000000000300010055000200b50011008fb0",
+      "facet_id": null
+    },
+    "LaunchImage": {
+      "name": "LaunchImage",
+      "raw_val_hex": "000000000300010055000200b50011009b8d",
+      "facet_id": null
+    },
+    "Top Shelf Image Wide": {
+      "name": "Top Shelf Image Wide",
+      "raw_val_hex": "000000000300010055000200b5001100f6d5",
+      "facet_id": null
+    },
+    "TopShelfImage": {
+      "name": "TopShelfImage",
+      "raw_val_hex": "000000000300010055000200b5001100f81f",
+      "facet_id": null
+    }
+  },
+  "renditions": [
+    {
+      "index": 0,
+      "facet_name": "\u00ea\u0003",
+      "rendition_id": 38162,
+      "key_hex": "0100000012955500b500",
+      "key_attributes": [
+        1,
+        0,
+        38162,
+        85,
+        181
+      ],
+      "scale": 1,
+      "appearance": "Appearance_181",
+      "appearance_id": 181,
+      "width": 400,
+      "height": 240,
+      "pixel_format": "ATAD",
+      "uti": "public.layeredimage",
+      "is_inlink": false,
+      "payload_bytes": 372,
+      "is_parallax_stack": true
+    },
+    {
+      "index": 1,
+      "facet_name": "Asset_38162",
+      "rendition_id": 38162,
+      "key_hex": "0100030012955500d000",
+      "key_attributes": [
+        1,
+        3,
+        38162,
+        85,
+        208
+      ],
+      "scale": 1,
+      "appearance": "Appearance_208",
+      "appearance_id": 208,
+      "width": 400,
+      "height": 240,
+      "pixel_format": "BGRA",
+      "uti": "com.apple.coreui.bitmap",
+      "is_inlink": false,
+      "payload_bytes": 17449,
+      "extracted_file": "AppleTV/images/Asset_38162_1x_Appearance_208.png"
+    },
+    {
+      "index": 2,
+      "facet_name": "Asset_38162",
+      "rendition_id": 38162,
+      "key_hex": "0100030012955500d100",
+      "key_attributes": [
+        1,
+        3,
+        38162,
+        85,
+        209
+      ],
+      "scale": 1,
+      "appearance": "Appearance_209",
+      "appearance_id": 209,
+      "width": 480,
+      "height": 320,
+      "pixel_format": "BGRA",
+      "uti": "com.apple.coreui.bitmap",
+      "is_inlink": false,
+      "payload_bytes": 1480
+    },
+    {
+      "index": 3,
+      "facet_name": "Asset_45199",
+      "rendition_id": 45199,
+      "key_hex": "010003008fb05500b500",
+      "key_attributes": [
+        1,
+        3,
+        45199,
+        85,
+        181
+      ],
+      "scale": 1,
+      "appearance": "Appearance_181",
+      "appearance_id": 181,
+      "width": 400,
+      "height": 240,
+      "pixel_format": " 8AG",
+      "uti": "com.apple.coreui.bitmap",
+      "is_inlink": false,
+      "payload_bytes": 3835,
+      "extracted_file": "AppleTV/images/Asset_45199_1x_Appearance_181.png"
+    },
+    {
+      "index": 4,
+      "facet_name": "Asset_36251",
+      "rendition_id": 36251,
+      "key_hex": "010003009b8d5500b500",
+      "key_attributes": [
+        1,
+        3,
+        36251,
+        85,
+        181
+      ],
+      "scale": 1,
+      "appearance": "Appearance_181",
+      "appearance_id": 181,
+      "width": 1920,
+      "height": 1080,
+      "pixel_format": " 8AG",
+      "uti": "com.apple.coreui.bitmap",
+      "is_inlink": false,
+      "payload_bytes": 7137,
+      "extracted_file": "AppleTV/images/Asset_36251_1x_Appearance_181.png"
+    },
+    {
+      "index": 5,
+      "facet_name": "Asset_21732",
+      "rendition_id": 21732,
+      "key_hex": "01000300e4545500b500",
+      "key_attributes": [
+        1,
+        3,
+        21732,
+        85,
+        181
+      ],
+      "scale": 1,
+      "appearance": "Appearance_181",
+      "appearance_id": 181,
+      "width": 400,
+      "height": 240,
+      "pixel_format": " 8AG",
+      "uti": "com.apple.coreui.bitmap",
+      "is_inlink": false,
+      "payload_bytes": 3583,
+      "extracted_file": "AppleTV/images/Asset_21732_1x_Appearance_181.png"
+    },
+    {
+      "index": 6,
+      "facet_name": "Asset_54774",
+      "rendition_id": 54774,
+      "key_hex": "01000300f6d55500b500",
+      "key_attributes": [
+        1,
+        3,
+        54774,
+        85,
+        181
+      ],
+      "scale": 1,
+      "appearance": "Appearance_181",
+      "appearance_id": 181,
+      "width": 2320,
+      "height": 720,
+      "pixel_format": " 8AG",
+      "uti": "com.apple.coreui.bitmap",
+      "is_inlink": false,
+      "payload_bytes": 28222,
+      "extracted_file": "AppleTV/images/Asset_54774_1x_Appearance_181.png"
+    },
+    {
+      "index": 7,
+      "facet_name": "Asset_8184",
+      "rendition_id": 8184,
+      "key_hex": "01000300f81f5500b500",
+      "key_attributes": [
+        1,
+        3,
+        8184,
+        85,
+        181
+      ],
+      "scale": 1,
+      "appearance": "Appearance_181",
+      "appearance_id": 181,
+      "width": 1920,
+      "height": 1080,
+      "pixel_format": " 8AG",
+      "uti": "com.apple.coreui.bitmap",
+      "is_inlink": false,
+      "payload_bytes": 32576,
+      "extracted_file": "AppleTV/images/Asset_8184_1x_Appearance_181.png"
+    },
+    {
+      "index": 8,
+      "facet_name": "Asset_38162",
+      "rendition_id": 38162,
+      "key_hex": "0200030012955500d000",
+      "key_attributes": [
+        2,
+        3,
+        38162,
+        85,
+        208
+      ],
+      "scale": 2,
+      "appearance": "Appearance_208",
+      "appearance_id": 208,
+      "width": 800,
+      "height": 480,
+      "pixel_format": "BGRA",
+      "uti": "com.apple.coreui.bitmap",
+      "is_inlink": false,
+      "payload_bytes": 55701,
+      "extracted_file": "AppleTV/images/Asset_38162_2x_Appearance_208.png"
+    },
+    {
+      "index": 9,
+      "facet_name": "Asset_38162",
+      "rendition_id": 38162,
+      "key_hex": "0200030012955500d100",
+      "key_attributes": [
+        2,
+        3,
+        38162,
+        85,
+        209
+      ],
+      "scale": 2,
+      "appearance": "Appearance_209",
+      "appearance_id": 209,
+      "width": 960,
+      "height": 640,
+      "pixel_format": "BGRA",
+      "uti": "com.apple.coreui.bitmap",
+      "is_inlink": false,
+      "payload_bytes": 5080
+    },
+    {
+      "index": 10,
+      "facet_name": "Asset_45199",
+      "rendition_id": 45199,
+      "key_hex": "020003008fb05500b500",
+      "key_attributes": [
+        2,
+        3,
+        45199,
+        85,
+        181
+      ],
+      "scale": 2,
+      "appearance": "Appearance_181",
+      "appearance_id": 181,
+      "width": 800,
+      "height": 480,
+      "pixel_format": " 8AG",
+      "uti": "com.apple.coreui.bitmap",
+      "is_inlink": false,
+      "payload_bytes": 7497,
+      "extracted_file": "AppleTV/images/Asset_45199_2x_Appearance_181.png"
+    },
+    {
+      "index": 11,
+      "facet_name": "Asset_36251",
+      "rendition_id": 36251,
+      "key_hex": "020003009b8d5500b500",
+      "key_attributes": [
+        2,
+        3,
+        36251,
+        85,
+        181
+      ],
+      "scale": 2,
+      "appearance": "Appearance_181",
+      "appearance_id": 181,
+      "width": 3840,
+      "height": 2160,
+      "pixel_format": " 8AG",
+      "uti": "com.apple.coreui.bitmap",
+      "is_inlink": false,
+      "payload_bytes": 19362
+    },
+    {
+      "index": 12,
+      "facet_name": "Asset_21732",
+      "rendition_id": 21732,
+      "key_hex": "02000300e4545500b500",
+      "key_attributes": [
+        2,
+        3,
+        21732,
+        85,
+        181
+      ],
+      "scale": 2,
+      "appearance": "Appearance_181",
+      "appearance_id": 181,
+      "width": 800,
+      "height": 480,
+      "pixel_format": " 8AG",
+      "uti": "com.apple.coreui.bitmap",
+      "is_inlink": false,
+      "payload_bytes": 6948,
+      "extracted_file": "AppleTV/images/Asset_21732_2x_Appearance_181.png"
+    },
+    {
+      "index": 13,
+      "facet_name": "Asset_54774",
+      "rendition_id": 54774,
+      "key_hex": "02000300f6d55500b500",
+      "key_attributes": [
+        2,
+        3,
+        54774,
+        85,
+        181
+      ],
+      "scale": 2,
+      "appearance": "Appearance_181",
+      "appearance_id": 181,
+      "width": 4640,
+      "height": 1440,
+      "pixel_format": " 8AG",
+      "uti": "com.apple.coreui.bitmap",
+      "is_inlink": false,
+      "payload_bytes": 67974
+    },
+    {
+      "index": 14,
+      "facet_name": "Asset_8184",
+      "rendition_id": 8184,
+      "key_hex": "02000300f81f5500b500",
+      "key_attributes": [
+        2,
+        3,
+        8184,
+        85,
+        181
+      ],
+      "scale": 2,
+      "appearance": "Appearance_181",
+      "appearance_id": 181,
+      "width": 3840,
+      "height": 2160,
+      "pixel_format": " 8AG",
+      "uti": "com.apple.coreui.bitmap",
+      "is_inlink": false,
+      "payload_bytes": 83130
+    }
+  ]
+}

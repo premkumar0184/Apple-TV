@@ -1,0 +1,15 @@
+{
+  "InfoPlist": {
+    "NSLocationWhenInUseUsageDescription": "我們會使用您的位置來確認可供觀看的內容並顯示所在區域的現場直播賽事、活動和新聞。",
+    "CFBundleDisplayName": "TV",
+    "CFBundleDisplayName#CH": "影片",
+    "kMDItemKeywords": "TV, 電視, 視訊, 影片, 電影, 節目, Apple TV, Apple TV+, Apple TV +, Apple TV Plus, TV+, TV +, TVPlus, TV Plus, iTunes"
+  },
+  "Localizable": {
+    "APP_FAILURE_BODY": "請檢查您的Internet連線，然後再試一次。",
+    "INTERNET_UNAVAILABLE_ERROR": "請檢查您的網路設定，然後再試一次。",
+    "APP_FAILURE_TITLE": "目前無法使用Apple TV App。",
+    "INTERNET_UNAVAILABLE_TITLE": "連線錯誤",
+    "LIBRARY_TAB": "資料庫"
+  }
+}

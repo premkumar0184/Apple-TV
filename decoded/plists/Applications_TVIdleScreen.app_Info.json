@@ -1,0 +1,53 @@
+{
+  "UIRequiredDeviceCapabilities": [
+    "arm64"
+  ],
+  "CanInheritApplicationStateFromOtherProcesses": true,
+  "CFBundleInfoDictionaryVersion": "6.0",
+  "UISupportedInterfaceOrientations~ipad": [
+    "UIInterfaceOrientationPortrait",
+    "UIInterfaceOrientationPortraitUpsideDown",
+    "UIInterfaceOrientationLandscapeLeft",
+    "UIInterfaceOrientationLandscapeRight"
+  ],
+  "DTPlatformVersion": "13.4",
+  "UIUserInterfaceStyle": "Automatic",
+  "CFBundleName": "TVIdleScreen",
+  "DTSDKName": "appletvos13.4.internal",
+  "CFBundleDisplayName": "TVIdleScreen",
+  "LSRequiresIPhoneOS": true,
+  "UIBackgroundModes": [
+    "audio",
+    "continuous"
+  ],
+  "DTSDKBuild": "17M59",
+  "CFBundleShortVersionString": "1.0",
+  "CFBundleSupportedPlatforms": [
+    "AppleTVOS"
+  ],
+  "SBMachServices": [
+    "com.apple.uikit.viewservice.com.apple.TVIdleScreen"
+  ],
+  "UISupportedInterfaceOrientations": [],
+  "BuildMachineOSBuild": "18A391024",
+  "DTPlatformBuild": "11O62d",
+  "CFBundlePackageType": "APPL",
+  "MinimumOSVersion": "13.4",
+  "CFBundleDevelopmentRegion": "en",
+  "DTXcodeBuild": "11O62d",
+  "CFBundleVersion": "1",
+  "UIStatusBarHidden": false,
+  "UIDeviceFamily": [
+    3
+  ],
+  "CFBundleIdentifier": "com.apple.TVIdleScreen",
+  "DTXcode": "1140",
+  "SBAppTags": [
+    "hidden"
+  ],
+  "CFBundleExecutable": "TVIdleScreen",
+  "TVScreenSaverServiceViewControllerName": "TVIMainViewController",
+  "CFBundleSignature": "????",
+  "DTPlatformName": "appletvos",
+  "DTCompiler": "com.apple.compilers.llvm.clang.1_0"
+}

@@ -1,0 +1,26 @@
+{
+  "CFBundleName": "CoreGlyphs",
+  "DTXcode": "1140",
+  "DTSDKName": "appletvos13.4.internal",
+  "DTSDKBuild": "17M59",
+  "CFBundleDevelopmentRegion": "en",
+  "CFBundleVersion": "19.0.2.1",
+  "BuildMachineOSBuild": "18A391024",
+  "DTPlatformName": "appletvos",
+  "CFBundlePackageType": "BNDL",
+  "CFBundleShortVersionString": "1.0",
+  "CFBundleSupportedPlatforms": [
+    "AppleTVOS"
+  ],
+  "CFBundleInfoDictionaryVersion": "6.0",
+  "CFBundleExecutable": "CoreGlyphs",
+  "DTCompiler": "com.apple.compilers.llvm.clang.1_0",
+  "MinimumOSVersion": "13.4",
+  "CFBundleIdentifier": "com.apple.CoreGlyphs",
+  "UIDeviceFamily": [
+    3
+  ],
+  "DTPlatformVersion": "13.4",
+  "DTXcodeBuild": "11O62d",
+  "DTPlatformBuild": "11O62d"
+}

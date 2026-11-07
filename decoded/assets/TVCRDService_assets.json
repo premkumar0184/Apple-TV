@@ -1,0 +1,71 @@
+{
+  "application": "TVCRDService",
+  "car_path": "/home/prem/Projects/AppleTV/extracted/rootfs/Applications/TVCRDService.app/Assets.car",
+  "file_size": 20200,
+  "sha256": "dee26611341e66bc6d634d8d28ab55101209de018e14d4217c86a8d9bdf7f25f",
+  "car_header": "RATCa@(#)PROGRAM:CoreUI  PROJECT:CoreUI-609.4\nIBCocoaTouchImageCatalogTool-11.411O62d1348",
+  "extended_metadata": "METAcarutil 609.400000, thinned <mode app> <idiom 3,3> <subtype 3840,3840> <subtypefallback *> <scale 1,2> <gamut 0,1> <graphics 4,4> <graphicsfallback (2,1,0),(2,1,0)> <memory *> <deployment+ 5,5> <hostedIdioms *> <removed none>13.4atv@(#)PROGRAM:CoreThemeDefinition  PROJECT:CoreThemeDefinition-447.1",
+  "appearances": {
+    "0": "UIAppearanceAny"
+  },
+  "total_facets": 1,
+  "total_renditions": 2,
+  "extracted_bitmaps": 2,
+  "extracted_vectors": 0,
+  "extracted_layered_images": 0,
+  "facets": {
+    "AirPlayIconSmall": {
+      "name": "AirPlayIconSmall",
+      "raw_val_hex": "000000000300010055000200b50011008a45",
+      "facet_id": null
+    }
+  },
+  "renditions": [
+    {
+      "index": 0,
+      "facet_name": "Asset_17802",
+      "rendition_id": 17802,
+      "key_hex": "010003008a455500b500",
+      "key_attributes": [
+        1,
+        3,
+        17802,
+        85,
+        181
+      ],
+      "scale": 1,
+      "appearance": "Appearance_181",
+      "appearance_id": 181,
+      "width": 63,
+      "height": 45,
+      "pixel_format": " 8AG",
+      "uti": "com.apple.coreui.bitmap",
+      "is_inlink": false,
+      "payload_bytes": 910,
+      "extracted_file": "TVCRDService/images/Asset_17802_1x_Appearance_181.png"
+    },
+    {
+      "index": 1,
+      "facet_name": "Asset_17802",
+      "rendition_id": 17802,
+      "key_hex": "020003008a455500b500",
+      "key_attributes": [
+        2,
+        3,
+        17802,
+        85,
+        181
+      ],
+      "scale": 2,
+      "appearance": "Appearance_181",
+      "appearance_id": 181,
+      "width": 126,
+      "height": 90,
+      "pixel_format": " 8AG",
+      "uti": "com.apple.coreui.bitmap",
+      "is_inlink": false,
+      "payload_bytes": 1387,
+      "extracted_file": "TVCRDService/images/Asset_17802_2x_Appearance_181.png"
+    }
+  ]
+}

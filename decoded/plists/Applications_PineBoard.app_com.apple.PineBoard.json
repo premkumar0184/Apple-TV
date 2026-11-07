@@ -1,0 +1,9 @@
+{
+  "DEFAULT-OPTIONS": {
+    "Level": {
+      "Enable": "Default"
+    },
+    "Signpost-Persisted": true,
+    "Signpost-Scope": "Process"
+  }
+}

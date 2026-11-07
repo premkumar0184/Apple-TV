@@ -1,0 +1,15 @@
+{
+  "InfoPlist": {
+    "NSLocationWhenInUseUsageDescription": "Vaše poloha nám umožní vybrat pro vás dostupný obsah a nabídnout vám živé přenosy, události a zprávy z vaší oblasti.",
+    "CFBundleDisplayName": "TV",
+    "CFBundleDisplayName#CH": "Videa",
+    "kMDItemKeywords": "TV, Videa, Filmy, Pořady, Apple TV, Apple TV+, Apple TV +, Apple TV Plus, TV+, TV +, TVPlus, TV Plus, iTunes"
+  },
+  "Localizable": {
+    "APP_FAILURE_BODY": "Zkontrolujte připojení k internetu a zkuste to znovu.",
+    "INTERNET_UNAVAILABLE_ERROR": "Zkontrolujte nastavení sítě a zkuste to znovu.",
+    "APP_FAILURE_TITLE": "Aplikace Apple TV není momentálně k dispozici.",
+    "INTERNET_UNAVAILABLE_TITLE": "Chyba připojení",
+    "LIBRARY_TAB": "Knihovna"
+  }
+}

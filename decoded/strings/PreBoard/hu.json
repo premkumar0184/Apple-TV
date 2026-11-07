@@ -1,0 +1,10 @@
+{
+  "Localizable": {
+    "PREConfirmationMessage": "Biztos benne, hogy alaphelyzetbe szeretné állítani az összes beállítást?\nIsmét be kell majd állítania az Apple TV-jét.",
+    "PREResetAllSettingsButton": "Összes beállítás törlése",
+    "PREDialogTitle": "Helyreállító mód",
+    "PRERestartButton": "Újraindítás",
+    "PREMainMessage": "Úgy tűnik, az Apple TV-je problémákat észlel.\nAz Összes beállítás törlése lehetőséggel alaphelyzetbe állíthatja az összes beállítását és fiókját.\nAz alaphelyzetbe állítás nélkül történő újraindításhoz válassza az Újraindítás lehetőséget.",
+    "PRECancelButton": "Mégsem"
+  }
+}

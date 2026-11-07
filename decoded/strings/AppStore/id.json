@@ -1,0 +1,43 @@
+{
+  "Localizable": {
+    "ONBOARDING_TV_SPLASH_PICKER_ARCADE": "Apple Arkade",
+    "OFFER_BUTTON_TITLE_BUY": "Beli",
+    "INFO_LIST_REQUIREMENTS_SUMMARY": "Dapat digunakan di {deviceName} ini",
+    "PREORDER_TERMS_FREE": "Konten ini dapat berubah tanpa pemberitahuan dan produk akhir mungkin berbeda.\n\nUntuk melihat atau membatalkan prapesanan Anda di iPhone atau iPad, buka Pengaturan Akun di App Store. Di Mac atau PC, gunakan Mac App Store atau iTunes.",
+    "OFFER_BUTTON_TITLE_ARCADE_TRY": "Coba Gratis",
+    "OFFER_BUTTON_TITLE_BUY_WITH_PRICE": "Beli {price}",
+    "OFFER_BUTTON_TITLE_PREORDER_WITH_PRICE": "Prapesan {price}",
+    "BADGE_MFI_REQUIRED_HEADING": "Pengontrol Diperlukan",
+    "OFFERS_IN_APP_PURCHASES": "Menawarkan Pembelian In-App",
+    "OFFER_BUTTON_TITLE_ARCADE_OPEN": "Mainkan Game",
+    "SEARCH_PLACEHOLDER": "Cari",
+    "MORE_INFORMATION": "Info lainnya",
+    "ONBOARDING_TV_ARCADE_TITLE": "Selamat Datang di Apple Arkade",
+    "ONBOARDING_TV_SPLASH_PICKER_DESCRIPTION": "Layanan Apple dirancang untuk melindungi informasi Anda dan memungkinkan Anda untuk memilih apa yang Anda bagikan.",
+    "ARCADE_WELCOME_TV_DEVICES_PRE_MACOS_BODY": "Bermain di iPhone, iPad, Mac, dan Apple TV Anda. Hadir musim gugur ini.",
+    "INLINE_IN_APP_PURCHASES": "Pembelian In-App",
+    "ONBOARDING_TV_ARCADE_DESCRIPTION": "Mainkan 100+ game seru dengan satu langganan. Tanpa iklan atau pembelian tambahan.",
+    "VERSION_STRING": "Versi",
+    "ONBOARDING_TV_UNIFIED_APP_STORE_HEADING": "Baru di App Store",
+    "PURCHASES_RESTRICTED_DESCRIPTION": "Pembelian dibatasi di Apple TV ini. Untuk mengubah pembatasan, buka Pengaturan.",
+    "ONBOARDING_TV_UNIFIED_APP_STORE_DESCRIPTION": "Mainkan 100+ game seru dengan satu langganan. Tanpa iklan atau pembelian tambahan.",
+    "OFFER_BUTTON_TITLE_ARCADE_NOT_SUBSCRIBED": "Mulai Bermain",
+    "PREORDER_TERMS_PAID": "Konten ini dapat berubah tanpa pemberitahuan dan produk akhir mungkin berbeda.\n\nAnda tidak akan dikenakan biaya hingga app ini dirilis. Untuk melihat atau membatalkan prapesanan Anda di iPhone atau iPad, buka Pengaturan Akun di App Store. Di Mac atau PC, gunakan Mac App Store atau iTunes.",
+    "ONBOARDING_TV_APP_STORE_DESCRIPTION": "Apple TV Anda adalah platform yang luar biasa untuk app serta game yang bagus, dan App Store adalah tempat untuk menemukannya.",
+    "OFFER_BUTTON_TITLE_OPEN": "Buka",
+    "PRODUCT_SECTION_TEXT_CARDS": "Mengenai",
+    "OFFER_BUTTON_TITLE_PREORDER": "Prapesan",
+    "VERSION_STRING_WITH_RELEASE_DATE": "{version}—Dirilis {date}",
+    "ONBOARDING_TV_SPLASH_PICKER_APP_STORE": "App Store",
+    "PURCHASES_RESTRICTED_TITLE": "Pembelian App Dibatasi",
+    "ONBOARDING_TV_APP_STORE_TITLE": "Selamat Datang di App Store",
+    "ONBOARDING_TV_SPLASH_PICKER_TITLE": "Privasi",
+    "BADGE_MFI_HEADING": "Pengontrol Opsional",
+    "OFFER_BUTTON_TITLE_ARCADE_STANDARD": "Dapatkan",
+    "OFFER_BUTTON_TITLE_GET": "Dapatkan",
+    "PRODUCT_DESCRIPTION_HEADER": "{title}—{subtitle}"
+  },
+  "InfoPlist": {
+    "CFBundleDisplayName": "App Store"
+  }
+}

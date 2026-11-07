@@ -1,0 +1,43 @@
+{
+  "Localizable": {
+    "ONBOARDING_TV_SPLASH_PICKER_ARCADE": "Apple Arcade",
+    "OFFER_BUTTON_TITLE_BUY": "ซื้อ",
+    "INFO_LIST_REQUIREMENTS_SUMMARY": "ใช้งานได้กับ {deviceName} เครื่องนี้",
+    "PREORDER_TERMS_FREE": "เนื้อหานี้อาจเปลี่ยนแปลงได้โดยไม่แจ้งล่วงหน้าและผลิตภัณฑ์ขั้นสุดท้ายอาจแตกต่างไป\n\nในการดูหรือยกเลิกการสั่งซื้อล่วงหน้าของคุณบน iPhone หรือ iPad ให้ไปที่การตั้งค่าบัญชีใน App Store หรือใช้ Mac App Store หรือ iTunes บน Mac หรือ PC",
+    "OFFER_BUTTON_TITLE_ARCADE_TRY": "ทดลองใช้ฟรี",
+    "OFFER_BUTTON_TITLE_BUY_WITH_PRICE": "ซื้อ {price}",
+    "OFFER_BUTTON_TITLE_PREORDER_WITH_PRICE": "สั่งซื้อล่วงหน้า {price}",
+    "BADGE_MFI_REQUIRED_HEADING": "ต้องใช้อุปกรณ์ควบคุม",
+    "OFFERS_IN_APP_PURCHASES": "มีการซื้อภายในแอพ",
+    "OFFER_BUTTON_TITLE_ARCADE_OPEN": "เล่นเกม",
+    "SEARCH_PLACEHOLDER": "ค้นหา",
+    "MORE_INFORMATION": "ข้อมูลเพิ่มเติม",
+    "ONBOARDING_TV_ARCADE_TITLE": "ยินดีต้อนรับสู่ Apple Arcade",
+    "ONBOARDING_TV_SPLASH_PICKER_DESCRIPTION": "บริการ Apple ได้รับการออกแบบมาเพื่อปกป้องข้อมูลของคุณและทำให้คุณสามารถเลือกสิ่งที่คุณต้องการแชร์ได้",
+    "ARCADE_WELCOME_TV_DEVICES_PRE_MACOS_BODY": "เล่นบน iPhone, iPad, Mac และ\nApple TV ของคุณ พบกันภายในปีนี้",
+    "INLINE_IN_APP_PURCHASES": "การซื้อภายในแอพ",
+    "ONBOARDING_TV_ARCADE_DESCRIPTION": "เล่นเกมที่ไม่ธรรมดาได้มากกว่า 100 เกมด้วยการสมัครสมาชิกครั้งเดียว ไม่มีโฆษณาหรือค่าใช้จ่ายเพิ่มเติม",
+    "VERSION_STRING": "เวอร์ชั่น",
+    "ONBOARDING_TV_UNIFIED_APP_STORE_HEADING": "มาใหม่ใน App Store",
+    "PURCHASES_RESTRICTED_DESCRIPTION": "การซื้อสินค้าถูกจำกัดบน Apple TV เครื่องนี้ ในการเปลี่ยนการจำกัด ไปที่การตั้งค่า",
+    "ONBOARDING_TV_UNIFIED_APP_STORE_DESCRIPTION": "เล่นเกมที่ไม่ธรรมดาได้มากกว่า 100 เกมด้วยการสมัครสมาชิกครั้งเดียว ไม่มีโฆษณาหรือค่าใช้จ่ายเพิ่มเติม",
+    "OFFER_BUTTON_TITLE_ARCADE_NOT_SUBSCRIBED": "เริ่มเล่น",
+    "PREORDER_TERMS_PAID": "เนื้อหานี้อาจเปลี่ยนแปลงได้โดยไม่แจ้งล่วงหน้าและผลิตภัณฑ์ขั้นสุดท้ายอาจแตกต่างไป\n\nคุณจะไม่ถูกเรียกเก็บเงินจนกว่าจะถึงวันที่แอพนี้ออก ในการดูหรือยกเลิกการสั่งซื้อล่วงหน้าของคุณบน iPhone หรือ iPad ให้ไปที่การตั้งค่าบัญชีใน App Store หรือใช้ Mac App Store หรือ iTunes บน Mac หรือ PC",
+    "ONBOARDING_TV_APP_STORE_DESCRIPTION": "Apple TV ของคุณเป็นแพลตฟอร์มที่น่าทึ่งสำหรับสุดยอดแอพและเกม ค้นหาได้ใน App Store",
+    "OFFER_BUTTON_TITLE_OPEN": "เปิด",
+    "PRODUCT_SECTION_TEXT_CARDS": "เกี่ยวกับ",
+    "OFFER_BUTTON_TITLE_PREORDER": "สั่งซื้อล่วงหน้า",
+    "VERSION_STRING_WITH_RELEASE_DATE": "{version}—ออกวันที่ {date}",
+    "ONBOARDING_TV_SPLASH_PICKER_APP_STORE": "App Store",
+    "PURCHASES_RESTRICTED_TITLE": "การซื้อแอพถูกจำกัด",
+    "ONBOARDING_TV_APP_STORE_TITLE": "ยินดีต้อนรับสู่ App Store",
+    "ONBOARDING_TV_SPLASH_PICKER_TITLE": "ความเป็นส่วนตัว",
+    "BADGE_MFI_HEADING": "อุปกรณ์ควบคุม (ไม่บังคับ)",
+    "OFFER_BUTTON_TITLE_ARCADE_STANDARD": "รับ",
+    "OFFER_BUTTON_TITLE_GET": "รับ",
+    "PRODUCT_DESCRIPTION_HEADER": "{title}—{subtitle}"
+  },
+  "InfoPlist": {
+    "CFBundleDisplayName": "App Store"
+  }
+}

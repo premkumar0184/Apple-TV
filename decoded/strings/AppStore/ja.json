@@ -1,0 +1,43 @@
+{
+  "Localizable": {
+    "ONBOARDING_TV_SPLASH_PICKER_ARCADE": "Apple Arcade",
+    "OFFER_BUTTON_TITLE_BUY": "購入",
+    "INFO_LIST_REQUIREMENTS_SUMMARY": "この{deviceName}に対応",
+    "PREORDER_TERMS_FREE": "このコンテンツは予告なしに変更されることがあり、最終製品は異なる物になる場合があります。\n\niPhoneまたはiPadで予約注文を確認またはキャンセルするには、App Storeの“アカウント設定”へ移動してください。MacまたはPCでは、Mac App StoreまたはiTunesを使用してください。",
+    "OFFER_BUTTON_TITLE_ARCADE_TRY": "無料で体験する",
+    "OFFER_BUTTON_TITLE_BUY_WITH_PRICE": "{price}で購入",
+    "OFFER_BUTTON_TITLE_PREORDER_WITH_PRICE": "{price}で予約注文",
+    "BADGE_MFI_REQUIRED_HEADING": "コントローラ（必要）",
+    "OFFERS_IN_APP_PURCHASES": "App内課金あり",
+    "OFFER_BUTTON_TITLE_ARCADE_OPEN": "ゲームをプレイ",
+    "SEARCH_PLACEHOLDER": "検索",
+    "MORE_INFORMATION": "詳細情報",
+    "ONBOARDING_TV_ARCADE_TITLE": "ようこそApple Arcade⁠へ",
+    "ONBOARDING_TV_SPLASH_PICKER_DESCRIPTION": "Appleサービスはあなたの個人情報を保護するように設計され、どの情報を共有するかを選択できるようになっています。",
+    "ARCADE_WELCOME_TV_DEVICES_PRE_MACOS_BODY": "お使いのiPhone、iPad、Mac、Apple TVでプレイできます。この秋、登場。",
+    "INLINE_IN_APP_PURCHASES": "App内課金",
+    "ONBOARDING_TV_ARCADE_DESCRIPTION": "サブスクリプションに1度登録するだけで100個以上の素晴らしいゲームをプレイできます。広告や追加購入はありません。",
+    "VERSION_STRING": "バージョン",
+    "ONBOARDING_TV_UNIFIED_APP_STORE_HEADING": "App Storeに新登場",
+    "PURCHASES_RESTRICTED_DESCRIPTION": "このApple TVでは購入が制限されています。この制限を変更するには、“設定”に移動してください。",
+    "ONBOARDING_TV_UNIFIED_APP_STORE_DESCRIPTION": "サブスクリプションに1度登録するだけで100個以上の素晴らしいゲームをプレイできます。広告や追加購入はありません。",
+    "OFFER_BUTTON_TITLE_ARCADE_NOT_SUBSCRIBED": "今すぐプレイ",
+    "PREORDER_TERMS_PAID": "このコンテンツは予告なしに変更されることがあり、最終製品は異なる物になる場合があります。\n\nこのAppのリリース日までは課金されません。iPhoneまたはiPadで予約注文を確認またはキャンセルするには、App Storeの“アカウント設定”へ移動してください。MacまたはPCでは、Mac App StoreまたはiTunesを使用してください。",
+    "ONBOARDING_TV_APP_STORE_DESCRIPTION": "Apple TVで素晴らしいAppやゲームが楽しめます。App StoreでAppやゲームを見つけましょう。",
+    "OFFER_BUTTON_TITLE_OPEN": "開く",
+    "PRODUCT_SECTION_TEXT_CARDS": "情報",
+    "OFFER_BUTTON_TITLE_PREORDER": "予約注文",
+    "VERSION_STRING_WITH_RELEASE_DATE": "{version}—リリース日 {date}",
+    "ONBOARDING_TV_SPLASH_PICKER_APP_STORE": "App Store",
+    "PURCHASES_RESTRICTED_TITLE": "Appの購入が制限されています",
+    "ONBOARDING_TV_APP_STORE_TITLE": "ようこそApp Store⁠へ",
+    "ONBOARDING_TV_SPLASH_PICKER_TITLE": "プライバシー",
+    "BADGE_MFI_HEADING": "コントローラ（オプション）",
+    "OFFER_BUTTON_TITLE_ARCADE_STANDARD": "入手",
+    "OFFER_BUTTON_TITLE_GET": "入手",
+    "PRODUCT_DESCRIPTION_HEADER": "{title}—{subtitle}"
+  },
+  "InfoPlist": {
+    "CFBundleDisplayName": "App Store"
+  }
+}

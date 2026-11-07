@@ -1,0 +1,186 @@
+// Objective-C Class Dump: TVPeripheralAgent
+// Target: extracted/rootfs/Applications/TVPeripheralAgent.app/TVPeripheralAgent
+// Statistics: 7 classes, 75 methods, 30 ivars
+
+@interface TVIOServiceNotifier : NSObject
+{
+    0x100012b8d I _ioNotification;
+    0x100012c29 Q _regID;
+}
+@property (nonatomic) id regID; // 0x100011322 TQ,R,N,V_regID
+@property (nonatomic) id ioNotification; // 0x100011340 TI,R,N,V_ioNotification
+
+// Instance Methods
+- (id)initWithRegID:ioNotification:; // imp: 0x10000ecc0
+- (id)dealloc; // imp: 0x10000ed4c
+- (id)regID; // imp: 0x10000ed9c
+- (id)ioNotification; // imp: 0x10000eda4
+@end
+
+@interface TVPABluetoothRemotePairingAgent : NSObject
+{
+    0x10001299d @<TVPABluetoothRemotePairingDelegate> _delegate;
+    0x1000129c5 @NSTimer _derpDismissTimer;
+    0x1000129d0 @NSMutableSet _previouslyPairedRemoteIDs;
+}
+@property (nonatomic) id derpDismissTimer; // 0x1000101b6 T@"NSTimer",&,N,V_derpDismissTimer
+@property (nonatomic) id previouslyPairedRemoteIDs; // 0x1000101f3 T@"NSMutableSet",C,N,V_previouslyPairedRemoteIDs
+@property (nonatomic) id delegate; // 0x10001022d T@"<TVPABluetoothRemotePairingDelegate>",W,N,V_delegate
+@property (nonatomic) id hash; // 0x100010162 TQ,R
+@property (nonatomic) id superclass; // 0x100010172 T#,R
+@property (nonatomic) id description; // 0x100010183 T@"NSString",R,C
+@property (nonatomic) id debugDescription; // 0x100010183 T@"NSString",R,C
+
+// Instance Methods
+- (id)dealloc; // imp: 0x100004bc4
+- (id)startProximityPairing; // imp: 0x100004cbc
+- (id)stopProximityPairing; // imp: 0x100005070
+- (id)unpairAllRemotes; // imp: 0x100005194
+- (id)_handlePairingTimeout; // imp: 0x1000054f4
+- (id)_handleRemoteDidPair; // imp: 0x10000561c
+- (id)_peripheralStateDidChangeNotification:; // imp: 0x100005940
+- (id)delegate; // imp: 0x100005adc
+- (id)setDelegate:; // imp: 0x100005af4
+- (id)derpDismissTimer; // imp: 0x100005b00
+- (id)setDerpDismissTimer:; // imp: 0x100005b08
+- (id)previouslyPairedRemoteIDs; // imp: 0x100005b14
+- (id)setPreviouslyPairedRemoteIDs:; // imp: 0x100005b20
+- (id).cxx_destruct; // imp: 0x100005b28
+@end
+
+@interface TVPABluetoothRemotePairingManager : TVSPeripheralManager
+@property (nonatomic) id hash; // 0x100010162 TQ,R
+@property (nonatomic) id superclass; // 0x100010172 T#,R
+@property (nonatomic) id description; // 0x100010183 T@"NSString",R,C
+@property (nonatomic) id debugDescription; // 0x100010183 T@"NSString",R,C
+
+// Class Methods
++ (id)sharedInstance; // imp: 0x100005b60
+
+// Instance Methods
+- (id)pairingAgent:peerDidRequestPairing:type:passkey:; // imp: 0x100005bcc
+@end
+
+@interface TVPADeviceEnforcementAgent : NSObject
+{
+    0x100012abe [32i] _notifyTokens;
+    0x100012ac4 @NSSet _priorConnectedDevices;
+    0x100012acd B _observingPhysicalNetworkInterface;
+    0x100012acd B _observingConnectedDevices;
+    0x100012acd B _enforcing;
+}
+@property (nonatomic) id hash; // 0x100010162 TQ,R
+@property (nonatomic) id superclass; // 0x100010172 T#,R
+@property (nonatomic) id description; // 0x100010183 T@"NSString",R,C
+@property (nonatomic) id debugDescription; // 0x100010183 T@"NSString",R,C
+
+// Instance Methods
+- (id)init; // imp: 0x100005e0c
+- (id)dealloc; // imp: 0x1000061c0
+- (id)_applyNewEnforcement; // imp: 0x100006348
+- (id)_isBreakingEnforcableRuleForDeviceType:; // imp: 0x100006c08
+- (id)startEnforcing; // imp: 0x100006c90
+- (id)observeValueForKeyPath:ofObject:change:context:; // imp: 0x100006ea4
+- (id)bluetoothManager:didCompleteDeviceConnection:error:; // imp: 0x10000714c
+- (id)_didCompleteDeviceConnection:currentState:; // imp: 0x100007634
+- (id)_bluetoothManagerUpdated:; // imp: 0x100007f18
+- (id)tellUserDevice:disconnectedDueToDeviceLimit:; // imp: 0x1000083b8
+- (id)askUserAboutConnectingAudioDevice; // imp: 0x1000089ac
+- (id)askUserAboutDisconnectingAudioDevice; // imp: 0x100008c84
+- (id).cxx_destruct; // imp: 0x100008f5c
+@end
+
+@interface TVPAPeripheralUserNotification : NSObject
+{
+    0x100012806 q _type;
+    0x100012808 @NSString _bulletinImageType;
+    0x100012808 @NSString _title;
+    0x100012808 @NSString _subtitle;
+    0x100012806 q _timeout;
+}
+@property (nonatomic) id type; // 0x10000fe96 Tq,N,V_type
+@property (nonatomic) id bulletinImageType; // 0x10000feb4 T@"NSString",C,N,V_bulletinImageType
+@property (nonatomic) id title; // 0x10000fedf T@"NSString",C,N,V_title
+@property (nonatomic) id subtitle; // 0x10000ff01 T@"NSString",C,N,V_subtitle
+@property (nonatomic) id timeout; // 0x10000ff25 Tq,N,V_timeout
+
+// Instance Methods
+- (id)initWithHUDType:; // imp: 0x100003c88
+- (id)_updateHUD; // imp: 0x100003cd0
+- (id)type; // imp: 0x100004b2c
+- (id)setType:; // imp: 0x100004b34
+- (id)bulletinImageType; // imp: 0x100004b3c
+- (id)setBulletinImageType:; // imp: 0x100004b48
+- (id)title; // imp: 0x100004b50
+- (id)setTitle:; // imp: 0x100004b5c
+- (id)subtitle; // imp: 0x100004b64
+- (id)setSubtitle:; // imp: 0x100004b70
+- (id)timeout; // imp: 0x100004b78
+- (id)setTimeout:; // imp: 0x100004b80
+- (id).cxx_destruct; // imp: 0x100004b88
+@end
+
+@interface TVPeripheralAgentAdditions : NSObject
+@end
+
+@interface TVPeripheralAgentService : NSObject
+{
+    0x100012b61 i _proximityNotifyToken;
+    0x100012acd B _proximityNotifyTokenIsValid;
+    0x100012b61 i _mfiAuthNotifyToken;
+    0x100012acd B _mfiAuthNotifyTokenIsValid;
+    0x100012b63 ^{__IOHIDManager=} _externalDeviceHIDManager;
+    0x100012b76 ^{IONotificationPort=} ioPort;
+    0x1000129d0 @NSMutableSet ioNotifiers;
+    0x100012b8d I ioIterator;
+    0x100012b8f ^{__CFDictionary=} gcPowerSourceRegistryIDs;
+    0x100012b61 i _accessoryAttachToken;
+    0x100012b61 i _accessoryTimeRemainingToken;
+    0x100012ba2 @<PBSBulletinServiceInterface> _bulletinService;
+    0x100012bc3 @PBSBulletin _bulletin;
+    0x100012bd2 @TVPABluetoothRemotePairingAgent _bluetoothRemotePairingAgent;
+    0x100012bf5 @TVPADeviceEnforcementAgent _deviceEnforcementAgent;
+}
+@property (nonatomic) id bulletinService; // 0x100011209 T@"<PBSBulletinServiceInterface>",&,N,V_bulletinService
+@property (nonatomic) id bulletin; // 0x10001124a T@"PBSBulletin",&,V_bulletin
+@property (nonatomic) id bluetoothRemotePairingAgent; // 0x100011283 T@"TVPABluetoothRemotePairingAgent",&,N,V_bluetoothRemotePairingAgent
+@property (nonatomic) id deviceEnforcementAgent; // 0x1000112e0 T@"TVPADeviceEnforcementAgent",&,N,V_deviceEnforcementAgent
+@property (nonatomic) id hash; // 0x100010162 TQ,R
+@property (nonatomic) id superclass; // 0x100010172 T#,R
+@property (nonatomic) id description; // 0x100010183 T@"NSString",R,C
+@property (nonatomic) id debugDescription; // 0x100010183 T@"NSString",R,C
+
+// Class Methods
++ (id)sharedInstance; // imp: 0x10000bb00
+
+// Instance Methods
+- (id)refreshGameControllerPowerSources; // imp: 0x10000c248
+- (id)updateBatteryState; // imp: 0x10000c4ac
+- (id)batteryNotificationDeviceValid:; // imp: 0x10000c850
+- (id)bluetoothRemotePairingAgent; // imp: 0x10000c9bc
+- (id)dealloc; // imp: 0x10000ca14
+- (id)start; // imp: 0x10000cb38
+- (id)bluetoothManager:didCompleteDeviceConnection:error:; // imp: 0x10000d0c8
+- (id)bluetoothManager:didCompleteDeviceDisconnection:error:; // imp: 0x10000d1b0
+- (id)pairingAgentDidPairRemote:; // imp: 0x10000d2c8
+- (id)pairingAgentDidTimeout:; // imp: 0x10000d2d4
+- (id)_dismissPairingAgent; // imp: 0x10000d2e0
+- (id)_bluetoothRemoteDidConnectNotification:; // imp: 0x10000d3c0
+- (id)_bluetoothRemoteDidDisconnectNotification:; // imp: 0x10000d8e0
+- (id)_bluetoothRemoteDidDetectUserPresenceNotification:; // imp: 0x10000de14
+- (id)_checkBatteryLevelForRemote:; // imp: 0x10000de98
+- (id)_bluetoothRemotePowerSourceLimitedSourceNotification:; // imp: 0x10000e2d4
+- (id)_enforcementAgentWillDisconnectDeviceNotification:; // imp: 0x10000e36c
+- (id)_setupNotificationForExternalDeviceConnectionAndBatteryLevel; // imp: 0x10000e3e0
+- (id)presentPeripheralHUD:; // imp: 0x10000e774
+- (id)bulletinService:didDismissBulletin:withReason:; // imp: 0x10000eb88
+- (id)bulletinService; // imp: 0x10000ebf4
+- (id)setBulletinService:; // imp: 0x10000ebfc
+- (id)bulletin; // imp: 0x10000ec08
+- (id)setBulletin:; // imp: 0x10000ec14
+- (id)setBluetoothRemotePairingAgent:; // imp: 0x10000ec1c
+- (id)deviceEnforcementAgent; // imp: 0x10000ec28
+- (id)setDeviceEnforcementAgent:; // imp: 0x10000ec30
+- (id).cxx_destruct; // imp: 0x10000ec3c
+@end
+

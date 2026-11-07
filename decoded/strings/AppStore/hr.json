@@ -1,0 +1,43 @@
+{
+  "Localizable": {
+    "ONBOARDING_TV_SPLASH_PICKER_ARCADE": "Apple Arcade",
+    "OFFER_BUTTON_TITLE_BUY": "Kupi",
+    "INFO_LIST_REQUIREMENTS_SUMMARY": "Radi na uređaju {deviceName}",
+    "PREORDER_TERMS_FREE": "Sadržaj može biti promijenjen bez prethodne obavijesti i konačni proizvod može biti drugačiji.\n\nZa pregled ili otkazivanje svojih prednarudžbi na iPhone ili iPad uređaju idite u postavke računa na App Storeu. Na Macu ili PC-u upotrijebite Mac App Store ili iTunes.",
+    "OFFER_BUTTON_TITLE_ARCADE_TRY": "Besplatna proba",
+    "OFFER_BUTTON_TITLE_BUY_WITH_PRICE": "Kupi za {price}",
+    "OFFER_BUTTON_TITLE_PREORDER_WITH_PRICE": "Prednaruči za {price}",
+    "BADGE_MFI_REQUIRED_HEADING": "Potreban je kontroler",
+    "OFFERS_IN_APP_PURCHASES": "Nudi In-App kupnje",
+    "OFFER_BUTTON_TITLE_ARCADE_OPEN": "Igraj igru",
+    "SEARCH_PLACEHOLDER": "Traži",
+    "MORE_INFORMATION": "Više informacija",
+    "ONBOARDING_TV_ARCADE_TITLE": "Dobro došli u Apple Arcade",
+    "ONBOARDING_TV_SPLASH_PICKER_DESCRIPTION": "Usluge tvrtke Apple dizajnirane su kako bi zaštitile vaše informacije i omogućile odabir sadržaja koji želite podijeliti.",
+    "ARCADE_WELCOME_TV_DEVICES_PRE_MACOS_BODY": "Igrajte na svom iPhoneu, iPadu, Macu i Apple TV-u. Stiže kasnije ove jeseni.",
+    "INLINE_IN_APP_PURCHASES": "In-App kupnje",
+    "ONBOARDING_TV_ARCADE_DESCRIPTION": "Igrajte više od 100 izvanrednih igara putem jedne pretplate. Bez oglasa ili dodatnih kupnji.",
+    "VERSION_STRING": "Verzija",
+    "ONBOARDING_TV_UNIFIED_APP_STORE_HEADING": "Novo u App Storeu",
+    "PURCHASES_RESTRICTED_DESCRIPTION": "Na ovom Apple TV-u zabranjene su kupnje. Ovo ograničenje možete promijeniti u Postavkama.",
+    "ONBOARDING_TV_UNIFIED_APP_STORE_DESCRIPTION": "Igrajte više od 100 izvanrednih igara putem jedne pretplate. Bez oglasa ili dodatnih kupnji.",
+    "OFFER_BUTTON_TITLE_ARCADE_NOT_SUBSCRIBED": "Započni igranje",
+    "PREORDER_TERMS_PAID": "Sadržaj može biti promijenjen bez prethodne obavijesti i konačni proizvod može biti drugačiji.\n\nNeće biti naplaćen sve do dana izdavanja aplikacije. Za pregled ili otkazivanje svojih prednarudžbi na iPhone ili iPad uređaju idite u postavke računa na App Storeu. Na Macu ili PC-u upotrijebite Mac App Store ili iTunes.",
+    "ONBOARDING_TV_APP_STORE_DESCRIPTION": "Vaš Apple TV nevjerojatna je platforma za sjajne aplikacije i igre, a App Store mjesto je na kojem ih možete pronaći.",
+    "OFFER_BUTTON_TITLE_OPEN": "Otvori",
+    "PRODUCT_SECTION_TEXT_CARDS": "Opis",
+    "OFFER_BUTTON_TITLE_PREORDER": "Prednaruči",
+    "VERSION_STRING_WITH_RELEASE_DATE": "{version} – objavljeno {date}",
+    "ONBOARDING_TV_SPLASH_PICKER_APP_STORE": "App Store",
+    "PURCHASES_RESTRICTED_TITLE": "Kupnje aplikacija zabranjene",
+    "ONBOARDING_TV_APP_STORE_TITLE": "Dobro došli u App Store",
+    "ONBOARDING_TV_SPLASH_PICKER_TITLE": "Privatnost",
+    "BADGE_MFI_HEADING": "Kontroler je opcionalan",
+    "OFFER_BUTTON_TITLE_ARCADE_STANDARD": "Nabavi",
+    "OFFER_BUTTON_TITLE_GET": "Nabavi",
+    "PRODUCT_DESCRIPTION_HEADER": "{title}—{subtitle}"
+  },
+  "InfoPlist": {
+    "CFBundleDisplayName": "App Store"
+  }
+}

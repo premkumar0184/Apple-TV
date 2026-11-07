@@ -1,0 +1,10 @@
+{
+  "Localizable": {
+    "PREConfirmationMessage": "Tem a certeza de que pretende repor as definições?\nTerá de voltar a configurar a Apple TV.",
+    "PREResetAllSettingsButton": "Repor todas as definições",
+    "PREDialogTitle": "Modo de recuperação",
+    "PRERestartButton": "Reiniciar",
+    "PREMainMessage": "A Apple TV parece estar com problemas.\nPara repor todas as definições e contas, selecione a opção Repor todas as definições. Para reiniciar sem repor, escolha Reiniciar.",
+    "PRECancelButton": "Cancelar"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "CFBundleName": "PreBoard",
+  "DTXcode": "1140",
+  "DTSDKName": "appletvos13.4.internal",
+  "SBAppTags": [
+    "hidden"
+  ],
+  "DTSDKBuild": "17M59",
+  "CFBundleDevelopmentRegion": "en",
+  "CFBundleVersion": "1",
+  "BuildMachineOSBuild": "18A391024",
+  "UIUserInterfaceStyle": "Automatic",
+  "DTPlatformName": "appletvos",
+  "CFBundlePackageType": "APPL",
+  "CFBundleShortVersionString": "1.0",
+  "CFBundleSupportedPlatforms": [
+    "AppleTVOS"
+  ],
+  "UIStatusBarHidden": true,
+  "CFBundleInfoDictionaryVersion": "6.0",
+  "CFBundleExecutable": "PreBoard",
+  "DTCompiler": "com.apple.compilers.llvm.clang.1_0",
+  "UIRequiredDeviceCapabilities": [
+    "arm64"
+  ],
+  "MinimumOSVersion": "13.4",
+  "CFBundleIdentifier": "com.apple.PreBoard",
+  "UIDeviceFamily": [
+    3
+  ],
+  "DTPlatformVersion": "13.4",
+  "DTXcodeBuild": "11O62d",
+  "LSRequiresIPhoneOS": true,
+  "BSServiceDomains": {
+    "com.apple.frontboard": {
+      "Services": {
+        "com.apple.frontboard.workspace-service": {},
+        "com.apple.frontboard.system-service": {}
+      }
+    }
+  },
+  "UIRequiresFullScreen": true,
+  "DTPlatformBuild": "11O62d"
+}

@@ -1,0 +1,15 @@
+{
+  "InfoPlist": {
+    "NSLocationWhenInUseUsageDescription": "Θα χρησιμοποιείται η τοποθεσία σας για να προσδιορίζεται το περιεχόμενο που διατίθεται για εσάς και για εμφάνιση ζωντανών αγώνων, γεγονότων και ειδήσεων στην περιοχή σας.",
+    "CFBundleDisplayName": "TV",
+    "CFBundleDisplayName#CH": "Βίντεο",
+    "kMDItemKeywords": "TV, Βίντεο, Ταινίες, Εκπομπές, Apple TV, Apple TV+, Apple TV +, Apple TV Plus, TV+, TV +, TVPlus, TV Plus, iTunes"
+  },
+  "Localizable": {
+    "APP_FAILURE_BODY": "Ελέγξτε τη σύνδεσή σας στο Διαδίκτυο και δοκιμάστε ξανά.",
+    "INTERNET_UNAVAILABLE_ERROR": "Ελέγξτε τις ρυθμίσεις δικτύου και δοκιμάστε ξανά.",
+    "APP_FAILURE_TITLE": "Η εφαρμογή Apple TV δεν είναι διαθέσιμη τώρα.",
+    "INTERNET_UNAVAILABLE_TITLE": "Σφάλμα σύνδεσης",
+    "LIBRARY_TAB": "Βιβλιοθήκη"
+  }
+}

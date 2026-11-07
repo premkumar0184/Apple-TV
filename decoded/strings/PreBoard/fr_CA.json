@@ -1,0 +1,10 @@
+{
+  "Localizable": {
+    "PREConfirmationMessage": "Souhaitez-vous vraiment réinitialiser tous les réglages?\nVous devrez à nouveau configurer votre Apple TV.",
+    "PREResetAllSettingsButton": "Réinitialiser tous les réglages",
+    "PREDialogTitle": "Mode récupération",
+    "PRERestartButton": "Redémarrer",
+    "PREMainMessage": "Votre Apple TV semble avoir rencontré des problèmes.\nVous pouvez réinitialiser tous les réglages et comptes en sélectionnant Réinitialiser tous les réglages.\nPour redémarrer sans effectuer de réinitialisation, sélectionnez Redémarrer.",
+    "PRECancelButton": "Annuler"
+  }
+}

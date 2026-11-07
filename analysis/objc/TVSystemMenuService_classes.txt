@@ -1,0 +1,314 @@
+// Objective-C Class Dump: TVSystemMenuService
+// Target: extracted/rootfs/Applications/TVSystemMenuService.app/TVSystemMenuService
+// Statistics: 15 classes, 129 methods, 30 ivars
+
+@interface AppDelegate : UIResponder
+{
+    0x10000fdda @UIWindow _window;
+}
+@property (nonatomic) id window; // 0x10000b629 T@"UIWindow",&,N,V_window
+@property (nonatomic) id hash; // 0x10000ae71 TQ,R
+@property (nonatomic) id superclass; // 0x10000ae81 T#,R
+@property (nonatomic) id description; // 0x10000ae92 T@"NSString",R,C
+@property (nonatomic) id debugDescription; // 0x10000ae92 T@"NSString",R,C
+
+// Instance Methods
+- (id)application:didFinishLaunchingWithOptions:; // imp: 0x10000a97c
+- (id)applicationWillResignActive:; // imp: 0x10000a984
+- (id)applicationDidEnterBackground:; // imp: 0x10000a988
+- (id)applicationWillEnterForeground:; // imp: 0x10000a98c
+- (id)applicationDidBecomeActive:; // imp: 0x10000a990
+- (id)applicationWillTerminate:; // imp: 0x10000a994
+- (id)window; // imp: 0x10000a998
+- (id)setWindow:; // imp: 0x10000a9a8
+- (id).cxx_destruct; // imp: 0x10000a9bc
+@end
+
+@interface TVSMButtonGridCollectionViewController : UICollectionViewController
+{
+    0x10000f361 @TVSMPeopleModuleDataSource _peopleDataSource;
+    0x10000f37f @TVSMDefaultModuleDataSource _buttonDataSource;
+}
+@property (nonatomic) id peopleDataSource; // 0x10000aef5 T@"TVSMPeopleModuleDataSource",R,N,V_peopleDataSource
+@property (nonatomic) id buttonDataSource; // 0x10000af3c T@"TVSMDefaultModuleDataSource",R,N,V_buttonDataSource
+@property (nonatomic) id hash; // 0x10000ae71 TQ,R
+@property (nonatomic) id superclass; // 0x10000ae81 T#,R
+@property (nonatomic) id description; // 0x10000ae92 T@"NSString",R,C
+@property (nonatomic) id debugDescription; // 0x10000ae92 T@"NSString",R,C
+
+// Instance Methods
+- (id)init; // imp: 0x100006168
+- (id)initWithCoder:; // imp: 0x1000063ac
+- (id)dealloc; // imp: 0x1000063e4
+- (id)viewDidLoad; // imp: 0x1000064c4
+- (id)indexPathForPreferredFocusedViewInCollectionView:; // imp: 0x1000065f8
+- (id)numberOfSectionsInCollectionView:; // imp: 0x100006614
+- (id)collectionView:numberOfItemsInSection:; // imp: 0x10000661c
+- (id)collectionView:cellForItemAtIndexPath:; // imp: 0x100006698
+- (id)collectionView:didEndDisplayingCell:forItemAtIndexPath:; // imp: 0x1000067b8
+- (id)collectionView:layout:sizeForItemAtIndexPath:; // imp: 0x100006834
+- (id)moduleDidRequestDismissal:; // imp: 0x1000068c0
+- (id)moduleDidRequestExpansion:; // imp: 0x1000068d4
+- (id)moduleDidRequestSystemMenuDismissal:; // imp: 0x100006950
+- (id)animationControllerForPresentedController:presentingController:sourceController:; // imp: 0x100006998
+- (id)animationControllerForDismissedController:; // imp: 0x1000069d4
+- (id)presentationControllerForPresentedViewController:presentingViewController:sourceViewController:; // imp: 0x100006a10
+- (id)observeValueForKeyPath:ofObject:change:context:; // imp: 0x100006a68
+- (id)_moduleAtIndexPath:; // imp: 0x100006b0c
+- (id)peopleDataSource; // imp: 0x100006bd8
+- (id)buttonDataSource; // imp: 0x100006be8
+- (id).cxx_destruct; // imp: 0x100006bf8
+@end
+
+@interface TVSMButtonGridContainerViewController : UIViewController
+{
+    0x10000f3b2 @TVSMButtonGridCollectionViewController _collectionViewController;
+    0x10000f3dc @TVSMClockViewController _clockViewController;
+    0x10000f3f7 @UIVisualEffectView _effectView;
+}
+@property (nonatomic) id collectionViewController; // 0x10000b02d T@"TVSMButtonGridCollectionViewController",R,N,V_collectionViewController
+@property (nonatomic) id clockViewController; // 0x10000b08b T@"TVSMClockViewController",R,N,V_clockViewController
+@property (nonatomic) id effectView; // 0x10000b0cc T@"UIVisualEffectView",R,N,V_effectView
+
+// Instance Methods
+- (id)initWithNibName:bundle:; // imp: 0x100007510
+- (id)viewDidLoad; // imp: 0x1000075cc
+- (id)definesPresentationContext; // imp: 0x100007d70
+- (id)preferredFocusEnvironments; // imp: 0x100007d78
+- (id)collectionViewController; // imp: 0x100007de8
+- (id)clockViewController; // imp: 0x100007df8
+- (id)effectView; // imp: 0x100007e08
+- (id).cxx_destruct; // imp: 0x100007e18
+@end
+
+@interface TVSMButtonGridExpandedAnimationController : NSObject
+{
+    0x10000e955 @UIViewPropertyAnimator _animator;
+    0x10000e96f B _presenting;
+}
+@property (nonatomic) id presenting; // 0x10000aebf TB,N,GisPresenting,V_presenting
+@property (nonatomic) id hash; // 0x10000ae71 TQ,R
+@property (nonatomic) id superclass; // 0x10000ae81 T#,R
+@property (nonatomic) id description; // 0x10000ae92 T@"NSString",R,C
+@property (nonatomic) id debugDescription; // 0x10000ae92 T@"NSString",R,C
+
+// Instance Methods
+- (id)transitionDuration:; // imp: 0x100005aa0
+- (id)animateTransition:; // imp: 0x100005ac4
+- (id)interruptibleAnimatorForTransition:; // imp: 0x100005b1c
+- (id)animationEnded:; // imp: 0x100005b6c
+- (id)_prepareAnimationWithContext:; // imp: 0x100005b7c
+- (id)_preparePresentationAnimationWithContext:; // imp: 0x100005c00
+- (id)_prepareDismissalAnimationWithContext:; // imp: 0x100005e28
+- (id)isPresenting; // imp: 0x1000060c0
+- (id)setPresenting:; // imp: 0x1000060c8
+- (id).cxx_destruct; // imp: 0x1000060d0
+@end
+
+@interface TVSMButtonGridExpandedPresentationController : UIPresentationController
+{
+    0x10000e96f B _wantsBackground;
+    0x10000f487 q _blurStyle;
+    0x10000f3f7 @UIVisualEffectView _visualEffectView;
+}
+@property (nonatomic) id visualEffectView; // 0x10000b5a1 T@"UIVisualEffectView",R,N,V_visualEffectView
+@property (nonatomic) id blurStyle; // 0x10000b5d9 Tq,N,V_blurStyle
+@property (nonatomic) id wantsBackground; // 0x10000b5fa TB,N,V_wantsBackground
+
+// Instance Methods
+- (id)initWithPresentedViewController:presentingViewController:; // imp: 0x10000a5c4
+- (id)presentationTransitionWillBegin; // imp: 0x10000a658
+- (id)presentationTransitionDidEnd:; // imp: 0x10000a820
+- (id)dismissalTransitionWillBegin; // imp: 0x10000a840
+- (id)blurStyle; // imp: 0x10000a918
+- (id)setBlurStyle:; // imp: 0x10000a928
+- (id)wantsBackground; // imp: 0x10000a938
+- (id)setWantsBackground:; // imp: 0x10000a948
+- (id)visualEffectView; // imp: 0x10000a958
+- (id).cxx_destruct; // imp: 0x10000a968
+@end
+
+@interface TVSMClockView : UIView
+{
+    0x10000f3f7 @UIVisualEffectView _vibrancyView;
+    0x10000f5d0 @UILabel _dateLabel;
+    0x10000f5d0 @UILabel _timeLabel;
+}
+@property (nonatomic) id dateLabel; // 0x10000b447 T@"UILabel",R,N,V_dateLabel
+@property (nonatomic) id timeLabel; // 0x10000b46d T@"UILabel",R,N,V_timeLabel
+
+// Instance Methods
+- (id)initWithFrame:; // imp: 0x1000095e0
+- (id)traitCollectionDidChange:; // imp: 0x100009c4c
+- (id)viewForFirstBaselineLayout; // imp: 0x100009d10
+- (id)viewForLastBaselineLayout; // imp: 0x100009d1c
+- (id)_updateEffect; // imp: 0x100009d28
+- (id)dateLabel; // imp: 0x100009ed4
+- (id)timeLabel; // imp: 0x100009ee4
+- (id).cxx_destruct; // imp: 0x100009ef4
+@end
+
+@interface TVSMClockViewController : UIViewController
+{
+    0x10000f40d @NSCalendar _calendar;
+    0x10000f41b @TVSMClockView _clockView;
+    0x10000f42c @CADisplayLink _displayLink;
+    0x10000f43d @NSDateComponents _lastDateComponents;
+}
+@property (nonatomic) id calendar; // 0x10000b0fd T@"NSCalendar",R,N,V_calendar
+@property (nonatomic) id clockView; // 0x10000b125 T@"TVSMClockView",R,N,V_clockView
+@property (nonatomic) id displayLink; // 0x10000b153 T@"CADisplayLink",R,N,V_displayLink
+@property (nonatomic) id lastDateComponents; // 0x10000b18a T@"NSDateComponents",R,N,V_lastDateComponents
+
+// Instance Methods
+- (id)initWithNibName:bundle:; // imp: 0x100007e6c
+- (id)loadView; // imp: 0x100007f14
+- (id)viewWillAppear:; // imp: 0x100007f64
+- (id)viewDidDisappear:; // imp: 0x100008080
+- (id)_handleDisplayLink:; // imp: 0x1000080e4
+- (id)_setClockDate:; // imp: 0x100008138
+- (id)calendar; // imp: 0x10000835c
+- (id)clockView; // imp: 0x10000836c
+- (id)displayLink; // imp: 0x10000837c
+- (id)lastDateComponents; // imp: 0x10000838c
+- (id).cxx_destruct; // imp: 0x10000839c
+@end
+
+@interface TVSMDefaultModuleDataSource : NSObject
+
+// Instance Methods
+- (id)init; // imp: 0x100008aec
+- (id)sortedModuleInfos:; // imp: 0x100008afc
+@end
+
+@interface TVSMHostViewController : UIViewController
+{
+    0x10000f58c @TVSMMainViewController _mainViewController;
+}
+@property (nonatomic) id mainViewController; // 0x10000b409 T@"TVSMMainViewController",R,N,V_mainViewController
+@property (nonatomic) id hash; // 0x10000ae71 TQ,R
+@property (nonatomic) id superclass; // 0x10000ae81 T#,R
+@property (nonatomic) id description; // 0x10000ae92 T@"NSString",R,C
+@property (nonatomic) id debugDescription; // 0x10000ae92 T@"NSString",R,C
+
+// Class Methods
++ (id)_exportedInterface; // imp: 0x1000094a0
++ (id)_remoteViewControllerInterface; // imp: 0x1000095a0
+
+// Instance Methods
+- (id)initWithNibName:bundle:; // imp: 0x100008f20
+- (id)preferredFocusEnvironments; // imp: 0x100008ff0
+- (id)systemMenuManagerRequestedDismissal:; // imp: 0x100009080
+- (id)viewServiceBeginPresentationWithOptions:; // imp: 0x1000090c4
+- (id)viewServiceEndPresentationWithOptions:completion:; // imp: 0x100009250
+- (id)mainViewController; // imp: 0x1000095bc
+- (id).cxx_destruct; // imp: 0x1000095cc
+@end
+
+@interface TVSMMainViewController : UIViewController
+{
+    0x10000e7a6 @UIView _backgroundView;
+    0x10000e7a6 @UIView _edgeShadowView;
+    0x10000e7b0 @TVSMButtonGridContainerViewController _gridContainerViewController;
+}
+@property (nonatomic) id backgroundView; // 0x10000adb5 T@"UIView",R,N,V_backgroundView
+@property (nonatomic) id edgeShadowView; // 0x10000ade4 T@"UIView",R,N,V_edgeShadowView
+@property (nonatomic) id gridContainerViewController; // 0x10000ae20 T@"TVSMButtonGridContainerViewController",R,N,V_gridContainerViewController
+
+// Instance Methods
+- (id)initWithNibName:bundle:; // imp: 0x100004548
+- (id)viewDidLoad; // imp: 0x1000045e0
+- (id)preferredFocusEnvironments; // imp: 0x100004fe8
+- (id)presentContentAnimated:options:withCompletion:; // imp: 0x100005058
+- (id)dismissContentAnimated:withCompletion:; // imp: 0x1000054d8
+- (id)_menuPressed:; // imp: 0x1000059d4
+- (id)backgroundView; // imp: 0x100005a1c
+- (id)edgeShadowView; // imp: 0x100005a2c
+- (id)gridContainerViewController; // imp: 0x100005a3c
+- (id).cxx_destruct; // imp: 0x100005a4c
+@end
+
+@interface TVSMModuleDataSource : NSObject
+{
+    0x10000f487 q _type;
+    0x10000f5e6 @NSArray _availableModules;
+    0x10000f5f1 @NSMutableDictionary _modulesByInfo;
+}
+@property (nonatomic) id modulesByInfo; // 0x10000b4f7 T@"NSMutableDictionary",C,N,V_modulesByInfo
+@property (nonatomic) id availableModules; // 0x10000b534 T@"NSArray",C,N,V_availableModules
+@property (nonatomic) id type; // 0x10000b281 Tq,R,N,V_type
+
+// Instance Methods
+- (id)init; // imp: 0x100009f48
+- (id)initWithModuleType:; // imp: 0x100009f58
+- (id)shouldEnableModuleWithInfo:; // imp: 0x100009fe8
+- (id)sortedModuleInfos:; // imp: 0x10000a104
+- (id)updateAvailableModules; // imp: 0x10000a11c
+- (id)_updateAvailableModules; // imp: 0x10000a128
+- (id)_moduleWithInfo:; // imp: 0x10000a478
+- (id)type; // imp: 0x10000a564
+- (id)availableModules; // imp: 0x10000a56c
+- (id)setAvailableModules:; // imp: 0x10000a578
+- (id)modulesByInfo; // imp: 0x10000a580
+- (id)setModulesByInfo:; // imp: 0x10000a58c
+- (id).cxx_destruct; // imp: 0x10000a594
+@end
+
+@interface TVSMPeopleModuleDataSource : NSObject
+
+// Instance Methods
+- (id)init; // imp: 0x1000060dc
+- (id)childModules; // imp: 0x1000060ec
+@end
+
+@interface TVSMSystemMenuManager : NSObject
+{
+    0x10000f489 @<TVSMSystemMenuManagerDelegate> _delegate;
+}
+@property (nonatomic) id delegate; // 0x10000b3b4 T@"<TVSMSystemMenuManagerDelegate>",W,N,V_delegate
+
+// Class Methods
++ (id)sharedInstance; // imp: 0x100008df8
+
+// Instance Methods
+- (id)dismissSystemMenu; // imp: 0x100008eac
+- (id)delegate; // imp: 0x100008ef4
+- (id)setDelegate:; // imp: 0x100008f0c
+- (id).cxx_destruct; // imp: 0x100008f18
+@end
+
+@interface _TVSMModuleInfo : NSObject
+{
+    0x10000f46e @NSDictionary _infoPlist;
+    0x10000f47e @NSURL _bundleURL;
+    0x10000f487 q _type;
+}
+@property (nonatomic) id infoPlist; // 0x10000b237 T@"NSDictionary",R,N,V_infoPlist
+@property (nonatomic) id bundleURL; // 0x10000b262 T@"NSURL",R,N,V_bundleURL
+@property (nonatomic) id type; // 0x10000b281 Tq,R,N,V_type
+
+// Class Methods
++ (id)allModuleInfos; // imp: 0x10000847c
++ (id)_defaultModuleDirectories; // imp: 0x100008810
+
+// Instance Methods
+- (id)_initWithURL:; // imp: 0x10000871c
+- (id)copyWithZone:; // imp: 0x10000880c
+- (id)infoPlist; // imp: 0x100008aa4
+- (id)bundleURL; // imp: 0x100008aac
+- (id)type; // imp: 0x100008ab4
+- (id).cxx_destruct; // imp: 0x100008abc
+@end
+
+@interface _TVSMViewControllerCell : TVSMLockupContainingCollectionViewCell
+{
+    0x10000f39e @UIViewController _lockupContainingViewController;
+}
+@property (nonatomic) id lockupContainingViewController; // 0x10000af92 T@"UIViewController",&,N,V_lockupContainingViewController
+
+// Instance Methods
+- (id)setLockupContainingViewController:; // imp: 0x100006c38
+- (id)lockupContainingViewController; // imp: 0x100006ccc
+- (id).cxx_destruct; // imp: 0x100006cdc
+@end
+

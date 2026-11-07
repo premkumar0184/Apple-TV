@@ -1,0 +1,15 @@
+{
+  "InfoPlist": {
+    "NSLocationWhenInUseUsageDescription": "Chúng tôi sẽ sử dụng vị trí của bạn để xác định nội dung có sẵn cho bạn và hiển thị các trận đấu trực tiếp, sự kiện và tin tức từ khu vực của bạn.",
+    "CFBundleDisplayName": "TV",
+    "CFBundleDisplayName#CH": "Video",
+    "kMDItemKeywords": "TV, Video, Phim, Chương trình, Apple TV, Apple TV+, Apple TV +, Apple TV Plus, TV+, TV +, TVPlus, TV Plus, iTunes"
+  },
+  "Localizable": {
+    "APP_FAILURE_BODY": "Kiểm tra kết nối internet của bạn và thử lại.",
+    "INTERNET_UNAVAILABLE_ERROR": "Kiểm tra cài đặt mạng của bạn và thử lại.",
+    "APP_FAILURE_TITLE": "Ứng dụng Apple TV không khả dụng ngay bây giờ.",
+    "INTERNET_UNAVAILABLE_TITLE": "Lỗi kết nối",
+    "LIBRARY_TAB": "Thư viện"
+  }
+}

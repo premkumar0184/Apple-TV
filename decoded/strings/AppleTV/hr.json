@@ -1,0 +1,15 @@
+{
+  "InfoPlist": {
+    "NSLocationWhenInUseUsageDescription": "Vaša lokacija upotrijebit će se za utvrđivanje sadržaja koji su vam dostupni i prikazivanje utakmica uživo, događaja i vijesti iz vašeg područja.",
+    "CFBundleDisplayName": "TV",
+    "CFBundleDisplayName#CH": "Videozapisi",
+    "kMDItemKeywords": "TV, Videozapisi, Filmovi, Emisije, Apple TV, Apple TV+, Apple TV +, Apple TV Plus, TV+, TV +, TVPlus, TV Plus, iTunes"
+  },
+  "Localizable": {
+    "APP_FAILURE_BODY": "Provjerite svoju internetsku vezu i pokušajte ponovno.",
+    "INTERNET_UNAVAILABLE_ERROR": "Provjerite mrežne postavke i pokušajte ponovno.",
+    "APP_FAILURE_TITLE": "Aplikacija Apple TV trenutačno nije dostupna.",
+    "INTERNET_UNAVAILABLE_TITLE": "Greška pri povezivanju",
+    "LIBRARY_TAB": "Medijateka"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "application-identifier": "com.apple.HeadBoard",
+  "aps-connection-initiate": true,
+  "aps-environment": "production",
+  "com.apple.PineBoard.allows-pip": true,
+  "com.apple.QuartzCore.global-capture": true,
+  "com.apple.appletv.pbs.allow-screen-saver": true,
+  "com.apple.appletv.pbs.allow-send-menu": true,
+  "com.apple.appletv.pbs.allow-shared-state-access": true,
+  "com.apple.appletv.pbs.app-info-service-access": true,
+  "com.apple.appletv.pbs.app-info-service-access.placeholders": true,
+  "com.apple.appletv.pbs.user-presentation-service-access": true,
+  "com.apple.appstored.private": true,
+  "com.apple.atvcached.client": true,
+  "com.apple.authkit.client.internal": true,
+  "com.apple.developer.icloud-container-environment": "Production",
+  "com.apple.developer.icloud-container-identifiers": [
+    "com.apple.container.HeadBoard"
+  ],
+  "com.apple.developer.icloud-services": [
+    "CloudKit"
+  ],
+  "com.apple.frontboard.launchapplications": true,
+  "com.apple.itunesstored.private": true,
+  "com.apple.launchservices.clearadvertisingid": true,
+  "com.apple.multitasking.systemappassertions": true,
+  "com.apple.private.InstallCoordination.allowed": true,
+  "com.apple.private.MobileContainerManager.allowed": true,
+  "com.apple.private.accounts.allaccounts": true,
+  "com.apple.private.aps-connection-initiate": true,
+  "com.apple.private.cloudkit.systemService": true,
+  "com.apple.private.game-center": [
+    "Account",
+    "Games"
+  ],
+  "com.apple.private.mobileinstall.allowedSPI": [
+    "UninstallForLaunchServices"
+  ],
+  "com.apple.private.security.no-container": true,
+  "com.apple.private.security.no-sandbox": true,
+  "com.apple.private.tcc.allow": [
+    "kTCCServiceLiverpool",
+    "kTCCServicePhotos"
+  ],
+  "com.apple.private.xpc.domain-extension": true,
+  "com.apple.private.xpc.domain-extension.proxy": true,
+  "com.apple.springboard.CFUserNotification": true,
+  "keychain-access-groups": [
+    "apple"
+  ]
+}

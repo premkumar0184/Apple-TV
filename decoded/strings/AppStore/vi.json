@@ -1,0 +1,43 @@
+{
+  "Localizable": {
+    "ONBOARDING_TV_SPLASH_PICKER_ARCADE": "Apple Arcade",
+    "OFFER_BUTTON_TITLE_BUY": "Mua",
+    "INFO_LIST_REQUIREMENTS_SUMMARY": "Trên {deviceName} này",
+    "PREORDER_TERMS_FREE": "Nội dung này có thể thay đổi mà không có thông báo và sản phẩm cuối cùng có thể khác.\n\nĐể xem hoặc hủy đơn hàng đặt trước của bạn trên iPhone hoặc iPad, hãy truy cập Cài đặt tài khoản trong App Store. Trên máy Mac hoặc PC, hãy sử dụng Mac App Store hoặc iTunes.",
+    "OFFER_BUTTON_TITLE_ARCADE_TRY": "Thử miễn phí",
+    "OFFER_BUTTON_TITLE_BUY_WITH_PRICE": "Mua {price}",
+    "OFFER_BUTTON_TITLE_PREORDER_WITH_PRICE": "Đặt trước {price}",
+    "BADGE_MFI_REQUIRED_HEADING": "Yêu cầu bộ điều khiển",
+    "OFFERS_IN_APP_PURCHASES": "Cho phép Mua In-App",
+    "OFFER_BUTTON_TITLE_ARCADE_OPEN": "Chơi trò chơi",
+    "SEARCH_PLACEHOLDER": "Tìm kiếm",
+    "MORE_INFORMATION": "Thông tin khác",
+    "ONBOARDING_TV_ARCADE_TITLE": "Chào mừng đến Apple Arcade",
+    "ONBOARDING_TV_SPLASH_PICKER_DESCRIPTION": "Các dịch vụ của Apple được thiết kế để bảo vệ thông tin của bạn và cho phép bạn chọn nội dung chia sẻ.",
+    "ARCADE_WELCOME_TV_DEVICES_PRE_MACOS_BODY": "Chơi trên iPhone, iPad, máy Mac và Apple TV của bạn. Sẽ ra mắt vào mùa thu này.",
+    "INLINE_IN_APP_PURCHASES": "Mua In-App",
+    "ONBOARDING_TV_ARCADE_DESCRIPTION": "Chơi 100+ trò chơi đặc biệt với một tài khoản đăng ký. Không có quảng cáo hoặc mua bổ sung.",
+    "VERSION_STRING": "Phiên bản",
+    "ONBOARDING_TV_UNIFIED_APP_STORE_HEADING": "Mới trên App Store",
+    "PURCHASES_RESTRICTED_DESCRIPTION": "Giao dịch mua bị giới hạn trên Apple TV này. Để thay đổi các giới hạn, hãy đi tới Cài đặt.",
+    "ONBOARDING_TV_UNIFIED_APP_STORE_DESCRIPTION": "Chơi 100+ trò chơi đặc biệt với một tài khoản đăng ký. Không có quảng cáo hoặc mua bổ sung.",
+    "OFFER_BUTTON_TITLE_ARCADE_NOT_SUBSCRIBED": "Bắt đầu chơi",
+    "PREORDER_TERMS_PAID": "Nội dung này có thể thay đổi mà không có thông báo và sản phẩm cuối cùng có thể khác.\n\nBạn sẽ không bị tính phí cho tới ngày app này được phát hành. Để xem hoặc hủy đơn hàng đặt trước của bạn trên iPhone hoặc iPad, hãy truy cập Cài đặt tài khoản trong App Store. Trên máy Mac hoặc PC, hãy sử dụng Mac App Store hoặc iTunes.",
+    "ONBOARDING_TV_APP_STORE_DESCRIPTION": "Apple TV của bạn là một nền tảng tuyệt vời dành cho các app và trò chơi hay và App Store là nơi để tìm thấy chúng.",
+    "OFFER_BUTTON_TITLE_OPEN": "Mở",
+    "PRODUCT_SECTION_TEXT_CARDS": "Giới thiệu",
+    "OFFER_BUTTON_TITLE_PREORDER": "Đặt trước",
+    "VERSION_STRING_WITH_RELEASE_DATE": "{version}—Ngày phát hành: {date}",
+    "ONBOARDING_TV_SPLASH_PICKER_APP_STORE": "App Store",
+    "PURCHASES_RESTRICTED_TITLE": "Giao dịch mua app bị giới hạn",
+    "ONBOARDING_TV_APP_STORE_TITLE": "Chào mừng bạn đến App Store",
+    "ONBOARDING_TV_SPLASH_PICKER_TITLE": "Quyền riêng tư",
+    "BADGE_MFI_HEADING": "Bộ điều khiển tùy chọn",
+    "OFFER_BUTTON_TITLE_ARCADE_STANDARD": "Nhận",
+    "OFFER_BUTTON_TITLE_GET": "Nhận",
+    "PRODUCT_DESCRIPTION_HEADER": "{title}—{subtitle}"
+  },
+  "InfoPlist": {
+    "CFBundleDisplayName": "App Store"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "Localizable": {
+    "PREConfirmationMessage": "Sigur doriți să resetați toate configurările?\nVa trebui să vă configurați Apple TV-ul din nou.",
+    "PREResetAllSettingsButton": "Resetați toate configurările",
+    "PREDialogTitle": "Mod recuperare",
+    "PRERestartButton": "Reporniți",
+    "PREMainMessage": "Apple TV‑ul dvs. pare să întâmpine probleme.\nPuteți reseta toate configurările și conturile selectând Resetați toate configurările.\nPentru a reporni fără resetare, alegeți Reporniți.",
+    "PRECancelButton": "Anulați"
+  }
+}

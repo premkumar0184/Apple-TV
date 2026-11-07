@@ -1,0 +1,15 @@
+{
+  "InfoPlist": {
+    "NSLocationWhenInUseUsageDescription": "Используя Вашу геопозицию, мы можем определить, какие спортивные мероприятия и новости спорта доступны в Вашем регионе.",
+    "CFBundleDisplayName": "TV",
+    "CFBundleDisplayName#CH": "Видео",
+    "kMDItemKeywords": "ТВ, видео, фильмы, передачи, выпуски, серия, серии, сериалы, Apple TV, Apple TV+, Apple TV +, Apple TV Plus, Apple TV Плюс, Apple ТВ Плюс, TV+, TV +, TVPlus, TVПлюс, TV Plus, TV Плюс, ТВ Плюс, iTunes, Apple TV, Apple TV+, Apple TV +, Apple TV Plus, Apple TV Plus, Apple TV Плюс, Apple TV Плюс, Apple ТВ Плюс, Apple ТВ Плюс, TV Plus, TV Плюс, ТВ Плюс, TV, Videos, Movies, Shows, эпл тв, эппл тв, эплтв, эпл тв плюс, эппл тв плюс, эплтв плюс, эпл тв +, эппл тв +, эплтв +, эпл тв+, эппл тв+, эплтв+, TV+, TV +, TVPlus, тв +, тв+, твплюс, тв плюс, iTunes, айтюнс, айтюнз, тиви, тэвэ"
+  },
+  "Localizable": {
+    "APP_FAILURE_BODY": "Проверьте интернет‑подключение и повторите попытку.",
+    "INTERNET_UNAVAILABLE_ERROR": "Проверьте настройки сети и повторите попытку.",
+    "APP_FAILURE_TITLE": "Приложение Apple TV сейчас недоступно.",
+    "INTERNET_UNAVAILABLE_TITLE": "Ошибка подключения",
+    "LIBRARY_TAB": "Медиатека"
+  }
+}

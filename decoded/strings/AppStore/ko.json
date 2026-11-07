@@ -1,0 +1,43 @@
+{
+  "Localizable": {
+    "ONBOARDING_TV_SPLASH_PICKER_ARCADE": "Apple 아케이드",
+    "OFFER_BUTTON_TITLE_BUY": "구입",
+    "INFO_LIST_REQUIREMENTS_SUMMARY": "이 {deviceName}와(과) 호환",
+    "PREORDER_TERMS_FREE": "이 내용은 공지 없이 변경될 수 있으며 최종 제품이 다를 수 있습니다.\n\niPhone 또는 iPad에서 사전 주문을 보거나 취소하려면 App Store에서 계정 설정으로 이동하십시오. Mac 또는 PC에서는 Mac App Store 또는 iTunes를 사용하십시오.",
+    "OFFER_BUTTON_TITLE_ARCADE_TRY": "무료 체험",
+    "OFFER_BUTTON_TITLE_BUY_WITH_PRICE": "{price}에 구입",
+    "OFFER_BUTTON_TITLE_PREORDER_WITH_PRICE": "{price}에 사전 주문",
+    "BADGE_MFI_REQUIRED_HEADING": "컨트롤러 필요",
+    "OFFERS_IN_APP_PURCHASES": "앱 내 구입 가능",
+    "OFFER_BUTTON_TITLE_ARCADE_OPEN": "게임 플레이",
+    "SEARCH_PLACEHOLDER": "검색",
+    "MORE_INFORMATION": "추가 정보",
+    "ONBOARDING_TV_ARCADE_TITLE": "Apple 아케이드 시⁠작⁠하⁠기",
+    "ONBOARDING_TV_SPLASH_PICKER_DESCRIPTION": "Apple 서비스는 사용자의 정보를 보호하도록 설계되었으며 공유할 대상을 사용자가 선택할 수 있습니다.",
+    "ARCADE_WELCOME_TV_DEVICES_PRE_MACOS_BODY": "iPhone, iPad, Mac 및 Apple TV에서 플레이할 수 있습니다. 올 가을에 출시 예정입니다.",
+    "INLINE_IN_APP_PURCHASES": "앱 내 구입",
+    "ONBOARDING_TV_ARCADE_DESCRIPTION": "한 번의 구독으로 100개가 넘는 특별한 게임을 즐겨보세요. 광고도 없고, 추가 구입도 필요 없습니다.",
+    "VERSION_STRING": "버전",
+    "ONBOARDING_TV_UNIFIED_APP_STORE_HEADING": "App Store의 새로운 사항",
+    "PURCHASES_RESTRICTED_DESCRIPTION": "이 Apple TV에서 구입이 제한되어 있습니다. 제한사항을 변경하려면 설정으로 이동하십시오.",
+    "ONBOARDING_TV_UNIFIED_APP_STORE_DESCRIPTION": "한 번의 구독으로 100개가 넘는 특별한 게임을 즐겨보세요. 광고도 없고, 추가 구입도 필요 없습니다.",
+    "OFFER_BUTTON_TITLE_ARCADE_NOT_SUBSCRIBED": "플레이 시작",
+    "PREORDER_TERMS_PAID": "이 내용은 공지 없이 변경될 수 있으며 최종 제품이 다를 수 있습니다.\n\n이 앱이 출시되기 전에는 요금이 부과되지 않습니다. iPhone 또는 iPad에서 사전 주문을 보거나 취소하려면 App Store에서 계정 설정으로 이동하십시오. Mac 또는 PC에서는 Mac App Store 또는 iTunes를 사용하십시오.",
+    "ONBOARDING_TV_APP_STORE_DESCRIPTION": "Apple TV는 흥미로운 앱과 게임을 즐길 수 있는 훌륭한 플랫폼이며, App Store에서 이러한 앱과 게임을 찾아볼 수 있습니다.",
+    "OFFER_BUTTON_TITLE_OPEN": "열기",
+    "PRODUCT_SECTION_TEXT_CARDS": "이 콘텐츠에 관하여",
+    "OFFER_BUTTON_TITLE_PREORDER": "사전 주문",
+    "VERSION_STRING_WITH_RELEASE_DATE": "{version}—{date} 출시됨",
+    "ONBOARDING_TV_SPLASH_PICKER_APP_STORE": "App Store",
+    "PURCHASES_RESTRICTED_TITLE": "앱 구입이 제한됨",
+    "ONBOARDING_TV_APP_STORE_TITLE": "App Store 시작하기",
+    "ONBOARDING_TV_SPLASH_PICKER_TITLE": "개인 정보 보호",
+    "BADGE_MFI_HEADING": "컨트롤러 사용 가능",
+    "OFFER_BUTTON_TITLE_ARCADE_STANDARD": "받기",
+    "OFFER_BUTTON_TITLE_GET": "받기",
+    "PRODUCT_DESCRIPTION_HEADER": "{title}—{subtitle}"
+  },
+  "InfoPlist": {
+    "CFBundleDisplayName": "App Store"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "CFBundleName": "Setup",
+  "DTXcode": "1140",
+  "DTSDKName": "appletvos13.4.internal",
+  "SBAppTags": [
+    "hidden"
+  ],
+  "DTSDKBuild": "17M59",
+  "CFBundleDevelopmentRegion": "en",
+  "CFBundleVersion": "1.0",
+  "BuildMachineOSBuild": "18A391024",
+  "UIBackgroundModes": [
+    "continuous"
+  ],
+  "DTPlatformName": "appletvos",
+  "CFBundlePackageType": "APPL",
+  "CFBundleShortVersionString": "1.0",
+  "CFBundleSupportedPlatforms": [
+    "AppleTVOS"
+  ],
+  "UIUserInterfaceStyle": "Light",
+  "CFBundleInfoDictionaryVersion": "6.0",
+  "CFBundleExecutable": "Setup",
+  "DTCompiler": "com.apple.compilers.llvm.clang.1_0",
+  "UIRequiredDeviceCapabilities": [
+    "arm64"
+  ],
+  "MinimumOSVersion": "13.4",
+  "CFBundleIdentifier": "com.apple.purplebuddy",
+  "UIDeviceFamily": [
+    3
+  ],
+  "DTPlatformVersion": "13.4",
+  "CFBundleSignature": "????",
+  "DTXcodeBuild": "11O62d",
+  "LSRequiresIPhoneOS": true,
+  "UIApplicationSystemWindowsSecureKey": true,
+  "UIRequiresFullScreen": true,
+  "DTPlatformBuild": "11O62d",
+  "SBIsLaunchableDuringSetup": true,
+  "BKRequiresExtendedLaunchInterval": true
+}

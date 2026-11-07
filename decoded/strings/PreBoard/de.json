@@ -1,0 +1,10 @@
+{
+  "Localizable": {
+    "PREConfirmationMessage": "Sollen alle Einstellungen zurückgesetzt werden?\nApple TV muss dann erneut konfiguriert werden.",
+    "PREResetAllSettingsButton": "Alle Einstellungen zurücksetzen",
+    "PREDialogTitle": "Wiederherstellungsmodus",
+    "PRERestartButton": "Neustart",
+    "PREMainMessage": "Bei deinem Apple TV ist ein Problem aufgetreten.\nSetze alle Einstellungen und Accounts zurück, indem du „Alle Einstellungen zurücksetzen“ wählst.\nUm neu zu starten, ohne das Gerät zurückzusetzen, wähle „Neustart“.",
+    "PRECancelButton": "Abbrechen"
+  }
+}

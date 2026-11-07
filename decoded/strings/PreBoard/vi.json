@@ -1,0 +1,10 @@
+{
+  "Localizable": {
+    "PREConfirmationMessage": "Bạn có chắc muốn đặt lại tất cả các cài đặt không?\nBạn sẽ phải thiết lập lại Apple TV.",
+    "PREResetAllSettingsButton": "Đặt lại tất cả cài đặt",
+    "PREDialogTitle": "Chế độ khôi phục",
+    "PRERestartButton": "Khởi động lại",
+    "PREMainMessage": "Apple TV của bạn dường như đang gặp sự cố.\nBạn có thể đặt lại tất cả các cài đặt và tài khoản bằng cách chọn Đặt lại tất cả cài đặt.\nĐể khởi động lại mà không đặt lại, hãy chọn Khởi động lại.",
+    "PRECancelButton": "Hủy"
+  }
+}

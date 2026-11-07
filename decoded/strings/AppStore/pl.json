@@ -1,0 +1,43 @@
+{
+  "Localizable": {
+    "ONBOARDING_TV_SPLASH_PICKER_ARCADE": "Apple Arcade",
+    "OFFER_BUTTON_TITLE_BUY": "Kup",
+    "INFO_LIST_REQUIREMENTS_SUMMARY": "Działa na tym urządzeniu ({deviceName})",
+    "PREORDER_TERMS_FREE": "Zawartość może ulec zmianie bez uprzedzenia, a produkt końcowy może być inny.\n\nAby wyświetlić lub anulować zamówienia w przedsprzedaży na iPhonie lub iPadzie, przejdź do ustawień konta w App Store. Jeśli używasz Maca lub komputera PC, użyj Mac App Store lub iTunes.",
+    "OFFER_BUTTON_TITLE_ARCADE_TRY": "Wypróbuj",
+    "OFFER_BUTTON_TITLE_BUY_WITH_PRICE": "Kup {price}",
+    "OFFER_BUTTON_TITLE_PREORDER_WITH_PRICE": "Zamów {price}",
+    "BADGE_MFI_REQUIRED_HEADING": "Wymagany kontroler",
+    "OFFERS_IN_APP_PURCHASES": "Oferuje zakupy w aplikacji",
+    "OFFER_BUTTON_TITLE_ARCADE_OPEN": "Graj",
+    "SEARCH_PLACEHOLDER": "Szukaj",
+    "MORE_INFORMATION": "Więcej informacji",
+    "ONBOARDING_TV_ARCADE_TITLE": "Witamy w Apple Arcade",
+    "ONBOARDING_TV_SPLASH_PICKER_DESCRIPTION": "Usługi Apple zostały zaprojektowane z myślą o ochronie Twoich danych i umożliwieniu Ci wyboru w zakresie udostępnianych rzeczy.",
+    "ARCADE_WELCOME_TV_DEVICES_PRE_MACOS_BODY": "Już tej jesieni zagrasz na iPhonie, iPadzie, Macu i Apple TV.",
+    "INLINE_IN_APP_PURCHASES": "Zakupy w aplikacji",
+    "ONBOARDING_TV_ARCADE_DESCRIPTION": "Zagraj w ponad 100 niezwykłych gier w jednej subskrypcji. Bez reklam ani dodatkowych zakupów.",
+    "VERSION_STRING": "Wersja",
+    "ONBOARDING_TV_UNIFIED_APP_STORE_HEADING": "Pierwszy raz w App Store",
+    "PURCHASES_RESTRICTED_DESCRIPTION": "Zakupy na tym Apple TV zostały ograniczone. Aby zmienić ograniczenia, przejdź do Ustawień.",
+    "ONBOARDING_TV_UNIFIED_APP_STORE_DESCRIPTION": "Zagraj w ponad 100 niezwykłych gier w jednej subskrypcji. Bez reklam ani dodatkowych zakupów.",
+    "OFFER_BUTTON_TITLE_ARCADE_NOT_SUBSCRIBED": "Zagraj",
+    "PREORDER_TERMS_PAID": "Zawartość może ulec zmianie bez uprzedzenia, a produkt końcowy może być inny.\n\nNie obciążymy Cię, dopóki ta aplikacja nie będzie dostępna. Aby wyświetlić lub anulować zamówienia w przedsprzedaży na iPhonie lub iPadzie, przejdź do ustawień konta w App Store. Jeśli używasz Maca lub komputera PC, użyj Mac App Store lub iTunes.",
+    "ONBOARDING_TV_APP_STORE_DESCRIPTION": "Apple TV to niesamowita platforma ze świetnymi aplikacjami oraz grami, a App Store to miejsce, gdzie je znajdziesz.",
+    "OFFER_BUTTON_TITLE_OPEN": "Otwórz",
+    "PRODUCT_SECTION_TEXT_CARDS": "Informacje",
+    "OFFER_BUTTON_TITLE_PREORDER": "Przedsprzedaż",
+    "VERSION_STRING_WITH_RELEASE_DATE": "{version} — Wydano {date}",
+    "ONBOARDING_TV_SPLASH_PICKER_APP_STORE": "App Store",
+    "PURCHASES_RESTRICTED_TITLE": "Zakupy aplikacji ograniczone",
+    "ONBOARDING_TV_APP_STORE_TITLE": "Witamy w App Store",
+    "ONBOARDING_TV_SPLASH_PICKER_TITLE": "Prywatność",
+    "BADGE_MFI_HEADING": "Kontroler opcjonalny",
+    "OFFER_BUTTON_TITLE_ARCADE_STANDARD": "Pobierz",
+    "OFFER_BUTTON_TITLE_GET": "Pobierz",
+    "PRODUCT_DESCRIPTION_HEADER": "{title}—{subtitle}"
+  },
+  "InfoPlist": {
+    "CFBundleDisplayName": "App Store"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "Localizable": {
+    "PREConfirmationMessage": "Tem certeza de que deseja redefinir todos os ajustes?\nVocê terá que configurar a sua Apple TV novamente.",
+    "PREResetAllSettingsButton": "Redefinir Todos os Ajustes",
+    "PREDialogTitle": "Modo de Recuperação",
+    "PRERestartButton": "Reiniciar",
+    "PREMainMessage": "Parece que a Apple TV está tendo dificuldades.\nVocê pode redefinir todos os ajustes e contas selecionando\nRedefinir Todos os Ajustes.\nPara reiniciar sem redefinir, selecione Reiniciar.",
+    "PRECancelButton": "Cancelar"
+  }
+}

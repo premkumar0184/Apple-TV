@@ -1,0 +1,347 @@
+{
+  "application": "Setup",
+  "car_path": "/home/prem/Projects/AppleTV/extracted/rootfs/Applications/Setup.app/Assets.car",
+  "file_size": 27624,
+  "sha256": "89ba9dc87d34272301eec08551493111d118bf0ceff78dd0d8e5432855bdc3a2",
+  "car_header": "RATCa\r@(#)PROGRAM:CoreUI  PROJECT:CoreUI-609.4\nIBCocoaTouchImageCatalogTool-11.411O62d1348",
+  "extended_metadata": "METAcarutil 609.400000, thinned <mode app> <idiom 3,3> <subtype 3840,3840> <subtypefallback *> <scale 1,2> <gamut 0,1> <graphics 4,4> <graphicsfallback (2,1,0),(2,1,0)> <memory *> <deployment+ 5,5> <hostedIdioms *> <removed none>13.4atv@(#)PROGRAM:CoreThemeDefinition  PROJECT:CoreThemeDefinition-447.1",
+  "appearances": {
+    "0": "UIAppearanceAny"
+  },
+  "total_facets": 5,
+  "total_renditions": 13,
+  "extracted_bitmaps": 3,
+  "extracted_vectors": 0,
+  "extracted_layered_images": 0,
+  "facets": {
+    "AirPort0": {
+      "name": "AirPort0",
+      "raw_val_hex": "000000000300010055000200b500110083ba",
+      "facet_id": null
+    },
+    "AirPort1": {
+      "name": "AirPort1",
+      "raw_val_hex": "000000000300010055000200b5001100e446",
+      "facet_id": null
+    },
+    "AirPort2": {
+      "name": "AirPort2",
+      "raw_val_hex": "000000000300010055000200b500110045d3",
+      "facet_id": null
+    },
+    "AirPort3": {
+      "name": "AirPort3",
+      "raw_val_hex": "000000000300010055000200b5001100a65f",
+      "facet_id": null
+    },
+    "SecureAirPort": {
+      "name": "SecureAirPort",
+      "raw_val_hex": "000000000300010055000200b5001100b997",
+      "facet_id": null
+    }
+  },
+  "renditions": [
+    {
+      "index": 0,
+      "facet_name": "\u00ec\u0003",
+      "rendition_id": 0,
+      "key_hex": "01000300000000000900b500",
+      "key_attributes": [
+        1,
+        3,
+        0,
+        0,
+        9,
+        181
+      ],
+      "scale": 1,
+      "appearance": "Appearance_181",
+      "appearance_id": 181,
+      "width": 138,
+      "height": 106,
+      "pixel_format": " 8AG",
+      "uti": "com.apple.coreui.bitmap",
+      "is_inlink": false,
+      "payload_bytes": 1920,
+      "extracted_file": "Setup/images/\u00ec\u0003_1x_Appearance_181.png"
+    },
+    {
+      "index": 1,
+      "facet_name": "\u00eb\u0003",
+      "rendition_id": 0,
+      "key_hex": "01000300000045d35500b500",
+      "key_attributes": [
+        1,
+        3,
+        0,
+        54085,
+        85,
+        181
+      ],
+      "scale": 1,
+      "appearance": "Appearance_181",
+      "appearance_id": 181,
+      "width": 50,
+      "height": 50,
+      "pixel_format": " 8AG",
+      "uti": "com.apple.coreui.bitmap",
+      "is_inlink": true,
+      "payload_bytes": 334
+    },
+    {
+      "index": 2,
+      "facet_name": "\u00eb\u0003",
+      "rendition_id": 0,
+      "key_hex": "01000300000083ba5500b500",
+      "key_attributes": [
+        1,
+        3,
+        0,
+        47747,
+        85,
+        181
+      ],
+      "scale": 1,
+      "appearance": "Appearance_181",
+      "appearance_id": 181,
+      "width": 50,
+      "height": 50,
+      "pixel_format": " 8AG",
+      "uti": "com.apple.coreui.bitmap",
+      "is_inlink": true,
+      "payload_bytes": 334
+    },
+    {
+      "index": 3,
+      "facet_name": "\u00eb\u0003",
+      "rendition_id": 0,
+      "key_hex": "010003000000a65f5500b500",
+      "key_attributes": [
+        1,
+        3,
+        0,
+        24486,
+        85,
+        181
+      ],
+      "scale": 1,
+      "appearance": "Appearance_181",
+      "appearance_id": 181,
+      "width": 50,
+      "height": 50,
+      "pixel_format": " 8AG",
+      "uti": "com.apple.coreui.bitmap",
+      "is_inlink": true,
+      "payload_bytes": 334
+    },
+    {
+      "index": 4,
+      "facet_name": "\u00eb\u0003",
+      "rendition_id": 0,
+      "key_hex": "010003000000b9975500b500",
+      "key_attributes": [
+        1,
+        3,
+        0,
+        38841,
+        85,
+        181
+      ],
+      "scale": 1,
+      "appearance": "Appearance_181",
+      "appearance_id": 181,
+      "width": 30,
+      "height": 30,
+      "pixel_format": " 8AG",
+      "uti": "com.apple.coreui.bitmap",
+      "is_inlink": true,
+      "payload_bytes": 334
+    },
+    {
+      "index": 5,
+      "facet_name": "\u00eb\u0003",
+      "rendition_id": 0,
+      "key_hex": "010003000000e4465500b500",
+      "key_attributes": [
+        1,
+        3,
+        0,
+        18148,
+        85,
+        181
+      ],
+      "scale": 1,
+      "appearance": "Appearance_181",
+      "appearance_id": 181,
+      "width": 50,
+      "height": 50,
+      "pixel_format": " 8AG",
+      "uti": "com.apple.coreui.bitmap",
+      "is_inlink": true,
+      "payload_bytes": 334
+    },
+    {
+      "index": 6,
+      "facet_name": "\u00ec\u0003",
+      "rendition_id": 0,
+      "key_hex": "02000300000000000900b500",
+      "key_attributes": [
+        2,
+        3,
+        0,
+        0,
+        9,
+        181
+      ],
+      "scale": 2,
+      "appearance": "Appearance_181",
+      "appearance_id": 181,
+      "width": 206,
+      "height": 206,
+      "pixel_format": " 8AG",
+      "uti": "com.apple.coreui.bitmap",
+      "is_inlink": false,
+      "payload_bytes": 3060,
+      "extracted_file": "Setup/images/\u00ec\u0003_2x_Appearance_181.png"
+    },
+    {
+      "index": 7,
+      "facet_name": "\u00eb\u0003",
+      "rendition_id": 0,
+      "key_hex": "02000300000045d35500b500",
+      "key_attributes": [
+        2,
+        3,
+        0,
+        54085,
+        85,
+        181
+      ],
+      "scale": 2,
+      "appearance": "Appearance_181",
+      "appearance_id": 181,
+      "width": 100,
+      "height": 100,
+      "pixel_format": " 8AG",
+      "uti": "com.apple.coreui.bitmap",
+      "is_inlink": true,
+      "payload_bytes": 334
+    },
+    {
+      "index": 8,
+      "facet_name": "\u00eb\u0003",
+      "rendition_id": 0,
+      "key_hex": "02000300000083ba5500b500",
+      "key_attributes": [
+        2,
+        3,
+        0,
+        47747,
+        85,
+        181
+      ],
+      "scale": 2,
+      "appearance": "Appearance_181",
+      "appearance_id": 181,
+      "width": 100,
+      "height": 100,
+      "pixel_format": " 8AG",
+      "uti": "com.apple.coreui.bitmap",
+      "is_inlink": true,
+      "payload_bytes": 334
+    },
+    {
+      "index": 9,
+      "facet_name": "\u00eb\u0003",
+      "rendition_id": 0,
+      "key_hex": "020003000000a65f5500b500",
+      "key_attributes": [
+        2,
+        3,
+        0,
+        24486,
+        85,
+        181
+      ],
+      "scale": 2,
+      "appearance": "Appearance_181",
+      "appearance_id": 181,
+      "width": 100,
+      "height": 100,
+      "pixel_format": " 8AG",
+      "uti": "com.apple.coreui.bitmap",
+      "is_inlink": true,
+      "payload_bytes": 334
+    },
+    {
+      "index": 10,
+      "facet_name": "\u00eb\u0003",
+      "rendition_id": 0,
+      "key_hex": "020003000000b9975500b500",
+      "key_attributes": [
+        2,
+        3,
+        0,
+        38841,
+        85,
+        181
+      ],
+      "scale": 2,
+      "appearance": "Appearance_181",
+      "appearance_id": 181,
+      "width": 60,
+      "height": 60,
+      "pixel_format": " 8AG",
+      "uti": "com.apple.coreui.bitmap",
+      "is_inlink": true,
+      "payload_bytes": 338
+    },
+    {
+      "index": 11,
+      "facet_name": "\u00eb\u0003",
+      "rendition_id": 0,
+      "key_hex": "020003000000e4465500b500",
+      "key_attributes": [
+        2,
+        3,
+        0,
+        18148,
+        85,
+        181
+      ],
+      "scale": 2,
+      "appearance": "Appearance_181",
+      "appearance_id": 181,
+      "width": 100,
+      "height": 100,
+      "pixel_format": " 8AG",
+      "uti": "com.apple.coreui.bitmap",
+      "is_inlink": true,
+      "payload_bytes": 334
+    },
+    {
+      "index": 12,
+      "facet_name": "\u00ec\u0003",
+      "rendition_id": 1,
+      "key_hex": "02000300010000000900b500",
+      "key_attributes": [
+        2,
+        3,
+        1,
+        0,
+        9,
+        181
+      ],
+      "scale": 2,
+      "appearance": "Appearance_181",
+      "appearance_id": 181,
+      "width": 64,
+      "height": 64,
+      "pixel_format": " 8AG",
+      "uti": "com.apple.coreui.bitmap",
+      "is_inlink": false,
+      "payload_bytes": 665,
+      "extracted_file": "Setup/images/\u00ec\u0003_2x_Appearance_181.png"
+    }
+  ]
+}

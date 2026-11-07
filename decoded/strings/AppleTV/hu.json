@@ -1,0 +1,15 @@
+{
+  "InfoPlist": {
+    "NSLocationWhenInUseUsageDescription": "A helyzetét az elérhető tartalmak meghatározásához, valamint a tartózkodási helyén elérhető sport- vagy egyéb élő események és hírek szolgáltatásához használjuk fel.",
+    "CFBundleDisplayName": "TV",
+    "CFBundleDisplayName#CH": "Videók",
+    "kMDItemKeywords": "TV, Videók, Filmek, Műsorok, Apple TV, Apple TV+, Apple TV +, Apple TV plusz, TV+, TV +, TVPlus, TV plusz, iTunes"
+  },
+  "Localizable": {
+    "APP_FAILURE_BODY": "Ellenőrizze az internetkapcsolatot, és próbálja újra.",
+    "INTERNET_UNAVAILABLE_ERROR": "Ellenőrizze a hálózati beállításokat, majd próbálkozzon újra.",
+    "APP_FAILURE_TITLE": "Az Apple TV alkalmazás jelenleg nem érhető el.",
+    "INTERNET_UNAVAILABLE_TITLE": "Kapcsolathiba",
+    "LIBRARY_TAB": "Könyvtár"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "CFBundleName": "TVPeripheralAgent",
+  "DTXcode": "1140",
+  "DTSDKName": "appletvos13.4.internal",
+  "SBAppTags": [
+    "hidden"
+  ],
+  "DTSDKBuild": "17M59",
+  "CFBundleDevelopmentRegion": "en",
+  "CFBundleVersion": "1",
+  "BuildMachineOSBuild": "18A391024",
+  "DTPlatformName": "appletvos",
+  "CFBundlePackageType": "APPL",
+  "CFBundleShortVersionString": "1.0",
+  "CFBundleSupportedPlatforms": [
+    "AppleTVOS"
+  ],
+  "CFBundleInfoDictionaryVersion": "6.0",
+  "CFBundleExecutable": "TVPeripheralAgent",
+  "DTCompiler": "com.apple.compilers.llvm.clang.1_0",
+  "UIRequiredDeviceCapabilities": [
+    "arm64"
+  ],
+  "MinimumOSVersion": "13.4",
+  "CFBundleIdentifier": "com.apple.TVPeripheralAgent",
+  "UIDeviceFamily": [
+    3
+  ],
+  "DTPlatformVersion": "13.4",
+  "DTXcodeBuild": "11O62d",
+  "CFBundleSignature": "????",
+  "LSRequiresIPhoneOS": true,
+  "UISupportedInterfaceOrientations": [
+    "UIInterfaceOrientationPortrait",
+    "UIInterfaceOrientationLandscapeLeft",
+    "UIInterfaceOrientationLandscapeRight"
+  ],
+  "UISupportedInterfaceOrientations~ipad": [
+    "UIInterfaceOrientationPortrait",
+    "UIInterfaceOrientationPortraitUpsideDown",
+    "UIInterfaceOrientationLandscapeLeft",
+    "UIInterfaceOrientationLandscapeRight"
+  ],
+  "DTPlatformBuild": "11O62d"
+}

@@ -1,0 +1,10 @@
+{
+  "Localizable": {
+    "PREConfirmationMessage": "Czy na pewno chcesz wyzerować wszystkie ustawienia? Będzie to wymagało ponownego skonfigurowania Apple TV.",
+    "PREResetAllSettingsButton": "Wyzeruj wszystkie ustawienia",
+    "PREDialogTitle": "Tryb odzyskiwania",
+    "PRERestartButton": "Uruchom ponownie",
+    "PREMainMessage": "Wygląda na to, że występują problemy z Apple TV.\nMożesz wyzerować wszystkie ustawienia i konta, wybierając Wyzeruj wszystkie ustawienia.\nAby uruchomić ponownie bez zerowania, wybierz Uruchom ponownie.",
+    "PRECancelButton": "Anuluj"
+  }
+}

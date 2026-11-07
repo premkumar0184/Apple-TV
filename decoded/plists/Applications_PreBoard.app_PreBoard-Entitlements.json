@@ -1,0 +1,11 @@
+{
+  "allow-obliterate-device": true,
+  "com.apple.QuartzCore.displayable-context": true,
+  "com.apple.QuartzCore.secure-mode": true,
+  "com.apple.backboard.client": true,
+  "com.apple.private.attentionawareness": true,
+  "com.apple.private.kernel.darkboot": true,
+  "com.apple.private.kernel.jetsam": true,
+  "com.apple.private.security.no-sandbox": true,
+  "com.apple.private.xpc.launchd.app-server": true
+}

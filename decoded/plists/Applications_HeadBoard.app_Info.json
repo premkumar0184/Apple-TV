@@ -1,0 +1,55 @@
+{
+  "CFBundleName": "HeadBoard",
+  "DTXcode": "1140",
+  "DTSDKName": "appletvos13.4.internal",
+  "PBKioskAppPriority": 300,
+  "HBCKContainerIdentifier": "com.apple.container.HeadBoard",
+  "DTSDKBuild": "17M59",
+  "SBAppTags": [
+    "hidden"
+  ],
+  "CFBundleDevelopmentRegion": "en",
+  "CFBundleVersion": "1.0",
+  "BuildMachineOSBuild": "18A391024",
+  "UIBackgroundModes": [
+    "remote-notification"
+  ],
+  "DTPlatformName": "appletvos",
+  "CFBundlePackageType": "APPL",
+  "CFBundleShortVersionString": "1.0",
+  "CFBundleSupportedPlatforms": [
+    "AppleTVOS"
+  ],
+  "UIUserInterfaceStyle": "Automatic",
+  "CFBundleInfoDictionaryVersion": "6.0",
+  "CFBundleExecutable": "HeadBoard",
+  "DTCompiler": "com.apple.compilers.llvm.clang.1_0",
+  "UIRequiredDeviceCapabilities": [
+    "arm64"
+  ],
+  "MinimumOSVersion": "13.4",
+  "CFBundleIdentifier": "com.apple.HeadBoard",
+  "UIAppFonts": [
+    "SFCondensedPhotos-Bold.otf"
+  ],
+  "DTPlatformVersion": "13.4",
+  "CFBundleSignature": "????",
+  "CFBundleDisplayName": "HeadBoard",
+  "DTXcodeBuild": "11O62d",
+  "LSRequiresIPhoneOS": true,
+  "UIDeviceFamily": [
+    3
+  ],
+  "UISupportedInterfaceOrientations": [
+    "UIInterfaceOrientationPortrait",
+    "UIInterfaceOrientationLandscapeLeft",
+    "UIInterfaceOrientationLandscapeRight"
+  ],
+  "UISupportedInterfaceOrientations~ipad": [
+    "UIInterfaceOrientationPortrait",
+    "UIInterfaceOrientationPortraitUpsideDown",
+    "UIInterfaceOrientationLandscapeLeft",
+    "UIInterfaceOrientationLandscapeRight"
+  ],
+  "DTPlatformBuild": "11O62d"
+}

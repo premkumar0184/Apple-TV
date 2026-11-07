@@ -1,0 +1,79 @@
+{
+  "CFBundleURLTypes": [
+    {
+      "CFBundleURLName": "App Store URL",
+      "CFBundleURLSchemes": [
+        "itms-apps",
+        "itms-appss"
+      ],
+      "CFBundleTypeRole": "Viewer"
+    },
+    {
+      "CFBundleURLName": "App Store",
+      "CFBundleURLSchemes": [
+        "com.apple.AppStore",
+        "com.apple.TVAppStore"
+      ]
+    }
+  ],
+  "UIRequiredDeviceCapabilities": [
+    "arm64"
+  ],
+  "CFBundleInfoDictionaryVersion": "6.0",
+  "DTPlatformVersion": "13.4",
+  "UIUserInterfaceStyle": "Automatic",
+  "CFBundleName": "AppStore",
+  "DTSDKName": "appletvos13.4.internal",
+  "CFBundleIcons": {
+    "CFBundlePrimaryIcon": "App Icon"
+  },
+  "CFBundleDisplayName": "App\u00a0Store",
+  "UIRequiresPersistentWiFi": true,
+  "LSRequiresIPhoneOS": true,
+  "ApplicationInfo": {
+    "app-identifier": "com.apple.tvappstore"
+  },
+  "UIBackgroundModes": [],
+  "DTSDKBuild": "17M59",
+  "CFBundleShortVersionString": "3.0",
+  "TVTopShelfImage": {
+    "TVTopShelfPrimaryImageWide": "Top Shelf Image Wide"
+  },
+  "CFBundleSupportedPlatforms": [
+    "AppleTVOS"
+  ],
+  "TVTopShelfFullScreenImage": "TopShelfFallback-AppStore",
+  "BuildMachineOSBuild": "18A391024",
+  "DTPlatformBuild": "11O62d",
+  "CFBundlePackageType": "APPL",
+  "MinimumOSVersion": "13.4",
+  "CFBundleDevelopmentRegion": "en",
+  "DTXcodeBuild": "11O62d",
+  "CFBundleVersion": "1",
+  "UITemplateLaunchImage": true,
+  "UILaunchImages": [
+    {
+      "UILaunchImageOrientation": "Landscape",
+      "UILaunchImageName": "AppStore-LaunchImage",
+      "UILaunchImageSize": "{1920, 1080}",
+      "UILaunchImageMinimumOSVersion": "9.0"
+    },
+    {
+      "UILaunchImageOrientation": "Landscape",
+      "UILaunchImageName": "AppStore-LaunchImage",
+      "UILaunchImageSize": "{1920, 1080}",
+      "UILaunchImageMinimumOSVersion": "11.0"
+    }
+  ],
+  "SBMatchingApplicationGenres": [
+    "Utilities"
+  ],
+  "UIDeviceFamily": [
+    3
+  ],
+  "CFBundleIdentifier": "com.apple.TVAppStore",
+  "DTXcode": "1140",
+  "CFBundleExecutable": "AppStore",
+  "DTPlatformName": "appletvos",
+  "DTCompiler": "com.apple.compilers.llvm.clang.1_0"
+}

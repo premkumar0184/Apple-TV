@@ -1,0 +1,43 @@
+{
+  "Localizable": {
+    "ONBOARDING_TV_SPLASH_PICKER_ARCADE": "Apple Arcade",
+    "OFFER_BUTTON_TITLE_BUY": "Αγορά",
+    "INFO_LIST_REQUIREMENTS_SUMMARY": "Με αυτό το {deviceName}",
+    "PREORDER_TERMS_FREE": "Αυτό το περιεχόμενο μπορεί να αλλάξει χωρίς ειδοποίηση και το τελικό προϊόν ενδέχεται να είναι διαφορετικό.\n\nΓια προβολή ή ακύρωση των προπαραγγελιών σας σε iPhone ή iPad, μεταβείτε στις Ρυθμίσεις λογαριασμού στο App Store. Σε Mac ή PC, χρησιμοποιήστε το Mac App Store ή το iTunes.",
+    "OFFER_BUTTON_TITLE_ARCADE_TRY": "Δωρεάν δοκιμή",
+    "OFFER_BUTTON_TITLE_BUY_WITH_PRICE": "Αγορά {price}",
+    "OFFER_BUTTON_TITLE_PREORDER_WITH_PRICE": "Προπαραγγελία {price}",
+    "BADGE_MFI_REQUIRED_HEADING": "Απαιτείται χειριστήριο",
+    "OFFERS_IN_APP_PURCHASES": "Διατίθενται αγορές εντός εφαρμογής",
+    "OFFER_BUTTON_TITLE_ARCADE_OPEN": "Έναρξη παιχνιδιού",
+    "SEARCH_PLACEHOLDER": "Αναζήτηση",
+    "MORE_INFORMATION": "Άλλες πληροφορίες",
+    "ONBOARDING_TV_ARCADE_TITLE": "Καλώς ορίσατε στο Apple Arcade",
+    "ONBOARDING_TV_SPLASH_PICKER_DESCRIPTION": "Οι Υπηρεσίες Apple έχουν σχεδιαστεί ώστε να προστατεύουν τις πληροφορίες σας και να σας δίνουν τη δυνατότητα να επιλέγετε τα δεδομένα προς κοινοποίηση.",
+    "ARCADE_WELCOME_TV_DEVICES_PRE_MACOS_BODY": "Παίξτε παιχνίδια στα iPhone, iPad, Mac και Apple TV σας. Κοντά σας φέτος το φθινόπωρο.",
+    "INLINE_IN_APP_PURCHASES": "Αγορές εντός εφαρμογής",
+    "ONBOARDING_TV_ARCADE_DESCRIPTION": "Παίξτε 100+ εξαιρετικά παιχνίδια με μία συνδρομή. Χωρίς διαφημίσεις ή πρόσθετες αγορές.",
+    "VERSION_STRING": "Έκδοση",
+    "ONBOARDING_TV_UNIFIED_APP_STORE_HEADING": "Νέο στο App Store",
+    "PURCHASES_RESTRICTED_DESCRIPTION": "Υπάρχει περιορισμός αγορών σε αυτό το Apple TV. Για αλλαγή των περιορισμών, μεταβείτε στις Ρυθμίσεις.",
+    "ONBOARDING_TV_UNIFIED_APP_STORE_DESCRIPTION": "Παίξτε 100+ εξαιρετικά παιχνίδια με μία συνδρομή. Χωρίς διαφημίσεις ή πρόσθετες αγορές.",
+    "OFFER_BUTTON_TITLE_ARCADE_NOT_SUBSCRIBED": "Ξεκινήστε να παίζετε",
+    "PREORDER_TERMS_PAID": "Αυτό το περιεχόμενο μπορεί να αλλάξει χωρίς ειδοποίηση και το τελικό προϊόν ενδέχεται να είναι διαφορετικό.\n\nΘα χρεωθείτε την ημέρα που θα κυκλοφορήσει αυτή η εφαρμογή. Για προβολή ή ακύρωση των προπαραγγελιών σας σε iPhone ή iPad, μεταβείτε στις Ρυθμίσεις λογαριασμού στο App Store. Σε Mac ή PC, χρησιμοποιήστε το Mac App Store ή το iTunes.",
+    "ONBOARDING_TV_APP_STORE_DESCRIPTION": "Το Apple TV είναι μια απίστευτη πλατφόρμα για υπέροχες εφαρμογές και παιχνίδια που μπορείτε να βρείτε στο App Store.",
+    "OFFER_BUTTON_TITLE_OPEN": "Άνοιγμα",
+    "PRODUCT_SECTION_TEXT_CARDS": "Πληροφορίες",
+    "OFFER_BUTTON_TITLE_PREORDER": "Προπαραγγελία",
+    "VERSION_STRING_WITH_RELEASE_DATE": "{version} – κυκλοφόρησε {date}",
+    "ONBOARDING_TV_SPLASH_PICKER_APP_STORE": "App Store",
+    "PURCHASES_RESTRICTED_TITLE": "Περιορισμένες αγορές εφαρμογών",
+    "ONBOARDING_TV_APP_STORE_TITLE": "Καλώς ορίσατε στο App Store",
+    "ONBOARDING_TV_SPLASH_PICKER_TITLE": "Απόρρητο",
+    "BADGE_MFI_HEADING": "Χειριστήριο προαιρετικό",
+    "OFFER_BUTTON_TITLE_ARCADE_STANDARD": "Απόκτηση",
+    "OFFER_BUTTON_TITLE_GET": "Απόκτηση",
+    "PRODUCT_DESCRIPTION_HEADER": "{title}—{subtitle}"
+  },
+  "InfoPlist": {
+    "CFBundleDisplayName": "App Store"
+  }
+}

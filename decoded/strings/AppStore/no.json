@@ -1,0 +1,43 @@
+{
+  "Localizable": {
+    "ONBOARDING_TV_SPLASH_PICKER_ARCADE": "Apple Arcade",
+    "OFFER_BUTTON_TITLE_BUY": "Kjøp",
+    "INFO_LIST_REQUIREMENTS_SUMMARY": "Virker på din {deviceName}",
+    "PREORDER_TERMS_FREE": "Innholdet kan bli endret uten varsel, og sluttproduktet kan se annerledes ut.\n\nDu kan se bestillingene dine og avbestille ved å gå til Kontoinnstillinger i App Store på en iPhone eller iPad. På Mac eller PC går du til Mac App Store eller iTunes.",
+    "OFFER_BUTTON_TITLE_ARCADE_TRY": "Prøv gratis",
+    "OFFER_BUTTON_TITLE_BUY_WITH_PRICE": "Kjøp for {price}",
+    "OFFER_BUTTON_TITLE_PREORDER_WITH_PRICE": "Bestill for {price}",
+    "BADGE_MFI_REQUIRED_HEADING": "Kontroller kreves",
+    "OFFERS_IN_APP_PURCHASES": "Tilbyr kjøp i app",
+    "OFFER_BUTTON_TITLE_ARCADE_OPEN": "Spill",
+    "SEARCH_PLACEHOLDER": "Søk",
+    "MORE_INFORMATION": "Mer informasjon",
+    "ONBOARDING_TV_ARCADE_TITLE": "Velkommen til Apple Arcade",
+    "ONBOARDING_TV_SPLASH_PICKER_DESCRIPTION": "Apple-tjenester er utviklet for å beskytte informasjonen din og la deg velge hva du vil dele.",
+    "ARCADE_WELCOME_TV_DEVICES_PRE_MACOS_BODY": "Spill på iPhone, iPad, Mac og Apple TV. Kommer senere i høst.",
+    "INLINE_IN_APP_PURCHASES": "Kjøp i app",
+    "ONBOARDING_TV_ARCADE_DESCRIPTION": "Spill over 100 tilgjengelige spill med ett abonnement, uten reklame eller tilleggskjøp.",
+    "VERSION_STRING": "Versjon",
+    "ONBOARDING_TV_UNIFIED_APP_STORE_HEADING": "Nytt i App Store",
+    "PURCHASES_RESTRICTED_DESCRIPTION": "Kjøp er begrenset på din Apple TV. Gå til Innstillinger for å endre begrensningen.",
+    "ONBOARDING_TV_UNIFIED_APP_STORE_DESCRIPTION": "Spill over 100 tilgjengelige spill med ett abonnement, uten reklame eller tilleggskjøp.",
+    "OFFER_BUTTON_TITLE_ARCADE_NOT_SUBSCRIBED": "Begynn å spille",
+    "PREORDER_TERMS_PAID": "Innholdet kan bli endret uten varsel, og sluttproduktet kan se annerledes ut.\n\nPengene trekkes ikke før den dagen appen blir tilgjengelig. Du kan se bestillingene dine og avbestille ved å gå til Kontoinnstillinger i App Store på en iPhone eller iPad. På Mac eller PC går du til Mac App Store eller iTunes.",
+    "ONBOARDING_TV_APP_STORE_DESCRIPTION": "Apple TV er en fantastisk plattform for gode apper og spill, og App Store er stedet å gå for å finne dem.",
+    "OFFER_BUTTON_TITLE_OPEN": "Åpne",
+    "PRODUCT_SECTION_TEXT_CARDS": "Om",
+    "OFFER_BUTTON_TITLE_PREORDER": "Forhåndsbestill",
+    "VERSION_STRING_WITH_RELEASE_DATE": "{version} – Utgitt {date}",
+    "ONBOARDING_TV_SPLASH_PICKER_APP_STORE": "App Store",
+    "PURCHASES_RESTRICTED_TITLE": "Appkjøp er begrenset",
+    "ONBOARDING_TV_APP_STORE_TITLE": "Velkommen til App Store",
+    "ONBOARDING_TV_SPLASH_PICKER_TITLE": "Personvern",
+    "BADGE_MFI_HEADING": "Kontroller valgfritt",
+    "OFFER_BUTTON_TITLE_ARCADE_STANDARD": "Hent",
+    "OFFER_BUTTON_TITLE_GET": "Hent",
+    "PRODUCT_DESCRIPTION_HEADER": "{title} – {subtitle}"
+  },
+  "InfoPlist": {
+    "CFBundleDisplayName": "App Store"
+  }
+}

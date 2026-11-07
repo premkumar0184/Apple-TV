@@ -1,0 +1,10 @@
+{
+  "Localizable": {
+    "PREConfirmationMessage": "Er du sikker på at du vil tilbakestille alle innstillingene?\nDu må konfigurere Apple TV på nytt.",
+    "PREResetAllSettingsButton": "Nullstill alle innstillinger",
+    "PREDialogTitle": "Gjenopprettingsmodus",
+    "PRERestartButton": "Omstart",
+    "PREMainMessage": "Det ser ut til å ha oppstått et problem med Apple TV.\nDu kan tilbakestille alle innstillinger og kontoer ved å velge Nullstill alle innstillinger.\nVelg Omstart for å starte på nytt uten å tilbakestille.",
+    "PRECancelButton": "Avbryt"
+  }
+}

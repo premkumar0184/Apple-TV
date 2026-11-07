@@ -1,0 +1,516 @@
+[
+  {
+    "original_path": "Applications/AppStore.app/Info.plist",
+    "file_size": 1705,
+    "decoded_json": "Applications_AppStore.app_Info.json",
+    "decoded_xml": "Applications_AppStore.app_Info.xml",
+    "top_keys": [
+      "CFBundleURLTypes",
+      "UIRequiredDeviceCapabilities",
+      "CFBundleInfoDictionaryVersion",
+      "DTPlatformVersion",
+      "UIUserInterfaceStyle",
+      "CFBundleName",
+      "DTSDKName",
+      "CFBundleIcons",
+      "CFBundleDisplayName",
+      "UIRequiresPersistentWiFi"
+    ],
+    "total_keys": 34,
+    "bundle_id": "com.apple.TVAppStore",
+    "executable": "AppStore",
+    "min_os": "13.4",
+    "sdk": "appletvos13.4.internal"
+  },
+  {
+    "original_path": "Applications/AppStore.app/PlugIns/AppStoreTopShelfExtension.appex/Info.plist",
+    "file_size": 1077,
+    "decoded_json": "Applications_AppStore.app_PlugIns_AppStoreTopShelfExtension.appex_Info.json",
+    "decoded_xml": "Applications_AppStore.app_PlugIns_AppStoreTopShelfExtension.appex_Info.xml",
+    "top_keys": [
+      "UnstableJEBundleIdentifierForLocalPreferences",
+      "CFBundleName",
+      "DTXcode",
+      "DTSDKName",
+      "DTSDKBuild",
+      "CFBundleDevelopmentRegion",
+      "CFBundleVersion",
+      "BuildMachineOSBuild",
+      "DTPlatformName",
+      "CFBundlePackageType"
+    ],
+    "total_keys": 24,
+    "bundle_id": "com.apple.TVAppStore.AppStoreTopShelfExtension",
+    "executable": "AppStoreTopShelfExtension",
+    "min_os": "13.4",
+    "sdk": "appletvos13.4.internal"
+  },
+  {
+    "original_path": "Applications/AppleTV.app/Info.plist",
+    "file_size": 1690,
+    "decoded_json": "Applications_AppleTV.app_Info.json",
+    "decoded_xml": "Applications_AppleTV.app_Info.xml",
+    "top_keys": [
+      "CFBundleURLTypes",
+      "UIRequiredDeviceCapabilities",
+      "CFBundleInfoDictionaryVersion",
+      "DTPlatformVersion",
+      "UIUserInterfaceStyle",
+      "CFBundleName",
+      "DTSDKName",
+      "CFBundleIcons",
+      "LSRequiresIPhoneOS",
+      "NSLocationWhenInUseUsageDescription"
+    ],
+    "total_keys": 33,
+    "bundle_id": "com.apple.TVWatchList",
+    "executable": "AppleTV",
+    "min_os": "13.4",
+    "sdk": "appletvos13.4.internal"
+  },
+  {
+    "original_path": "Applications/AppleTV.app/PlugIns/TVUpNextExtension.appex/Info.plist",
+    "file_size": 951,
+    "decoded_json": "Applications_AppleTV.app_PlugIns_TVUpNextExtension.appex_Info.json",
+    "decoded_xml": "Applications_AppleTV.app_PlugIns_TVUpNextExtension.appex_Info.xml",
+    "top_keys": [
+      "CFBundleName",
+      "DTXcode",
+      "DTSDKName",
+      "DTSDKBuild",
+      "CFBundleDevelopmentRegion",
+      "CFBundleVersion",
+      "BuildMachineOSBuild",
+      "DTPlatformName",
+      "CFBundlePackageType",
+      "CFBundleShortVersionString"
+    ],
+    "total_keys": 23,
+    "bundle_id": "com.apple.TVWatchList.TVUpNextExtension",
+    "executable": "TVUpNextExtension",
+    "min_os": "13.4",
+    "sdk": "appletvos13.4.internal"
+  },
+  {
+    "original_path": "Applications/HeadBoard.app/DefaultOrder.plist",
+    "file_size": 688,
+    "decoded_json": "Applications_HeadBoard.app_DefaultOrder.json",
+    "decoded_xml": "Applications_HeadBoard.app_DefaultOrder.xml",
+    "top_keys": [
+      "HBRootFolderKey"
+    ],
+    "total_keys": 1
+  },
+  {
+    "original_path": "Applications/HeadBoard.app/Info.plist",
+    "file_size": 1356,
+    "decoded_json": "Applications_HeadBoard.app_Info.json",
+    "decoded_xml": "Applications_HeadBoard.app_Info.xml",
+    "top_keys": [
+      "CFBundleName",
+      "DTXcode",
+      "DTSDKName",
+      "PBKioskAppPriority",
+      "HBCKContainerIdentifier",
+      "DTSDKBuild",
+      "SBAppTags",
+      "CFBundleDevelopmentRegion",
+      "CFBundleVersion",
+      "BuildMachineOSBuild"
+    ],
+    "total_keys": 32,
+    "bundle_id": "com.apple.HeadBoard",
+    "executable": "HeadBoard",
+    "min_os": "13.4",
+    "sdk": "appletvos13.4.internal"
+  },
+  {
+    "original_path": "Applications/HeadBoard.app/TestAppOrder.plist",
+    "file_size": 2363,
+    "decoded_json": "Applications_HeadBoard.app_TestAppOrder.json",
+    "decoded_xml": "Applications_HeadBoard.app_TestAppOrder.xml",
+    "top_keys": [
+      "HBRootFolderKey"
+    ],
+    "total_keys": 1
+  },
+  {
+    "original_path": "Applications/HeadBoard.app/headboard-Entitlements.plist",
+    "file_size": 1900,
+    "decoded_json": "Applications_HeadBoard.app_headboard-Entitlements.json",
+    "decoded_xml": "Applications_HeadBoard.app_headboard-Entitlements.xml",
+    "top_keys": [
+      "application-identifier",
+      "aps-connection-initiate",
+      "aps-environment",
+      "com.apple.PineBoard.allows-pip",
+      "com.apple.QuartzCore.global-capture",
+      "com.apple.appletv.pbs.allow-screen-saver",
+      "com.apple.appletv.pbs.allow-send-menu",
+      "com.apple.appletv.pbs.allow-shared-state-access",
+      "com.apple.appletv.pbs.app-info-service-access",
+      "com.apple.appletv.pbs.app-info-service-access.placeholders"
+    ],
+    "total_keys": 35
+  },
+  {
+    "original_path": "Applications/PineBoard.app/Info.plist",
+    "file_size": 1588,
+    "decoded_json": "Applications_PineBoard.app_Info.json",
+    "decoded_xml": "Applications_PineBoard.app_Info.xml",
+    "top_keys": [
+      "CFBundleName",
+      "CFBundleAllowMixedLocalizations",
+      "DTSDKName",
+      "DTXcode",
+      "SBAppTags",
+      "DTSDKBuild",
+      "CFBundleDevelopmentRegion",
+      "CFBundleVersion",
+      "BuildMachineOSBuild",
+      "UIUserInterfaceStyle"
+    ],
+    "total_keys": 32,
+    "bundle_id": "com.apple.PineBoard",
+    "executable": "PineBoard",
+    "min_os": "13.4",
+    "sdk": "appletvos13.4.internal"
+  },
+  {
+    "original_path": "Applications/PineBoard.app/com.apple.PineBoard.plist",
+    "file_size": 148,
+    "decoded_json": "Applications_PineBoard.app_com.apple.PineBoard.json",
+    "decoded_xml": "Applications_PineBoard.app_com.apple.PineBoard.xml",
+    "top_keys": [
+      "DEFAULT-OPTIONS"
+    ],
+    "total_keys": 1
+  },
+  {
+    "original_path": "Applications/PineBoard.app/pineboard-Entitlements.plist",
+    "file_size": 5328,
+    "decoded_json": "Applications_PineBoard.app_pineboard-Entitlements.json",
+    "decoded_xml": "Applications_PineBoard.app_pineboard-Entitlements.xml",
+    "top_keys": [
+      "allow-obliterate-device",
+      "allow-softwareupdated",
+      "application-identifier",
+      "aps-connection-initiate",
+      "aps-environment",
+      "com.apple.BTServer.allowRestrictedServices",
+      "com.apple.BTServer.appleMfgDataScanner",
+      "com.apple.BTServer.programmaticPairing",
+      "com.apple.BTServer.supportsPairing",
+      "com.apple.Contacts.database-allow"
+    ],
+    "total_keys": 101
+  },
+  {
+    "original_path": "Applications/PreBoard.app/Info.plist",
+    "file_size": 1070,
+    "decoded_json": "Applications_PreBoard.app_Info.json",
+    "decoded_xml": "Applications_PreBoard.app_Info.xml",
+    "top_keys": [
+      "CFBundleName",
+      "DTXcode",
+      "DTSDKName",
+      "SBAppTags",
+      "DTSDKBuild",
+      "CFBundleDevelopmentRegion",
+      "CFBundleVersion",
+      "BuildMachineOSBuild",
+      "UIUserInterfaceStyle",
+      "DTPlatformName"
+    ],
+    "total_keys": 27,
+    "bundle_id": "com.apple.PreBoard",
+    "executable": "PreBoard",
+    "min_os": "13.4",
+    "sdk": "appletvos13.4.internal"
+  },
+  {
+    "original_path": "Applications/PreBoard.app/PreBoard-Entitlements.plist",
+    "file_size": 431,
+    "decoded_json": "Applications_PreBoard.app_PreBoard-Entitlements.json",
+    "decoded_xml": "Applications_PreBoard.app_PreBoard-Entitlements.xml",
+    "top_keys": [
+      "allow-obliterate-device",
+      "com.apple.QuartzCore.displayable-context",
+      "com.apple.QuartzCore.secure-mode",
+      "com.apple.backboard.client",
+      "com.apple.private.attentionawareness",
+      "com.apple.private.kernel.darkboot",
+      "com.apple.private.kernel.jetsam",
+      "com.apple.private.security.no-sandbox",
+      "com.apple.private.xpc.launchd.app-server"
+    ],
+    "total_keys": 9
+  },
+  {
+    "original_path": "Applications/Setup.app/Info.plist",
+    "file_size": 1064,
+    "decoded_json": "Applications_Setup.app_Info.json",
+    "decoded_xml": "Applications_Setup.app_Info.xml",
+    "top_keys": [
+      "CFBundleName",
+      "DTXcode",
+      "DTSDKName",
+      "SBAppTags",
+      "DTSDKBuild",
+      "CFBundleDevelopmentRegion",
+      "CFBundleVersion",
+      "BuildMachineOSBuild",
+      "UIBackgroundModes",
+      "DTPlatformName"
+    ],
+    "total_keys": 30,
+    "bundle_id": "com.apple.purplebuddy",
+    "executable": "Setup",
+    "min_os": "13.4",
+    "sdk": "appletvos13.4.internal"
+  },
+  {
+    "original_path": "Applications/TVIdleScreen.app/Info.plist",
+    "file_size": 1447,
+    "decoded_json": "Applications_TVIdleScreen.app_Info.json",
+    "decoded_xml": "Applications_TVIdleScreen.app_Info.xml",
+    "top_keys": [
+      "UIRequiredDeviceCapabilities",
+      "CanInheritApplicationStateFromOtherProcesses",
+      "CFBundleInfoDictionaryVersion",
+      "UISupportedInterfaceOrientations~ipad",
+      "DTPlatformVersion",
+      "UIUserInterfaceStyle",
+      "CFBundleName",
+      "DTSDKName",
+      "CFBundleDisplayName",
+      "LSRequiresIPhoneOS"
+    ],
+    "total_keys": 33,
+    "bundle_id": "com.apple.TVIdleScreen",
+    "executable": "TVIdleScreen",
+    "min_os": "13.4",
+    "sdk": "appletvos13.4.internal"
+  },
+  {
+    "original_path": "Applications/TVMusic.app/Info.plist",
+    "file_size": 2262,
+    "decoded_json": "Applications_TVMusic.app_Info.json",
+    "decoded_xml": "Applications_TVMusic.app_Info.xml",
+    "top_keys": [
+      "SupportsSharedQueue",
+      "CFBundleURLTypes",
+      "CFBundleInfoDictionaryVersion",
+      "UIRequiredDeviceCapabilities",
+      "DTPlatformVersion",
+      "UISupportedInterfaceOrientations~ipad",
+      "CFBundleName",
+      "DTSDKName",
+      "UIUserInterfaceStyle",
+      "CFBundleIcons"
+    ],
+    "total_keys": 43,
+    "bundle_id": "com.apple.TVMusic",
+    "executable": "TVMusic",
+    "min_os": "13.4",
+    "sdk": "appletvos13.4.internal"
+  },
+  {
+    "original_path": "Applications/TVMusic.app/PlugIns/TVMusicTopShelfExtension.appex/Info.plist",
+    "file_size": 964,
+    "decoded_json": "Applications_TVMusic.app_PlugIns_TVMusicTopShelfExtension.appex_Info.json",
+    "decoded_xml": "Applications_TVMusic.app_PlugIns_TVMusicTopShelfExtension.appex_Info.xml",
+    "top_keys": [
+      "CFBundleName",
+      "DTXcode",
+      "DTSDKName",
+      "DTSDKBuild",
+      "CFBundleDevelopmentRegion",
+      "CFBundleVersion",
+      "BuildMachineOSBuild",
+      "DTPlatformName",
+      "CFBundlePackageType",
+      "CFBundleShortVersionString"
+    ],
+    "total_keys": 23,
+    "bundle_id": "com.apple.TVMusic.TVMusicTopShelfExtension",
+    "executable": "TVMusicTopShelfExtension",
+    "min_os": "13.4",
+    "sdk": "appletvos13.4.internal"
+  },
+  {
+    "original_path": "Applications/TVMusic.app/PlugIns/TVMusicTopShelfExtension.appex/TopShelf-Entitlements.plist",
+    "file_size": 1463,
+    "decoded_json": "Applications_TVMusic.app_PlugIns_TVMusicTopShelfExtension.appex_TopShelf-Entitlements.json",
+    "decoded_xml": "Applications_TVMusic.app_PlugIns_TVMusicTopShelfExtension.appex_TopShelf-Entitlements.xml",
+    "top_keys": [
+      "com.apple.accounts.appleaccount.fullaccess",
+      "com.apple.itunesstored.private",
+      "com.apple.private.coreservices.canmaplsdatabase",
+      "com.apple.private.tcc.allow",
+      "com.apple.security.exception.files.home-relative-path.read-write",
+      "com.apple.security.exception.mach-lookup.global-name",
+      "com.apple.security.exception.shared-preference.read-write"
+    ],
+    "total_keys": 7
+  },
+  {
+    "original_path": "Applications/TVMusic.app/TVMusic-Entitlements.plist",
+    "file_size": 3728,
+    "decoded_json": "Applications_TVMusic.app_TVMusic-Entitlements.json",
+    "decoded_xml": "Applications_TVMusic.app_TVMusic-Entitlements.xml",
+    "top_keys": [
+      "abs-client",
+      "adi-client",
+      "application-identifier",
+      "aps-connection-initiate",
+      "com.apple.PairingManager.Read",
+      "com.apple.PairingManager.RemovePeer",
+      "com.apple.PairingManager.Write",
+      "com.apple.UIKit.vends-view-services",
+      "com.apple.accounts.appleaccount.fullaccess",
+      "com.apple.accounts.inactive.fullaccess"
+    ],
+    "total_keys": 51
+  },
+  {
+    "original_path": "Applications/TVPeripheralAgent.app/Info.plist",
+    "file_size": 1117,
+    "decoded_json": "Applications_TVPeripheralAgent.app_Info.json",
+    "decoded_xml": "Applications_TVPeripheralAgent.app_Info.xml",
+    "top_keys": [
+      "CFBundleName",
+      "DTXcode",
+      "DTSDKName",
+      "SBAppTags",
+      "DTSDKBuild",
+      "CFBundleDevelopmentRegion",
+      "CFBundleVersion",
+      "BuildMachineOSBuild",
+      "DTPlatformName",
+      "CFBundlePackageType"
+    ],
+    "total_keys": 26,
+    "bundle_id": "com.apple.TVPeripheralAgent",
+    "executable": "TVPeripheralAgent",
+    "min_os": "13.4",
+    "sdk": "appletvos13.4.internal"
+  },
+  {
+    "original_path": "Applications/TVPeripheralAgent.app/TVPeripheralAgent-Entitlements.plist",
+    "file_size": 943,
+    "decoded_json": "Applications_TVPeripheralAgent.app_TVPeripheralAgent-Entitlements.json",
+    "decoded_xml": "Applications_TVPeripheralAgent.app_TVPeripheralAgent-Entitlements.xml",
+    "top_keys": [
+      "com.apple.BTServer.allowRestrictedServices",
+      "com.apple.BTServer.appleMfgDataScanner",
+      "com.apple.BTServer.programmaticPairing",
+      "com.apple.BTServer.supportsPairing",
+      "com.apple.SystemConfiguration.SCDynamicStore-write-access",
+      "com.apple.appletv.pbs.bulletin-service-access",
+      "com.apple.appletv.pbs.diagnostic-logs-service-access",
+      "com.apple.bluetooth.system",
+      "com.apple.private.externalaccessory.showallaccessories",
+      "com.apple.private.hid.client.event-monitor"
+    ],
+    "total_keys": 15
+  },
+  {
+    "original_path": "Applications/TVSystemBulletinService.app/Info.plist",
+    "file_size": 1042,
+    "decoded_json": "Applications_TVSystemBulletinService.app_Info.json",
+    "decoded_xml": "Applications_TVSystemBulletinService.app_Info.xml",
+    "top_keys": [
+      "CFBundleName",
+      "DTXcode",
+      "DTSDKName",
+      "UIViewServiceUsesNSXPCConnection",
+      "SBAppTags",
+      "DTSDKBuild",
+      "CFBundleDevelopmentRegion",
+      "CFBundleVersion",
+      "BuildMachineOSBuild",
+      "UIUserInterfaceStyle"
+    ],
+    "total_keys": 27,
+    "bundle_id": "com.apple.TVSystemBulletinService",
+    "executable": "TVSystemBulletinService",
+    "min_os": "13.4",
+    "sdk": "appletvos13.4.internal"
+  },
+  {
+    "original_path": "Applications/TVSystemMenuService.app/Info.plist",
+    "file_size": 1045,
+    "decoded_json": "Applications_TVSystemMenuService.app_Info.json",
+    "decoded_xml": "Applications_TVSystemMenuService.app_Info.xml",
+    "top_keys": [
+      "CFBundleName",
+      "CFBundleAllowMixedLocalizations",
+      "DTXcode",
+      "DTSDKName",
+      "UIViewServiceUsesNSXPCConnection",
+      "SBAppTags",
+      "DTSDKBuild",
+      "CFBundleDevelopmentRegion",
+      "CFBundleVersion",
+      "BuildMachineOSBuild"
+    ],
+    "total_keys": 27,
+    "bundle_id": "com.apple.TVSystemMenuService",
+    "executable": "TVSystemMenuService",
+    "min_os": "13.4",
+    "sdk": "appletvos13.4.internal"
+  },
+  {
+    "original_path": "Applications/TVSystemMenuService.app/TVSystemMenuService-Entitlements.plist",
+    "file_size": 1892,
+    "decoded_json": "Applications_TVSystemMenuService.app_TVSystemMenuService-Entitlements.json",
+    "decoded_xml": "Applications_TVSystemMenuService.app_TVSystemMenuService-Entitlements.xml",
+    "top_keys": [
+      "com.apple.PairingManager.Read",
+      "com.apple.PairingManager.Write",
+      "com.apple.UIKit.vends-view-services",
+      "com.apple.accounts.appleaccount.fullaccess",
+      "com.apple.appletv.pbs.allow-custom-playpause",
+      "com.apple.appletv.pbs.allow-custom-volume",
+      "com.apple.appletv.pbs.allow-now-playing-presentation",
+      "com.apple.appletv.pbs.allow-sleep",
+      "com.apple.appletv.pbs.bulletin-service-access",
+      "com.apple.appletv.pbs.now-playing-view-service"
+    ],
+    "total_keys": 33
+  },
+  {
+    "original_path": "System/Library/CoreServices/CoreGlyphs.bundle/Info.plist",
+    "file_size": 718,
+    "decoded_json": "System_Library_CoreServices_CoreGlyphs.bundle_Info.json",
+    "decoded_xml": "System_Library_CoreServices_CoreGlyphs.bundle_Info.xml",
+    "top_keys": [
+      "CFBundleName",
+      "DTXcode",
+      "DTSDKName",
+      "DTSDKBuild",
+      "CFBundleDevelopmentRegion",
+      "CFBundleVersion",
+      "BuildMachineOSBuild",
+      "DTPlatformName",
+      "CFBundlePackageType",
+      "CFBundleShortVersionString"
+    ],
+    "total_keys": 20,
+    "bundle_id": "com.apple.CoreGlyphs",
+    "executable": "CoreGlyphs",
+    "min_os": "13.4",
+    "sdk": "appletvos13.4.internal"
+  },
+  {
+    "original_path": "System/Library/CoreServices/CoreGlyphs.bundle/symbol_order.plist",
+    "file_size": 35711,
+    "decoded_json": "System_Library_CoreServices_CoreGlyphs.bundle_symbol_order.json",
+    "decoded_xml": "System_Library_CoreServices_CoreGlyphs.bundle_symbol_order.xml",
+    "top_keys": [
+      "array_len_1679"
+    ],
+    "total_keys": 1
+  }
+]

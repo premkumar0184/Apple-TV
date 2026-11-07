@@ -1,0 +1,10 @@
+{
+  "Localizable": {
+    "PREConfirmationMessage": "すべての設定をリセットしてもよろしいですか? Apple TVを再度設定する必要があります。",
+    "PREResetAllSettingsButton": "すべての設定をリセット",
+    "PREDialogTitle": "リカバリーモード",
+    "PRERestartButton": "再起動",
+    "PREMainMessage": "Apple TVに問題が発生しているようです。\n“すべての設定をリセット”を選択して、すべての設定とアカウントをリセットできます。\nリセットせずに再起動するには、“再起動”を選択してください。",
+    "PRECancelButton": "キャンセル"
+  }
+}

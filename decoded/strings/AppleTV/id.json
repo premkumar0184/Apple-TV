@@ -1,0 +1,15 @@
+{
+  "InfoPlist": {
+    "NSLocationWhenInUseUsageDescription": "Kami akan menggunakan lokasi Anda untuk menentukan apa yang tersedia bagi Anda dan menampilkan game, acara, dan berita langsung dari wilayah Anda.",
+    "CFBundleDisplayName": "TV",
+    "CFBundleDisplayName#CH": "Video",
+    "kMDItemKeywords": "TV, Video, Film, Acara, Apple TV, Apple TV+, Apple TV +, Apple TV Plus, TV+, TV +, TVPlus, TV Plus, iTunes"
+  },
+  "Localizable": {
+    "APP_FAILURE_BODY": "Periksa koneksi internet Anda dan coba lagi.",
+    "INTERNET_UNAVAILABLE_ERROR": "Periksa pengaturan jaringan Anda dan coba lagi.",
+    "APP_FAILURE_TITLE": "App Apple TV tidak tersedia saat ini.",
+    "INTERNET_UNAVAILABLE_TITLE": "Kesalahan Koneksi",
+    "LIBRARY_TAB": "Perpustakaan"
+  }
+}

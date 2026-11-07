@@ -1,0 +1,43 @@
+{
+  "Localizable": {
+    "ONBOARDING_TV_SPLASH_PICKER_ARCADE": "Apple Arcade",
+    "OFFER_BUTTON_TITLE_BUY": "购买",
+    "INFO_LIST_REQUIREMENTS_SUMMARY": "可在此{deviceName}上使用",
+    "PREORDER_TERMS_FREE": "此内容可能在不另行通知的情况下更改，最终产品可能会有所不同。\n\n若要在iPhone或iPad上查看或取消您的预订，请前往App Store中的“帐户设置”。在Mac或PC上，请使用Mac App Store或iTunes。",
+    "OFFER_BUTTON_TITLE_ARCADE_TRY": "免费试玩",
+    "OFFER_BUTTON_TITLE_BUY_WITH_PRICE": "购买价格{price}",
+    "OFFER_BUTTON_TITLE_PREORDER_WITH_PRICE": "预购价格{price}",
+    "BADGE_MFI_REQUIRED_HEADING": "需要手柄",
+    "OFFERS_IN_APP_PURCHASES": "提供App内购买",
+    "OFFER_BUTTON_TITLE_ARCADE_OPEN": "玩游戏",
+    "SEARCH_PLACEHOLDER": "搜索",
+    "MORE_INFORMATION": "更多信息",
+    "ONBOARDING_TV_ARCADE_TITLE": "欢迎使用Apple Arcade",
+    "ONBOARDING_TV_SPLASH_PICKER_DESCRIPTION": "Apple服务旨在保护您的信息并可让您选择要共享的内容。",
+    "ARCADE_WELCOME_TV_DEVICES_PRE_MACOS_BODY": "在iPhone、iPad、Mac和Apple TV上畅玩每款游戏。今年秋季即将面世。",
+    "INLINE_IN_APP_PURCHASES": "App内购买",
+    "ONBOARDING_TV_ARCADE_DESCRIPTION": "一次订阅，即可畅玩100多种精彩游戏。没有广告，不另收费。",
+    "VERSION_STRING": "版本",
+    "ONBOARDING_TV_UNIFIED_APP_STORE_HEADING": "App Store新内容",
+    "PURCHASES_RESTRICTED_DESCRIPTION": "购买项目在这台Apple TV上受限制。请前往“设置”更改限制信息。",
+    "ONBOARDING_TV_UNIFIED_APP_STORE_DESCRIPTION": "一次订阅，即可畅玩100多种精彩游戏。没有广告，不另收费。",
+    "OFFER_BUTTON_TITLE_ARCADE_NOT_SUBSCRIBED": "开始游戏",
+    "PREORDER_TERMS_PAID": "此内容可能在不另行通知的情况下更改，最终产品可能会有所不同。\n\n在此App发布前，我们不会向您收费。若要在iPhone或iPad上查看或取消您的预订，请前往App Store中的“帐户设置”。在Mac或PC上，请使用Mac App Store或iTunes。",
+    "ONBOARDING_TV_APP_STORE_DESCRIPTION": "Apple TV是一个包含精彩App和游戏的极佳平台，它们均可通过App Store下载。",
+    "OFFER_BUTTON_TITLE_OPEN": "打开",
+    "PRODUCT_SECTION_TEXT_CARDS": "关于",
+    "OFFER_BUTTON_TITLE_PREORDER": "预订",
+    "VERSION_STRING_WITH_RELEASE_DATE": "{version}—{date}发布",
+    "ONBOARDING_TV_SPLASH_PICKER_APP_STORE": "App Store",
+    "PURCHASES_RESTRICTED_TITLE": "App购买受限制",
+    "ONBOARDING_TV_APP_STORE_TITLE": "欢迎使用App Store",
+    "ONBOARDING_TV_SPLASH_PICKER_TITLE": "隐私",
+    "BADGE_MFI_HEADING": "手柄（可选）",
+    "OFFER_BUTTON_TITLE_ARCADE_STANDARD": "获取",
+    "OFFER_BUTTON_TITLE_GET": "获取",
+    "PRODUCT_DESCRIPTION_HEADER": "{title}—{subtitle}"
+  },
+  "InfoPlist": {
+    "CFBundleDisplayName": "App Store"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "InfoPlist": {
+    "NSLocationWhenInUseUsageDescription": "आपके लिए क्या उपलब्ध है यह निर्धारित करने और आपको आपके क्षेत्र के लाइव गेम, इवेंट और समाचार दिखाने के लिए हम आपके स्थान का उपयोग करेंगे।",
+    "CFBundleDisplayName": "TV",
+    "CFBundleDisplayName#CH": "वीडियो",
+    "kMDItemKeywords": "TV, टीवी, वीडियो, फ़िल्में, कार्यक्रम, Apple TV, Apple TV+, Apple TV +, Apple TV Plus, TV+, TV +, TVPlus, TV Plus, iTunes"
+  },
+  "Localizable": {
+    "APP_FAILURE_BODY": "अपने इंटरनेट कनेक्शन की जाँच करें और फिर कोशिश करें।",
+    "INTERNET_UNAVAILABLE_ERROR": "अपनी नेटवर्क सेटिंग्ज़ की जाँच कर फिर कोशिश करें।",
+    "APP_FAILURE_TITLE": "Apple TV ऐप अभी उपलब्ध नहीं है।",
+    "INTERNET_UNAVAILABLE_TITLE": "कनेक्शन त्रुटि",
+    "LIBRARY_TAB": "लाइब्रेरी"
+  }
+}

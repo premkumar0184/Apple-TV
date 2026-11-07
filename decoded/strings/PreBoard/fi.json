@@ -1,0 +1,10 @@
+{
+  "Localizable": {
+    "PREConfirmationMessage": "Nollataanko kaikki asetukset?\nApple TV on otettava käyttöön uudelleen.",
+    "PREResetAllSettingsButton": "Nollaa kaikki asetukset",
+    "PREDialogTitle": "Palautustila",
+    "PRERestartButton": "Käynnistä uudelleen",
+    "PREMainMessage": "Apple TV:ssä on ongelmia.\nVoit nollata kaikki asetukset ja tilit valitsemalla Nollaa kaikki asetukset.\nJos haluat käynnistää uudelleen nollaamatta, valitse Käynnistä uudelleen.",
+    "PRECancelButton": "Kumoa"
+  }
+}

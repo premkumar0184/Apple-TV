@@ -1,0 +1,10 @@
+{
+  "Localizable": {
+    "PREConfirmationMessage": "Are you sure you want to reset all settings?\nYou will have to set up your Apple TV again.",
+    "PREResetAllSettingsButton": "Reset All Settings",
+    "PREDialogTitle": "Recovery Mode",
+    "PRERestartButton": "Restart",
+    "PREMainMessage": "Your Apple TV seems to be experiencing problems.\nYou can reset all settings and accounts by selecting Reset All Settings.\nTo restart without resetting, choose Restart.",
+    "PRECancelButton": "Cancel"
+  }
+}

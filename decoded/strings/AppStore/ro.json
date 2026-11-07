@@ -1,0 +1,43 @@
+{
+  "Localizable": {
+    "ONBOARDING_TV_SPLASH_PICKER_ARCADE": "Apple Arcade",
+    "OFFER_BUTTON_TITLE_BUY": "Cumpărați",
+    "INFO_LIST_REQUIREMENTS_SUMMARY": "Funcționează pe acest {deviceName}",
+    "PREORDER_TERMS_FREE": "Acest conținut poate fi modificat fără notificare, iar produsul final poate fi diferit.\n\nPentru a vizualiza sau a anula precomenzile pe iPhone sau iPad, accesați secțiunea Configurări cont din App Store. Pe Mac sau PC, utilizați Mac App Store sau iTunes.",
+    "OFFER_BUTTON_TITLE_ARCADE_TRY": "Încercați gratuit",
+    "OFFER_BUTTON_TITLE_BUY_WITH_PRICE": "Cumpărați {price}",
+    "OFFER_BUTTON_TITLE_PREORDER_WITH_PRICE": "Precomandați {price}",
+    "BADGE_MFI_REQUIRED_HEADING": "Necesită controller",
+    "OFFERS_IN_APP_PURCHASES": "Oferă achiziții din aplicație",
+    "OFFER_BUTTON_TITLE_ARCADE_OPEN": "Jucați",
+    "SEARCH_PLACEHOLDER": "Căutare",
+    "MORE_INFORMATION": "Mai multe informații",
+    "ONBOARDING_TV_ARCADE_TITLE": "Bun venit în Apple Arcade",
+    "ONBOARDING_TV_SPLASH_PICKER_DESCRIPTION": "Serviciile Apple sunt concepute pentru a vă proteja informațiile și pentru a vă permite să alegeți ceea ce partajați.",
+    "ARCADE_WELCOME_TV_DEVICES_PRE_MACOS_BODY": "Jucați pe iPhone, iPad, Mac și Apple TV. Disponibil în această toamnă.",
+    "INLINE_IN_APP_PURCHASES": "Achiziții din aplicație",
+    "ONBOARDING_TV_ARCADE_DESCRIPTION": "Jucați peste 100 de jocuri extraordinare cu un singur abonament. Fără reclame sau achiziții suplimentare.",
+    "VERSION_STRING": "Versiune",
+    "ONBOARDING_TV_UNIFIED_APP_STORE_HEADING": "Noutate în App Store",
+    "PURCHASES_RESTRICTED_DESCRIPTION": "Achizițiile sunt restricționate pe acest Apple TV. Pentru a schimba restricțiile, accesați Configurări.",
+    "ONBOARDING_TV_UNIFIED_APP_STORE_DESCRIPTION": "Jucați peste 100 de jocuri extraordinare cu un singur abonament. Fără reclame sau achiziții suplimentare.",
+    "OFFER_BUTTON_TITLE_ARCADE_NOT_SUBSCRIBED": "Începeți să jucați",
+    "PREORDER_TERMS_PAID": "Acest conținut poate fi modificat fără notificare, iar produsul final poate fi diferit.\n\nContul dvs. nu va fi debitat până când această aplicație nu este lansată. Pentru a vizualiza sau a anula precomenzile pe un iPhone sau iPad, accesați secțiunea Configurări cont din App Store. Pe Mac sau PC, utilizați Mac App Store sau iTunes.",
+    "ONBOARDING_TV_APP_STORE_DESCRIPTION": "Apple TV este o platformă incredibilă pentru aplicații și jocuri excepționale, iar App Store este locul unde le puteți găsi.",
+    "OFFER_BUTTON_TITLE_OPEN": "Deschideți",
+    "PRODUCT_SECTION_TEXT_CARDS": "Detalii",
+    "OFFER_BUTTON_TITLE_PREORDER": "Precomandați",
+    "VERSION_STRING_WITH_RELEASE_DATE": "{version} – lansată pe {date}",
+    "ONBOARDING_TV_SPLASH_PICKER_APP_STORE": "App Store",
+    "PURCHASES_RESTRICTED_TITLE": "Cumpărarea aplicațiilor este restricționată",
+    "ONBOARDING_TV_APP_STORE_TITLE": "Bun venit în App Store",
+    "ONBOARDING_TV_SPLASH_PICKER_TITLE": "Intimitate",
+    "BADGE_MFI_HEADING": "Controller opțional",
+    "OFFER_BUTTON_TITLE_ARCADE_STANDARD": "Obțineți",
+    "OFFER_BUTTON_TITLE_GET": "Obțineți",
+    "PRODUCT_DESCRIPTION_HEADER": "{title} – {subtitle}"
+  },
+  "InfoPlist": {
+    "CFBundleDisplayName": "App Store"
+  }
+}

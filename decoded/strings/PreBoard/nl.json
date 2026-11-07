@@ -1,0 +1,10 @@
+{
+  "Localizable": {
+    "PREConfirmationMessage": "Weet je zeker dat je alle instellingen opnieuw wilt instellen?\nHierdoor moet je je Apple TV opnieuw configureren.",
+    "PREResetAllSettingsButton": "Herstel alle instellingen",
+    "PREDialogTitle": "Herstelmodus",
+    "PRERestartButton": "Herstart",
+    "PREMainMessage": "Er lijken zich problemen voor te doen met je Apple TV.\nJe kunt alle instellingen en accounts opnieuw instellen door 'Herstel alle instellingen' te kiezen.\nKies 'Herstart' om te herstarten zonder de instellingen opnieuw in te stellen.",
+    "PRECancelButton": "Annuleer"
+  }
+}

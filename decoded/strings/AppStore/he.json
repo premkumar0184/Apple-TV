@@ -1,0 +1,43 @@
+{
+  "Localizable": {
+    "ONBOARDING_TV_SPLASH_PICKER_ARCADE": "Apple Arcade",
+    "OFFER_BUTTON_TITLE_BUY": "רכישה",
+    "INFO_LIST_REQUIREMENTS_SUMMARY": "נתמך ב-{deviceName} זה",
+    "PREORDER_TERMS_FREE": "תוכן זה עשוי להשתנות ללא התראה, והמוצר הסופי עשוי להיות שונה.\n\nכדי לראות את הפריטים שהזמנת מראש או כדי לבטל הזמנה במכשירי iPhone או iPad, יש לעבור אל הגדרות החשבון ב-App Store. במחשבי Mac או PC, יש להשתמש ב-Mac App Store או ב-iTunes.",
+    "OFFER_BUTTON_TITLE_ARCADE_TRY": "התנסות חינמית",
+    "OFFER_BUTTON_TITLE_BUY_WITH_PRICE": "רכישה {price}",
+    "OFFER_BUTTON_TITLE_PREORDER_WITH_PRICE": "הזמנה מראש {price}",
+    "BADGE_MFI_REQUIRED_HEADING": "מצריך שלט משחק",
+    "OFFERS_IN_APP_PURCHASES": "מציע רכישות בתוך היישום",
+    "OFFER_BUTTON_TITLE_ARCADE_OPEN": "התחלת משחק",
+    "SEARCH_PLACEHOLDER": "חיפוש",
+    "MORE_INFORMATION": "פרטים נוספים",
+    "ONBOARDING_TV_ARCADE_TITLE": "ברוכים הבאים ל-Apple Arcade",
+    "ONBOARDING_TV_SPLASH_PICKER_DESCRIPTION": "השירותים של Apple תוכננו באופן שמגן על המידע שלך ומאפשר לך לבחור מה לשתף ומה לא לשתף.",
+    "ARCADE_WELCOME_TV_DEVICES_PRE_MACOS_BODY": "ניתן לשחק ב-iPhone, ב-iPad, ב-Mac וב-Apple TV. צפוי להגיע בסתיו הקרוב.",
+    "INLINE_IN_APP_PURCHASES": "רכישות בתוך היישום",
+    "ONBOARDING_TV_ARCADE_DESCRIPTION": "עם מינוי אחד תוכל/י לשחק ביותר מ-100 משחקים בלתי רגילים. בלי פרסומות או רכישות נוספות.",
+    "VERSION_STRING": "גירסה",
+    "ONBOARDING_TV_UNIFIED_APP_STORE_HEADING": "חדש ב-App Store",
+    "PURCHASES_RESTRICTED_DESCRIPTION": "ישנן הגבלות על רכישות ב‑Apple TV זה. ניתן לשנות את ההגבלות דרך ״הגדרות״.",
+    "ONBOARDING_TV_UNIFIED_APP_STORE_DESCRIPTION": "עם מינוי אחד תוכל/י לשחק ביותר מ-100 משחקים בלתי רגילים. בלי פרסומות או רכישות נוספות.",
+    "OFFER_BUTTON_TITLE_ARCADE_NOT_SUBSCRIBED": "התחל/י לשחק",
+    "PREORDER_TERMS_PAID": "תוכן זה עשוי להשתנות ללא התראה, והמוצר הסופי עשוי להיות שונה.\n\nלא יתבצעו חיובים בחשבון שלך לפני מועד ההפצה של היישום. כדי לראות את הפריטים שהזמנת מראש או כדי לבטל הזמנה במכשירי iPhone או iPad, יש לעבור אל הגדרות החשבון ב-App Store. במחשבי Mac או PC, יש להשתמש ב-Mac App Store או ב-iTunes.",
+    "ONBOARDING_TV_APP_STORE_DESCRIPTION": "ה-Apple TV שלך היא הפלטפורמה המושלמת ליישומים ומשחקים מדהימים. גלה/י אותם ב-App Store.",
+    "OFFER_BUTTON_TITLE_OPEN": "פתח",
+    "PRODUCT_SECTION_TEXT_CARDS": "אודות",
+    "OFFER_BUTTON_TITLE_PREORDER": "הזמנה מראש",
+    "VERSION_STRING_WITH_RELEASE_DATE": "‏{version}—תאריך הפצה {date}",
+    "ONBOARDING_TV_SPLASH_PICKER_APP_STORE": "App Store",
+    "PURCHASES_RESTRICTED_TITLE": "הגבלה על רכישת יישומים",
+    "ONBOARDING_TV_APP_STORE_TITLE": "ברוכים הבאים ל‑App Store",
+    "ONBOARDING_TV_SPLASH_PICKER_TITLE": "פרטיות",
+    "BADGE_MFI_HEADING": "שלט משחק (לא חובה)",
+    "OFFER_BUTTON_TITLE_ARCADE_STANDARD": "הורדה",
+    "OFFER_BUTTON_TITLE_GET": "הורדה",
+    "PRODUCT_DESCRIPTION_HEADER": "{title}—{subtitle}"
+  },
+  "InfoPlist": {
+    "CFBundleDisplayName": "App Store"
+  }
+}

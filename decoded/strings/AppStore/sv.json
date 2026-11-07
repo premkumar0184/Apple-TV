@@ -1,0 +1,43 @@
+{
+  "Localizable": {
+    "ONBOARDING_TV_SPLASH_PICKER_ARCADE": "Apple Arcade",
+    "OFFER_BUTTON_TITLE_BUY": "Köp",
+    "INFO_LIST_REQUIREMENTS_SUMMARY": "Fungerar på denna {deviceName}",
+    "PREORDER_TERMS_FREE": "Det här innehållet kan ändras utan föregående meddelande och slutprodukten kan se annorlunda ut.\n\nOm du vill visa eller avbryta förbeställningar på iPhone eller iPad går du till Kontoinställningar i App Store. På en Mac eller PC använder du Mac App Store eller iTunes.",
+    "OFFER_BUTTON_TITLE_ARCADE_TRY": "Prova gratis",
+    "OFFER_BUTTON_TITLE_BUY_WITH_PRICE": "Köp för {price}",
+    "OFFER_BUTTON_TITLE_PREORDER_WITH_PRICE": "Förbeställ för {price}",
+    "BADGE_MFI_REQUIRED_HEADING": "Handkontroll krävs",
+    "OFFERS_IN_APP_PURCHASES": "Erbjuder köp inuti app",
+    "OFFER_BUTTON_TITLE_ARCADE_OPEN": "Spela spel",
+    "SEARCH_PLACEHOLDER": "Sök",
+    "MORE_INFORMATION": "Mer information",
+    "ONBOARDING_TV_ARCADE_TITLE": "Välkommen till Apple Arcade",
+    "ONBOARDING_TV_SPLASH_PICKER_DESCRIPTION": "Apple-tjänsterna har utformats för att skydda din information och låta dig välja vad du vill dela med dig av.",
+    "ARCADE_WELCOME_TV_DEVICES_PRE_MACOS_BODY": "Spela på din iPhone, iPad, Mac och Apple TV. Kommer senare i höst.",
+    "INLINE_IN_APP_PURCHASES": "Köp inuti app",
+    "ONBOARDING_TV_ARCADE_DESCRIPTION": "Spela mer än 100 otroliga spel med ett abonnemang. Inga annonser och inga ytterligare köp krävs.",
+    "VERSION_STRING": "Version",
+    "ONBOARDING_TV_UNIFIED_APP_STORE_HEADING": "Nytt i App Store",
+    "PURCHASES_RESTRICTED_DESCRIPTION": "Köp är begränsade på denna Apple TV. Öppna Inställningar om du vill ändra begränsningarna.",
+    "ONBOARDING_TV_UNIFIED_APP_STORE_DESCRIPTION": "Spela mer än 100 otroliga spel med ett abonnemang. Inga annonser och inga ytterligare köp krävs.",
+    "OFFER_BUTTON_TITLE_ARCADE_NOT_SUBSCRIBED": "Börja spela",
+    "PREORDER_TERMS_PAID": "Det här innehållet kan ändras utan föregående meddelande och slutprodukten kan se annorlunda ut.\n\nDitt konto belastas inte förrän appen släpps. Om du vill visa eller avbryta förbeställningar på iPhone eller iPad går du till Kontoinställningar i App Store. På en Mac eller PC använder du Mac App Store eller iTunes.",
+    "ONBOARDING_TV_APP_STORE_DESCRIPTION": "Apple TV är en otrolig plattform för suveräna appar och spel, och det är på App Store du hittar dem.",
+    "OFFER_BUTTON_TITLE_OPEN": "Öppna",
+    "PRODUCT_SECTION_TEXT_CARDS": "Om",
+    "OFFER_BUTTON_TITLE_PREORDER": "Förbeställ",
+    "VERSION_STRING_WITH_RELEASE_DATE": "{version} – Släppt {date}",
+    "ONBOARDING_TV_SPLASH_PICKER_APP_STORE": "App Store",
+    "PURCHASES_RESTRICTED_TITLE": "Appköp har begränsats",
+    "ONBOARDING_TV_APP_STORE_TITLE": "Välkommen till App Store",
+    "ONBOARDING_TV_SPLASH_PICKER_TITLE": "Integritet",
+    "BADGE_MFI_HEADING": "Handkontroll valfri",
+    "OFFER_BUTTON_TITLE_ARCADE_STANDARD": "Hämta",
+    "OFFER_BUTTON_TITLE_GET": "Hämta",
+    "PRODUCT_DESCRIPTION_HEADER": "{title} – {subtitle}"
+  },
+  "InfoPlist": {
+    "CFBundleDisplayName": "App Store"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "Localizable": {
+    "PREConfirmationMessage": "Určitě chcete resetovat všechna nastavení?\nApple TV bude nutné nastavit znovu.",
+    "PREResetAllSettingsButton": "Resetovat všechna nastavení",
+    "PREDialogTitle": "Režim zotavení",
+    "PRERestartButton": "Restartovat",
+    "PREMainMessage": "Apple TV zřejmě nefunguje správně.\nVolbou Resetovat všechna nastavení můžete resetovat všechna nastavení a účty.\nPokud ji chcete restartovat bez resetu, vyberte Restartovat.",
+    "PRECancelButton": "Zrušit"
+  }
+}

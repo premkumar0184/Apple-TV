@@ -1,0 +1,43 @@
+{
+  "Localizable": {
+    "ONBOARDING_TV_SPLASH_PICKER_ARCADE": "Apple Arcade",
+    "OFFER_BUTTON_TITLE_BUY": "Comprar",
+    "INFO_LIST_REQUIREMENTS_SUMMARY": "Amb aquest {deviceName}",
+    "PREORDER_TERMS_FREE": "Pot ser que el contingut es modifiqui sense avisar i que el producte final sigui diferent.\n\nPer veure o cancel·lar les reserves en un iPhone o iPad, ves a la configuració del compte a l’App Store. En un Mac o PC, ves a la Mac App Store o a l’iTunes.",
+    "OFFER_BUTTON_TITLE_ARCADE_TRY": "Provar‑ho gratis",
+    "OFFER_BUTTON_TITLE_BUY_WITH_PRICE": "Comprar {price}",
+    "OFFER_BUTTON_TITLE_PREORDER_WITH_PRICE": "Reservar {price}",
+    "BADGE_MFI_REQUIRED_HEADING": "Comandament necessari",
+    "OFFERS_IN_APP_PURCHASES": "Ofereix compres integrades",
+    "OFFER_BUTTON_TITLE_ARCADE_OPEN": "Jugar una partida",
+    "SEARCH_PLACEHOLDER": "Buscar",
+    "MORE_INFORMATION": "Més informació",
+    "ONBOARDING_TV_ARCADE_TITLE": "Et donem la benvinguda a l’Apple Arcade",
+    "ONBOARDING_TV_SPLASH_PICKER_DESCRIPTION": "Els serveis d’Apple s’han dissenyat per protegir la teva informació i perquè puguis decidir què vols compartir.",
+    "ARCADE_WELCOME_TV_DEVICES_PRE_MACOS_BODY": "Juga a l’iPhone, a l’iPad, al Mac i a l’Apple TV. Disponible aquesta tardor.",
+    "INLINE_IN_APP_PURCHASES": "Compres integrades",
+    "ONBOARDING_TV_ARCADE_DESCRIPTION": "Gaudeix de més de 100 jocs extraordinaris amb una subscripció. Sense anuncis ni compres addicionals.",
+    "VERSION_STRING": "Versió",
+    "ONBOARDING_TV_UNIFIED_APP_STORE_HEADING": "Nou a l’App Store",
+    "PURCHASES_RESTRICTED_DESCRIPTION": "Aquest Apple TV té les compres restringides. Per canviar les restriccions ves a Configuració.",
+    "ONBOARDING_TV_UNIFIED_APP_STORE_DESCRIPTION": "Gaudeix de més de 100 jocs extraordinaris amb una subscripció. Sense anuncis ni compres addicionals.",
+    "OFFER_BUTTON_TITLE_ARCADE_NOT_SUBSCRIBED": "Jugar",
+    "PREORDER_TERMS_PAID": "Pot ser que el contingut es modifiqui sense avisar i que el producte final sigui diferent.\n\nEl cobrament no s’efectuarà fins al dia del llançament de l’app. Per veure o cancel·lar les reserves en un iPhone o iPad, ves a la configuració del compte a l’App Store. En un Mac o PC, ves a la Mac App Store o a l’iTunes.",
+    "ONBOARDING_TV_APP_STORE_DESCRIPTION": "L’Apple TV és una plataforma increïble per gaudir d’apps i jocs al·lucinants que trobaràs a l’App Store.",
+    "OFFER_BUTTON_TITLE_OPEN": "Obrir",
+    "PRODUCT_SECTION_TEXT_CARDS": "Informació",
+    "OFFER_BUTTON_TITLE_PREORDER": "Reservar",
+    "VERSION_STRING_WITH_RELEASE_DATE": "{version} (llançament: {date})",
+    "ONBOARDING_TV_SPLASH_PICKER_APP_STORE": "App Store",
+    "PURCHASES_RESTRICTED_TITLE": "Compra d’apps restringida",
+    "ONBOARDING_TV_APP_STORE_TITLE": "Et donem la benvinguda a l’App Store",
+    "ONBOARDING_TV_SPLASH_PICKER_TITLE": "Privacitat",
+    "BADGE_MFI_HEADING": "Comandament opcional",
+    "OFFER_BUTTON_TITLE_ARCADE_STANDARD": "Obtenir",
+    "OFFER_BUTTON_TITLE_GET": "Obtenir",
+    "PRODUCT_DESCRIPTION_HEADER": "{title}: {subtitle}"
+  },
+  "InfoPlist": {
+    "CFBundleDisplayName": "App Store"
+  }
+}

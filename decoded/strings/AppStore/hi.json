@@ -1,0 +1,43 @@
+{
+  "Localizable": {
+    "ONBOARDING_TV_SPLASH_PICKER_ARCADE": "Apple आर्केड",
+    "OFFER_BUTTON_TITLE_BUY": "ख़रीदें",
+    "INFO_LIST_REQUIREMENTS_SUMMARY": "इस {deviceName} पर काम करता है",
+    "PREORDER_TERMS_FREE": "बिना किसी सूचना के इस कॉन्टेंट में परिवर्तन हो सकता है और अंतिम उत्पाद अलग हो सकता है।\n\niPhone या iPad पर अपने प्री-ऑर्डर देखने या रद्द करने के लिए App Store में खाता सेटिंग्ज़ पर जाएँ। Mac या PC पर, Mac App Store या iTunes का उपयोग करें।",
+    "OFFER_BUTTON_TITLE_ARCADE_TRY": "मुफ़्त आज़माएँ",
+    "OFFER_BUTTON_TITLE_BUY_WITH_PRICE": "{price} ख़रीदें",
+    "OFFER_BUTTON_TITLE_PREORDER_WITH_PRICE": "{price} प्री-ऑर्डर करें",
+    "BADGE_MFI_REQUIRED_HEADING": "नियंत्रक आवश्यक",
+    "OFFERS_IN_APP_PURCHASES": "इन-ऐप ख़रीदारी की सुविधा उपलब्ध है",
+    "OFFER_BUTTON_TITLE_ARCADE_OPEN": "गेम खेलें",
+    "SEARCH_PLACEHOLDER": "खोजें",
+    "MORE_INFORMATION": "अधिक जानकारी",
+    "ONBOARDING_TV_ARCADE_TITLE": "Apple आर्केड में आपका स्वागत है",
+    "ONBOARDING_TV_SPLASH_PICKER_DESCRIPTION": "Apple सेवाओं को आपकी जानकारी की सुरक्षा के लिए डिज़ाइन किया गया है और आप क्या शेयर करते हैं यह चुनने में आपको सक्षम करता है।",
+    "ARCADE_WELCOME_TV_DEVICES_PRE_MACOS_BODY": "अपने iPhone, iPad, Mac और Apple TV पर खेलें। सितंबर में लॉन्च होने वाला है।",
+    "INLINE_IN_APP_PURCHASES": "इन-ऐप ख़रीदारी",
+    "ONBOARDING_TV_ARCADE_DESCRIPTION": "केवल एक सब्सक्रिप्शन के साथ 100+ शानदार गेम्स खेलें। कोई विज्ञापन या अतिरिक्त ख़रीदारी नहीं।",
+    "VERSION_STRING": "संस्करण",
+    "ONBOARDING_TV_UNIFIED_APP_STORE_HEADING": "App Store पर नया",
+    "PURCHASES_RESTRICTED_DESCRIPTION": "इस Apple TV पर ख़रीदारी करना प्रतिबंधित है। प्रतिबंधों को बदलने के लिए सेटिंग्ज़ में जाएँ।",
+    "ONBOARDING_TV_UNIFIED_APP_STORE_DESCRIPTION": "केवल एक सब्सक्रिप्शन के साथ 100+ शानदार गेम्स खेलें। कोई विज्ञापन या अतिरिक्त ख़रीदारी नहीं।",
+    "OFFER_BUTTON_TITLE_ARCADE_NOT_SUBSCRIBED": "खेलना शुरू करें",
+    "PREORDER_TERMS_PAID": "बिना किसी सूचना के इस कॉन्टेंट में परिवर्तन हो सकता है और अंतिम उत्पाद अलग हो सकता है।\n\nआपसे इस ऐप के रिलीज़ होने के दिन तक शुल्क नहीं लिया जाएगा। iPhone या iPad पर अपने प्री-ऑर्डर देखने या रद्द करने के लिए App Store में खाता सेटिंग्ज़ पर जाएँ। Mac या PC पर, Mac App Store या iTunes का उपयोग करें।",
+    "ONBOARDING_TV_APP_STORE_DESCRIPTION": "आपका Apple TV शानदार ऐप्स और गेम्स के लिए एक अविश्वसनीय प्लैटफ़ॉर्म है और App Store उन्हें ढूँढने के लिए सबसे सही जगह है।",
+    "OFFER_BUTTON_TITLE_OPEN": "खोलें",
+    "PRODUCT_SECTION_TEXT_CARDS": "परिचय",
+    "OFFER_BUTTON_TITLE_PREORDER": "प्री-ऑर्डर करें",
+    "VERSION_STRING_WITH_RELEASE_DATE": "{version}— {date} को रिलीज़ किया गया",
+    "ONBOARDING_TV_SPLASH_PICKER_APP_STORE": "App Store",
+    "PURCHASES_RESTRICTED_TITLE": "ऐप ख़रीदारी प्रतिबंधित",
+    "ONBOARDING_TV_APP_STORE_TITLE": "App Store में आपका स्वागत है",
+    "ONBOARDING_TV_SPLASH_PICKER_TITLE": "गोपनीयता",
+    "BADGE_MFI_HEADING": "नियंत्रक वैकल्पिक",
+    "OFFER_BUTTON_TITLE_ARCADE_STANDARD": "डाउनलोड",
+    "OFFER_BUTTON_TITLE_GET": "डाउनलोड",
+    "PRODUCT_DESCRIPTION_HEADER": "{title}—{subtitle}"
+  },
+  "InfoPlist": {
+    "CFBundleDisplayName": "App Store"
+  }
+}

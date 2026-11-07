@@ -1,0 +1,15 @@
+{
+  "InfoPlist": {
+    "NSLocationWhenInUseUsageDescription": "사용자의 위치를 이용하여 어떤 콘텐츠를 사용할 수 있는지 결정하고, 사용자 지역에서 펼쳐지는 실시간 경기, 이벤트 및 뉴스를 보여줍니다.",
+    "CFBundleDisplayName": "TV",
+    "CFBundleDisplayName#CH": "비디오",
+    "kMDItemKeywords": "TV, 티비, 텔레비전, 비디오, 영화, 동영상, 프로그램, 쇼, Apple TV, Apple TV+, Apple TV +, Apple TV Plus, TV+, TV +, TVPlus, TV Plus, iTunes, 애플 티비, 애플 티비 +, 애플 티비 플러스, 티비+, 티비 +, 아이튠즈"
+  },
+  "Localizable": {
+    "APP_FAILURE_BODY": "인터넷 연결을 확인하고 다시 시도하십시오.",
+    "INTERNET_UNAVAILABLE_ERROR": "네트워크 설정을 확인하고 다시 시도하십시오.",
+    "APP_FAILURE_TITLE": "현재 Apple TV 앱을 사용할 수 없습니다.",
+    "INTERNET_UNAVAILABLE_TITLE": "연결 오류",
+    "LIBRARY_TAB": "보관함"
+  }
+}

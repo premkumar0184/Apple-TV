@@ -1,0 +1,500 @@
+# Swift Symbol Table & Demangled Signatures: TVMusic
+# Target: extracted/rootfs/Applications/TVMusic.app/TVMusic
+# Total Symbols: 124
+
+[lazy-bind] 0x10011C020 | _$s8Dispatch0A3QoSVMa
+  Mangled:   _$s8Dispatch0A3QoSVMa
+  Demangled: Dispatch.DispatchQoS.type_metadata_accessor
+
+[lazy-bind] 0x10011C098 | _$sSo17OS_dispatch_queueC8DispatchE5async5group3qos5flags7executeySo0a1_b1_F0CSg_AC0D3QoSVAC0D13WorkItemFlagsVyyXBtF
+  Mangled:   _$sSo17OS_dispatch_queueC8DispatchE5async5group3qos5flags7executeySo0a1_b1_F0CSg_AC0D3QoSVAC0D13WorkItemFlagsVyyXBtF
+  Demangled: Dispatch.DispatchQueue.async(group:qos:flags:execute:)
+
+[lazy-bind] 0x10011C010 | _$s8Dispatch0A13WorkItemFlagsVMa
+  Mangled:   _$s8Dispatch0A13WorkItemFlagsVMa
+  Demangled: Dispatch.DispatchWorkItemFlags.type_metadata_accessor
+
+[lazy-bind] 0x10011C000 | _$s10Foundation22_convertNSErrorToErrorys0E0_pSo0C0CSgF
+  Mangled:   _$s10Foundation22_convertNSErrorToErrorys0E0_pSo0C0CSgF
+  Demangled: Foundation._convertNSErrorToError(NSError?) -> Error
+
+[lazy-bind] 0x10011C028 | _$sSD10FoundationE19_bridgeToObjectiveCSo12NSDictionaryCyF
+  Mangled:   _$sSD10FoundationE19_bridgeToObjectiveCSo12NSDictionaryCyF
+  Demangled: Swift.Dictionary._bridgeToObjectiveC() -> NSDictionary
+
+[lazy-bind] 0x10011C068 | _$sSd8exponentSivg
+  Mangled:   _$sSd8exponentSivg
+  Demangled: Swift.Double.exponent.getter : Int
+
+[lazy-bind] 0x10011C0F8 | _$ss6HasherV9_finalizeSiyF
+  Mangled:   _$ss6HasherV9_finalizeSiyF
+  Demangled: Swift.Hasher.finalize() -> Int
+
+[lazy-bind] 0x10011C0F0 | _$ss6HasherV5_seedABSi_tcfC
+  Mangled:   _$ss6HasherV5_seedABSi_tcfC
+  Demangled: Swift.Hasher.init(_seed: Int)
+
+[lazy-bind] 0x10011C0A8 | _$sSqMa
+  Mangled:   _$sSqMa
+  Demangled: Swift.Optional.type_metadata_accessor
+
+[lazy-bind] 0x10011C0B0 | _$ss10SetAlgebraPsEyxqd__ncSTRd__7ElementQyd__ACRtzlufC
+  Mangled:   _$ss10SetAlgebraPsEyxqd__ncSTRd__7ElementQyd__ACRtzlufC
+  Demangled: Swift.SetAlgebra.init<Sequence>(_ sequence: Sequence)
+
+[lazy-bind] 0x10011C0B8 | _$ss10SetAlgebraPyxqd__ncSTRd__7ElementQyd__ACRtzlufCTj
+  Mangled:   _$ss10SetAlgebraPyxqd__ncSTRd__7ElementQyd__ACRtzlufCTj
+  Demangled: Swift.SetAlgebra.init<Sequence>(_ sequence: Sequence) [dispatch_thunk]
+
+[bind] 0x10010C058 | 0
+  Mangled:   _$sSS10FoundationE19_bridgeToObjectiveCSo8NSStringCyF
+  Demangled: Swift.String._bridgeToObjectiveC() -> NSString
+
+[lazy-bind] 0x10011C030 | _$sSS10FoundationE19_bridgeToObjectiveCSo8NSStringCyF
+  Mangled:   _$sSS10FoundationE19_bridgeToObjectiveCSo8NSStringCyF
+  Demangled: Swift.String._bridgeToObjectiveC() -> NSString
+
+[lazy-bind] 0x10011C050 | _$sSS4hash4intoys6HasherVz_tF
+  Mangled:   _$sSS4hash4intoys6HasherVz_tF
+  Demangled: Swift.String.hash(into: inout Hasher)
+
+[lazy-bind] 0x10011C058 | _$sSS5write2toyxz_ts16TextOutputStreamRzlF
+  Mangled:   _$sSS5write2toyxz_ts16TextOutputStreamRzlF
+  Demangled: Swift.String.write<Target>(to: inout Target) where Target : TextOutputStream
+
+[lazy-bind] 0x10011C0C0 | _$ss11_StringGutsV4growyySiF
+  Mangled:   _$ss11_StringGutsV4growyySiF
+  Demangled: Swift._StringGuts.grow(Int)
+
+[lazy-bind] 0x10011C0D8 | _$ss20_SwiftNewtypeWrapperPsSHRzSH8RawValueSYRpzrlE20_toCustomAnyHashables0hI0VSgyF
+  Mangled:   _$ss20_SwiftNewtypeWrapperPsSHRzSH8RawValueSYRpzrlE20_toCustomAnyHashables0hI0VSgyF
+  Demangled: Swift._SwiftNewtypeWrapper._toCustomAnyHashable() -> AnyHashable?
+
+[lazy-bind] 0x10011C0C8 | _$ss17_assertionFailure__4file4line5flagss5NeverOs12StaticStringV_SSAHSus6UInt32VtF
+  Mangled:   _$ss17_assertionFailure__4file4line5flagss5NeverOs12StaticStringV_SSAHSus6UInt32VtF
+  Demangled: Swift._assertionFailure(_:StaticString, _:String, file:StaticString, line:UInt, flags:UInt32) -> Never
+
+[lazy-bind] 0x10011C0E0 | _$ss27_stringCompareWithSmolCheck__9expectingSbs11_StringGutsV_ADs01_G16ComparisonResultOtF
+  Mangled:   _$ss27_stringCompareWithSmolCheck__9expectingSbs11_StringGutsV_ADs01_G16ComparisonResultOtF
+  Demangled: Swift._stringCompareWithSmolCheck(_:_:) -> Bool
+
+[lazy-bind] 0x10011C0E8 | _$ss5print_9separator10terminatoryypd_S2StF
+  Mangled:   _$ss5print_9separator10terminatoryypd_S2StF
+  Demangled: Swift.print(_:separator:terminator:)
+
+[bind] 0x10010C000 | 0
+  Mangled:   _$s12CoreGraphics7CGFloatVMn
+  Demangled: [Swift 5 Symbol] _$s12CoreGraphics7CGFloatVMn
+
+[bind] 0x10010C008 | 0
+  Mangled:   _$s12CoreGraphics7CGFloatVN
+  Demangled: [Swift 5 Symbol] _$s12CoreGraphics7CGFloatVN
+
+[bind] 0x1001122C8 | 0
+  Mangled:   _$s15_ObjectiveCTypes01_A11CBridgeablePTl
+  Demangled: [Swift 5 Symbol] _$s15_ObjectiveCTypes01_A11CBridgeablePTl
+
+[bind] 0x100112188 | 0
+  Mangled:   _$s19ArrayLiteralElements013ExpressibleByaB0PTl
+  Demangled: [Swift 5 Symbol] _$s19ArrayLiteralElements013ExpressibleByaB0PTl
+
+[bind] 0x1001121E0 | 0
+  Mangled:   _$s7Elements10SetAlgebraPTl
+  Demangled: [Swift 5 Symbol] _$s7Elements10SetAlgebraPTl
+
+[bind] 0x10010C048 | 0
+  Mangled:   _$s8Dispatch0A13WorkItemFlagsVMn
+  Demangled: [Swift 5 Symbol] _$s8Dispatch0A13WorkItemFlagsVMn
+
+[bind] 0x10010C050 | 0
+  Mangled:   _$s8Dispatch0A13WorkItemFlagsVs10SetAlgebraAAMc
+  Demangled: [Swift 5 Symbol] _$s8Dispatch0A13WorkItemFlagsVs10SetAlgebraAAMc
+
+[bind] 0x1001121B0 | 0
+  Mangled:   _$s8RawValueSYTl
+  Demangled: [Swift 5 Symbol] _$s8RawValueSYTl
+
+[bind] 0x100111DE0 | 0
+  Mangled:   _$sBOWV
+  Demangled: [Swift 5 Symbol] _$sBOWV
+
+[bind] 0x100153610 | 0
+  Mangled:   _$sBOWV
+  Demangled: [Swift 5 Symbol] _$sBOWV
+
+[bind] 0x1001537B8 | 0
+  Mangled:   _$sBOWV
+  Demangled: [Swift 5 Symbol] _$sBOWV
+
+[bind] 0x100111E80 | 0
+  Mangled:   _$sBi64_WV
+  Demangled: [Swift 5 Symbol] _$sBi64_WV
+
+[bind] 0x100155C18 | 0
+  Mangled:   _$sBoWV
+  Demangled: [Swift 5 Symbol] _$sBoWV
+
+[bind] 0x100155DD0 | 0
+  Mangled:   _$sBoWV
+  Demangled: [Swift 5 Symbol] _$sBoWV
+
+[bind] 0x1001560C0 | 0
+  Mangled:   _$sBoWV
+  Demangled: [Swift 5 Symbol] _$sBoWV
+
+[bind] 0x100112310 | 0
+  Mangled:   _$sSH13_rawHashValue4seedS2i_tFTq
+  Demangled: [Swift 5 Symbol] _$sSH13_rawHashValue4seedS2i_tFTq
+
+[bind] 0x100112308 | 0
+  Mangled:   _$sSH4hash4intoys6HasherVz_tFTq
+  Demangled: [Swift 5 Symbol] _$sSH4hash4intoys6HasherVz_tFTq
+
+[bind] 0x100112300 | 0
+  Mangled:   _$sSH9hashValueSivgTq
+  Demangled: [Swift 5 Symbol] _$sSH9hashValueSivgTq
+
+[bind] 0x1001122F0 | 0
+  Mangled:   _$sSHMp
+  Demangled: [Swift 5 Symbol] _$sSHMp
+
+[bind] 0x1001122F8 | 0
+  Mangled:   _$sSHSQTb
+  Demangled: [Swift 5 Symbol] _$sSHSQTb
+
+[bind] 0x1001121A0 | 0
+  Mangled:   _$sSQ2eeoiySbx_xtFZTq
+  Demangled: [Swift 5 Symbol] _$sSQ2eeoiySbx_xtFZTq
+
+[bind] 0x100112198 | 0
+  Mangled:   _$sSQMp
+  Demangled: [Swift 5 Symbol] _$sSQMp
+
+[bind] 0x10010C060 | 0
+  Mangled:   _$sSS9hashValueSivg
+  Demangled: [Swift 5 Symbol] _$sSS9hashValueSivg
+
+[bind] 0x10010C068 | 0
+  Mangled:   _$sSSN
+  Demangled: [Swift 5 Symbol] _$sSSN
+
+[bind] 0x10010C070 | 0
+  Mangled:   _$sSSSHsWP
+  Demangled: [Swift 5 Symbol] _$sSSSHsWP
+
+[bind] 0x1001121C0 | 0
+  Mangled:   _$sSY8rawValue03RawB0QzvgTq
+  Demangled: [Swift 5 Symbol] _$sSY8rawValue03RawB0QzvgTq
+
+[bind] 0x1001121B8 | 0
+  Mangled:   _$sSY8rawValuexSg03RawB0Qz_tcfCTq
+  Demangled: [Swift 5 Symbol] _$sSY8rawValuexSg03RawB0Qz_tcfCTq
+
+[bind] 0x1001121A8 | 0
+  Mangled:   _$sSYMp
+  Demangled: [Swift 5 Symbol] _$sSYMp
+
+[bind] 0x10010C078 | 0
+  Mangled:   _$sSayxGSTsMc
+  Demangled: [Swift 5 Symbol] _$sSayxGSTsMc
+
+[bind] 0x10010C080 | 0
+  Mangled:   _$sSbN
+  Demangled: [Swift 5 Symbol] _$sSbN
+
+[bind] 0x10010C088 | 0
+  Mangled:   _$sSfN
+  Demangled: [Swift 5 Symbol] _$sSfN
+
+[bind] 0x1001121C8 | 0
+  Mangled:   _$ss10SetAlgebraMp
+  Demangled: [Swift 5 Symbol] _$ss10SetAlgebraMp
+
+[bind] 0x100112250 | 0
+  Mangled:   _$ss10SetAlgebraP10isDisjoint4withSbx_tFTq
+  Demangled: [Swift 5 Symbol] _$ss10SetAlgebraP10isDisjoint4withSbx_tFTq
+
+[bind] 0x100112258 | 0
+  Mangled:   _$ss10SetAlgebraP10isSuperset2ofSbx_tFTq
+  Demangled: [Swift 5 Symbol] _$ss10SetAlgebraP10isSuperset2ofSbx_tFTq
+
+[bind] 0x100112240 | 0
+  Mangled:   _$ss10SetAlgebraP11subtractingyxxFTq
+  Demangled: [Swift 5 Symbol] _$ss10SetAlgebraP11subtractingyxxFTq
+
+[bind] 0x100112200 | 0
+  Mangled:   _$ss10SetAlgebraP12intersectionyxxFTq
+  Demangled: [Swift 5 Symbol] _$ss10SetAlgebraP12intersectionyxxFTq
+
+[bind] 0x100112230 | 0
+  Mangled:   _$ss10SetAlgebraP16formIntersectionyyxFTq
+  Demangled: [Swift 5 Symbol] _$ss10SetAlgebraP16formIntersectionyyxFTq
+
+[bind] 0x100112208 | 0
+  Mangled:   _$ss10SetAlgebraP19symmetricDifferenceyxxnFTq
+  Demangled: [Swift 5 Symbol] _$ss10SetAlgebraP19symmetricDifferenceyxxnFTq
+
+[bind] 0x100112238 | 0
+  Mangled:   _$ss10SetAlgebraP23formSymmetricDifferenceyyxnFTq
+  Demangled: [Swift 5 Symbol] _$ss10SetAlgebraP23formSymmetricDifferenceyyxnFTq
+
+[bind] 0x1001121F8 | 0
+  Mangled:   _$ss10SetAlgebraP5unionyxxnFTq
+  Demangled: [Swift 5 Symbol] _$ss10SetAlgebraP5unionyxxnFTq
+
+[bind] 0x100112210 | 0
+  Mangled:   _$ss10SetAlgebraP6insertySb8inserted_7ElementQz17memberAfterInserttAFnFTq
+  Demangled: [Swift 5 Symbol] _$ss10SetAlgebraP6insertySb8inserted_7ElementQz17memberAfterInserttAFnFTq
+
+[bind] 0x100112218 | 0
+  Mangled:   _$ss10SetAlgebraP6removey7ElementQzSgAEFTq
+  Demangled: [Swift 5 Symbol] _$ss10SetAlgebraP6removey7ElementQzSgAEFTq
+
+[bind] 0x100112220 | 0
+  Mangled:   _$ss10SetAlgebraP6update4with7ElementQzSgAFn_tFTq
+  Demangled: [Swift 5 Symbol] _$ss10SetAlgebraP6update4with7ElementQzSgAFn_tFTq
+
+[bind] 0x100112260 | 0
+  Mangled:   _$ss10SetAlgebraP7isEmptySbvgTq
+  Demangled: [Swift 5 Symbol] _$ss10SetAlgebraP7isEmptySbvgTq
+
+[bind] 0x1001121F0 | 0
+  Mangled:   _$ss10SetAlgebraP8containsySb7ElementQzFTq
+  Demangled: [Swift 5 Symbol] _$ss10SetAlgebraP8containsySb7ElementQzFTq
+
+[bind] 0x100112248 | 0
+  Mangled:   _$ss10SetAlgebraP8isSubset2ofSbx_tFTq
+  Demangled: [Swift 5 Symbol] _$ss10SetAlgebraP8isSubset2ofSbx_tFTq
+
+[bind] 0x100112270 | 0
+  Mangled:   _$ss10SetAlgebraP8subtractyyxFTq
+  Demangled: [Swift 5 Symbol] _$ss10SetAlgebraP8subtractyyxFTq
+
+[bind] 0x100112228 | 0
+  Mangled:   _$ss10SetAlgebraP9formUnionyyxnFTq
+  Demangled: [Swift 5 Symbol] _$ss10SetAlgebraP9formUnionyyxnFTq
+
+[bind] 0x1001121D0 | 0
+  Mangled:   _$ss10SetAlgebraPSQTb
+  Demangled: [Swift 5 Symbol] _$ss10SetAlgebraPSQTb
+
+[bind] 0x1001121D8 | 0
+  Mangled:   _$ss10SetAlgebraPs25ExpressibleByArrayLiteralTb
+  Demangled: [Swift 5 Symbol] _$ss10SetAlgebraPs25ExpressibleByArrayLiteralTb
+
+[bind] 0x1001121E8 | 0
+  Mangled:   _$ss10SetAlgebraPxycfCTq
+  Demangled: [Swift 5 Symbol] _$ss10SetAlgebraPxycfCTq
+
+[bind] 0x100112268 | 0
+  Mangled:   _$ss10SetAlgebraPyxqd__ncSTRd__7ElementQyd__ACRtzlufCTq
+  Demangled: [Swift 5 Symbol] _$ss10SetAlgebraPyxqd__ncSTRd__7ElementQyd__ACRtzlufCTq
+
+[bind] 0x10010C0B0 | 0
+  Mangled:   _$ss18_DictionaryStorageCMn
+  Demangled: [Swift 5 Symbol] _$ss18_DictionaryStorageCMn
+
+[bind] 0x1001122A8 | 0
+  Mangled:   _$ss20_SwiftNewtypeWrapperMp
+  Demangled: [Swift 5 Symbol] _$ss20_SwiftNewtypeWrapperMp
+
+[bind] 0x1001122B0 | 0
+  Mangled:   _$ss20_SwiftNewtypeWrapperPSYTb
+  Demangled: [Swift 5 Symbol] _$ss20_SwiftNewtypeWrapperPSYTb
+
+[bind] 0x1001122B8 | 0
+  Mangled:   _$ss20_SwiftNewtypeWrapperPs35_HasCustomAnyHashableRepresentationTb
+  Demangled: [Swift 5 Symbol] _$ss20_SwiftNewtypeWrapperPs35_HasCustomAnyHashableRepresentationTb
+
+[bind] 0x1001122C0 | 0
+  Mangled:   _$ss21_ObjectiveCBridgeableMp
+  Demangled: [Swift 5 Symbol] _$ss21_ObjectiveCBridgeableMp
+
+[bind] 0x1001122D8 | 0
+  Mangled:   _$ss21_ObjectiveCBridgeableP016_forceBridgeFromA1C_6resulty01_A5CTypeQz_xSgztFZTq
+  Demangled: [Swift 5 Symbol] _$ss21_ObjectiveCBridgeableP016_forceBridgeFromA1C_6resulty01_A5CTypeQz_xSgztFZTq
+
+[bind] 0x1001122E0 | 0
+  Mangled:   _$ss21_ObjectiveCBridgeableP024_conditionallyBridgeFromA1C_6resultSb01_A5CTypeQz_xSgztFZTq
+  Demangled: [Swift 5 Symbol] _$ss21_ObjectiveCBridgeableP024_conditionallyBridgeFromA1C_6resultSb01_A5CTypeQz_xSgztFZTq
+
+[bind] 0x1001122E8 | 0
+  Mangled:   _$ss21_ObjectiveCBridgeableP026_unconditionallyBridgeFromA1Cyx01_A5CTypeQzSgFZTq
+  Demangled: [Swift 5 Symbol] _$ss21_ObjectiveCBridgeableP026_unconditionallyBridgeFromA1Cyx01_A5CTypeQzSgFZTq
+
+[bind] 0x1001122D0 | 0
+  Mangled:   _$ss21_ObjectiveCBridgeableP09_bridgeToA1C01_A5CTypeQzyFTq
+  Demangled: [Swift 5 Symbol] _$ss21_ObjectiveCBridgeableP09_bridgeToA1C01_A5CTypeQzyFTq
+
+[bind] 0x10010C0B8 | 0
+  Mangled:   _$ss23_ContiguousArrayStorageCMn
+  Demangled: [Swift 5 Symbol] _$ss23_ContiguousArrayStorageCMn
+
+[bind] 0x100112180 | 0
+  Mangled:   _$ss25ExpressibleByArrayLiteralMp
+  Demangled: [Swift 5 Symbol] _$ss25ExpressibleByArrayLiteralMp
+
+[bind] 0x100112190 | 0
+  Mangled:   _$ss25ExpressibleByArrayLiteralP05arrayD0x0cD7ElementQzd_tcfCTq
+  Demangled: [Swift 5 Symbol] _$ss25ExpressibleByArrayLiteralP05arrayD0x0cD7ElementQzd_tcfCTq
+
+[bind] 0x10010C0C0 | 0
+  Mangled:   _$ss26DefaultStringInterpolationVN
+  Demangled: [Swift 5 Symbol] _$ss26DefaultStringInterpolationVN
+
+[bind] 0x10010C0C8 | 0
+  Mangled:   _$ss26DefaultStringInterpolationVs16TextOutputStreamsWP
+  Demangled: [Swift 5 Symbol] _$ss26DefaultStringInterpolationVs16TextOutputStreamsWP
+
+[bind] 0x100112298 | 0
+  Mangled:   _$ss35_HasCustomAnyHashableRepresentationMp
+  Demangled: [Swift 5 Symbol] _$ss35_HasCustomAnyHashableRepresentationMp
+
+[bind] 0x1001122A0 | 0
+  Mangled:   _$ss35_HasCustomAnyHashableRepresentationP03_tobcD0s0cD0VSgyFTq
+  Demangled: [Swift 5 Symbol] _$ss35_HasCustomAnyHashableRepresentationP03_tobcD0s0cD0VSgyFTq
+
+[bind] 0x10010C0D0 | 0
+  Mangled:   _$ss5ErrorMp
+  Demangled: [Swift 5 Symbol] _$ss5ErrorMp
+
+[bind] 0x10010C0D8 | 0
+  Mangled:   _$ss5Int16VMn
+  Demangled: [Swift 5 Symbol] _$ss5Int16VMn
+
+[bind] 0x10010C0E0 | 0
+  Mangled:   _$ss5SIMD2VMn
+  Demangled: [Swift 5 Symbol] _$ss5SIMD2VMn
+
+[bind] 0x10010C0E8 | 0
+  Mangled:   _$ss5SIMD3VMn
+  Demangled: [Swift 5 Symbol] _$ss5SIMD3VMn
+
+[bind] 0x10010C0F0 | 0
+  Mangled:   _$ss5SIMD4VMn
+  Demangled: [Swift 5 Symbol] _$ss5SIMD4VMn
+
+[bind] 0x10010C0F8 | 0
+  Mangled:   _$ss6UInt16VMn
+  Demangled: [Swift 5 Symbol] _$ss6UInt16VMn
+
+[bind] 0x10010C100 | 0
+  Mangled:   _$ss6UInt32VMn
+  Demangled: [Swift 5 Symbol] _$ss6UInt32VMn
+
+[bind] 0x100112278 | 0
+  Mangled:   _$ss9OptionSetMp
+  Demangled: [Swift 5 Symbol] _$ss9OptionSetMp
+
+[bind] 0x100112290 | 0
+  Mangled:   _$ss9OptionSetP8rawValuex03RawD0Qz_tcfCTq
+  Demangled: [Swift 5 Symbol] _$ss9OptionSetP8rawValuex03RawD0Qz_tcfCTq
+
+[bind] 0x100112280 | 0
+  Mangled:   _$ss9OptionSetPSYTb
+  Demangled: [Swift 5 Symbol] _$ss9OptionSetPSYTb
+
+[bind] 0x100112288 | 0
+  Mangled:   _$ss9OptionSetPs0B7AlgebraTb
+  Demangled: [Swift 5 Symbol] _$ss9OptionSetPs0B7AlgebraTb
+
+[bind] 0x10010C108 | 0
+  Mangled:   _$sypN
+  Demangled: [Swift 5 Symbol] _$sypN
+
+[bind] 0x100112398 | 0
+  Mangled:   _$sytWV
+  Demangled: [Swift 5 Symbol] _$sytWV
+
+[bind] 0x1001124C0 | 0
+  Mangled:   _$sytWV
+  Demangled: [Swift 5 Symbol] _$sytWV
+
+[bind] 0x100155C28 | 0
+  Mangled:   _OBJC_CLASS_$__TtCs12_SwiftObject
+  Demangled: _OBJC_CLASS_$__TtCs12_SwiftObject
+
+[bind] 0x100155DE0 | 0
+  Mangled:   _OBJC_CLASS_$__TtCs12_SwiftObject
+  Demangled: _OBJC_CLASS_$__TtCs12_SwiftObject
+
+[bind] 0x1001560D0 | 0
+  Mangled:   _OBJC_CLASS_$__TtCs12_SwiftObject
+  Demangled: _OBJC_CLASS_$__TtCs12_SwiftObject
+
+[bind] 0x100155BE0 | 0
+  Mangled:   _OBJC_METACLASS_$__TtCs12_SwiftObject
+  Demangled: _OBJC_METACLASS_$__TtCs12_SwiftObject
+
+[bind] 0x100155BE8 | 0
+  Mangled:   _OBJC_METACLASS_$__TtCs12_SwiftObject
+  Demangled: _OBJC_METACLASS_$__TtCs12_SwiftObject
+
+[bind] 0x100155D98 | 0
+  Mangled:   _OBJC_METACLASS_$__TtCs12_SwiftObject
+  Demangled: _OBJC_METACLASS_$__TtCs12_SwiftObject
+
+[bind] 0x100155DA0 | 0
+  Mangled:   _OBJC_METACLASS_$__TtCs12_SwiftObject
+  Demangled: _OBJC_METACLASS_$__TtCs12_SwiftObject
+
+[bind] 0x100156088 | 0
+  Mangled:   _OBJC_METACLASS_$__TtCs12_SwiftObject
+  Demangled: _OBJC_METACLASS_$__TtCs12_SwiftObject
+
+[bind] 0x100156090 | 0
+  Mangled:   _OBJC_METACLASS_$__TtCs12_SwiftObject
+  Demangled: _OBJC_METACLASS_$__TtCs12_SwiftObject
+
+[lazy-bind] 0x10011C008 | _$s2os0A4_log_3dso0B0__ySo0a1_B7_type_ta_SVSo03OS_a1_B0Cs12StaticStringVs7CVarArg_pdtF
+  Mangled:   _$s2os0A4_log_3dso0B0__ySo0a1_B7_type_ta_SVSo03OS_a1_B0Cs12StaticStringVs7CVarArg_pdtF
+  Demangled: os.os_log(_:type:dso:log:_:args:)
+
+[lazy-bind] 0x10011C080 | _$sSo13simd_float4x4a0A0EyABSfcfC
+  Mangled:   _$sSo13simd_float4x4a0A0EyABSfcfC
+  Demangled: simd.simd_float4x4.init(_: Float)
+
+[lazy-bind] 0x10011C088 | _$sSo13simd_float4x4a0A0EyABs5SIMD4VySfG_A3FtcfC
+  Mangled:   _$sSo13simd_float4x4a0A0EyABs5SIMD4VySfG_A3FtcfC
+  Demangled: simd.simd_float4x4.init(_:SIMD4<Float>, _:SIMD4<Float>, _:SIMD4<Float>, _:SIMD4<Float>)
+
+[lazy-bind] 0x10011C018 | _$s8Dispatch0A3QoSV11unspecifiedACvgZ
+  Mangled:   _$s8Dispatch0A3QoSV11unspecifiedACvgZ
+  Demangled: static Dispatch.DispatchQoS.unspecified.getter : Dispatch.DispatchQoS
+
+[lazy-bind] 0x10011C090 | _$sSo17OS_dispatch_queueC8DispatchE4mainABvgZ
+  Mangled:   _$sSo17OS_dispatch_queueC8DispatchE4mainABvgZ
+  Demangled: static Dispatch.DispatchQueue.main.getter : Dispatch.DispatchQueue
+
+[lazy-bind] 0x10011C060 | _$sSa28_allocateBufferUninitialized15minimumCapacitys06_ArrayB0VyxGSi_tFZ
+  Mangled:   _$sSa28_allocateBufferUninitialized15minimumCapacitys06_ArrayB0VyxGSi_tFZ
+  Demangled: static Swift.Array._allocateBufferUninitialized(minimumCapacity: Int)
+
+[lazy-bind] 0x10011C040 | _$sSS10FoundationE34_conditionallyBridgeFromObjectiveC_6resultSbSo8NSStringC_SSSgztFZ
+  Mangled:   _$sSS10FoundationE34_conditionallyBridgeFromObjectiveC_6resultSbSo8NSStringC_SSSgztFZ
+  Demangled: static Swift.String._conditionallyBridgeFromObjectiveC(NSString, result: inout String?) -> Bool
+
+[lazy-bind] 0x10011C038 | _$sSS10FoundationE26_forceBridgeFromObjectiveC_6resultySo8NSStringC_SSSgztFZ
+  Mangled:   _$sSS10FoundationE26_forceBridgeFromObjectiveC_6resultySo8NSStringC_SSSgztFZ
+  Demangled: static Swift.String._forceBridgeFromObjectiveC(NSString, result: inout String?)
+
+[lazy-bind] 0x10011C048 | _$sSS10FoundationE36_unconditionallyBridgeFromObjectiveCySSSo8NSStringCSgFZ
+  Mangled:   _$sSS10FoundationE36_unconditionallyBridgeFromObjectiveCySSSo8NSStringCSgFZ
+  Demangled: static Swift.String._unconditionallyBridgeFromObjectiveC(NSString?) -> String
+
+[lazy-bind] 0x10011C0D0 | _$ss18_DictionaryStorageC8allocate8capacityAByxq_GSi_tFZ
+  Mangled:   _$ss18_DictionaryStorageC8allocate8capacityAByxq_GSi_tFZ
+  Demangled: static Swift._DictionaryStorage.allocate(capacity: Int)
+
+[lazy-bind] 0x10011C0A0 | _$sSo9OS_os_logC0B0E7defaultABvgZ
+  Mangled:   _$sSo9OS_os_logC0B0E7defaultABvgZ
+  Demangled: static os.OS_os_log.default.getter
+
+[lazy-bind] 0x10011C078 | _$sSo13os_log_type_ta0A0E5errorABvgZ
+  Mangled:   _$sSo13os_log_type_ta0A0E5errorABvgZ
+  Demangled: static os.os_log_type_t.error.getter
+
+[lazy-bind] 0x10011C070 | _$sSo13os_log_type_ta0A0E4infoABvgZ
+  Mangled:   _$sSo13os_log_type_ta0A0E4infoABvgZ
+  Demangled: static os.os_log_type_t.info.getter
+

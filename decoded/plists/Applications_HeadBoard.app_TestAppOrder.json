@@ -1,0 +1,254 @@
+{
+  "HBRootFolderKey": {
+    "HBAppGridOrderKey": 0,
+    "HBFolderIdentifierKey": "HomeScreen",
+    "HBFolderItemsKey": [
+      {
+        "HBAppGridOrderKey": 1000,
+        "HBAppIdentifierKey": "com.H443NM7F8H.CBSNews",
+        "HBItemTypeKey": "Application"
+      },
+      {
+        "HBAppGridOrderKey": 2000,
+        "HBAppIdentifierKey": "com.apple.TVWatchList",
+        "HBItemTypeKey": "Application"
+      },
+      {
+        "HBAppGridOrderKey": 3000,
+        "HBAppIdentifierKey": "com.atebits.Tweetie2",
+        "HBItemTypeKey": "Application"
+      },
+      {
+        "HBAppGridOrderKey": 4000,
+        "HBAppIdentifierKey": "com.apple.TVMusic",
+        "HBItemTypeKey": "Application"
+      },
+      {
+        "HBAppGridOrderKey": 5000,
+        "HBFolderIdentifierKey": "79A630D3-B9F1-4E07-913B-D12B0EB56580",
+        "HBFolderItemsKey": [
+          {
+            "HBAppGridOrderKey": 51000,
+            "HBAppIdentifierKey": "com.landka.artlegacylive",
+            "HBItemTypeKey": "Application"
+          },
+          {
+            "HBAppGridOrderKey": 52000,
+            "HBAppIdentifierKey": "com.fanhattan.iphoneapp",
+            "HBItemTypeKey": "Application"
+          },
+          {
+            "HBAppGridOrderKey": 53000,
+            "HBAppIdentifierKey": "com.rljentertainment.umc",
+            "HBItemTypeKey": "Application"
+          },
+          {
+            "HBAppGridOrderKey": 54000,
+            "HBAppIdentifierKey": "com.apple.podcasts",
+            "HBItemTypeKey": "Application"
+          },
+          {
+            "HBAppGridOrderKey": 55000,
+            "HBAppIdentifierKey": "com.greatbigstory",
+            "HBItemTypeKey": "Application"
+          },
+          {
+            "HBAppGridOrderKey": 151000,
+            "HBAppIdentifierKey": "com.abcfamily.videoplayer",
+            "HBItemTypeKey": "Application"
+          }
+        ],
+        "HBFolderNameKey": "Lifestyle",
+        "HBItemTypeKey": "Folder"
+      },
+      {
+        "HBAppGridOrderKey": 6000,
+        "HBAppIdentifierKey": "com.apple.TVHomeSharing",
+        "HBItemTypeKey": "Application"
+      },
+      {
+        "HBAppGridOrderKey": 7000,
+        "HBAppIdentifierKey": "com.apple.TVSearch",
+        "HBItemTypeKey": "Application"
+      },
+      {
+        "HBAppGridOrderKey": 8000,
+        "HBAppIdentifierKey": "com.apple.TVShows",
+        "HBItemTypeKey": "Application"
+      },
+      {
+        "HBAppGridOrderKey": 9000,
+        "HBAppIdentifierKey": "io.copperstud.Rheo",
+        "HBItemTypeKey": "Application"
+      },
+      {
+        "HBAppGridOrderKey": 10000,
+        "HBAppIdentifierKey": "com.apple.TVSettings",
+        "HBItemTypeKey": "Application"
+      },
+      {
+        "HBAppGridOrderKey": 11000,
+        "HBAppIdentifierKey": "com.mtvn.SPIKE",
+        "HBItemTypeKey": "Application"
+      },
+      {
+        "HBAppGridOrderKey": 12000,
+        "HBAppIdentifierKey": "com.showtime.standalone",
+        "HBItemTypeKey": "Application"
+      },
+      {
+        "HBAppGridOrderKey": 13000,
+        "HBAppIdentifierKey": "com.apple.TVAppStore",
+        "HBItemTypeKey": "Application"
+      },
+      {
+        "HBAppGridOrderKey": 14000,
+        "HBAppIdentifierKey": "net.ajplus.ajplus",
+        "HBItemTypeKey": "Application"
+      },
+      {
+        "HBAppGridOrderKey": 15300.0,
+        "HBAppIdentifierKey": "com.facebook.Facebook",
+        "HBItemTypeKey": "Application"
+      },
+      {
+        "HBAppGridOrderKey": 16000,
+        "HBAppIdentifierKey": "com.apple.TVMovies",
+        "HBItemTypeKey": "Application"
+      },
+      {
+        "HBAppGridOrderKey": 17000,
+        "HBAppIdentifierKey": "com.apple.TestFlight",
+        "HBItemTypeKey": "Application"
+      },
+      {
+        "HBAppGridOrderKey": 19000,
+        "HBAppIdentifierKey": "com.apple.TVPhotos",
+        "HBItemTypeKey": "Application"
+      },
+      {
+        "HBAppGridOrderKey": 20000,
+        "HBAppIdentifierKey": "com.creativelive.creativelive",
+        "HBItemTypeKey": "Application"
+      },
+      {
+        "HBAppGridOrderKey": 21000,
+        "HBAppIdentifierKey": "com.cnn.iphone",
+        "HBItemTypeKey": "Application"
+      },
+      {
+        "HBAppGridOrderKey": 22000,
+        "HBAppIdentifierKey": "com.kayak.travel",
+        "HBItemTypeKey": "Application"
+      },
+      {
+        "HBAppGridOrderKey": 23000,
+        "HBAppIdentifierKey": "com.dramafever.moodica",
+        "HBItemTypeKey": "Application"
+      },
+      {
+        "HBAppGridOrderKey": 24000,
+        "HBAppIdentifierKey": "com.porsche.porscheTV",
+        "HBItemTypeKey": "Application"
+      },
+      {
+        "HBAppGridOrderKey": 25000,
+        "HBAppIdentifierKey": "com.aetn.mobile.ios.lifetimemoviepass",
+        "HBItemTypeKey": "Application"
+      },
+      {
+        "HBAppGridOrderKey": 26000,
+        "HBAppIdentifierKey": "com.gilt.tvos",
+        "HBItemTypeKey": "Application"
+      },
+      {
+        "HBAppGridOrderKey": 27000,
+        "HBAppIdentifierKey": "com.zumobi.msnbc",
+        "HBItemTypeKey": "Application"
+      },
+      {
+        "HBAppGridOrderKey": 28000,
+        "HBAppIdentifierKey": "com.foxnews.foxnews",
+        "HBItemTypeKey": "Application"
+      },
+      {
+        "HBAppGridOrderKey": 29125.0,
+        "HBAppIdentifierKey": "com.turner.mmod2011temp",
+        "HBItemTypeKey": "Application"
+      },
+      {
+        "HBAppGridOrderKey": 30062.5,
+        "HBFolderIdentifierKey": "4BCE661D-8B66-46D7-A1F3-1E9C51018DD1",
+        "HBFolderItemsKey": [
+          {
+            "HBAppGridOrderKey": 302500.0,
+            "HBAppIdentifierKey": "com.tennischannel.tceverywhere",
+            "HBItemTypeKey": "Application"
+          }
+        ],
+        "HBFolderNameKey": "Sports",
+        "HBItemTypeKey": "Folder"
+      },
+      {
+        "HBAppGridOrderKey": 31000,
+        "HBAppIdentifierKey": "com.zype.thefilmdetectivetv",
+        "HBItemTypeKey": "Application"
+      },
+      {
+        "HBAppGridOrderKey": 32000.0,
+        "HBFolderIdentifierKey": "A28532DD-B278-4136-A46F-17EF03F96737",
+        "HBFolderItemsKey": [
+          {
+            "HBAppGridOrderKey": 182000,
+            "HBAppIdentifierKey": "com.discovery.mobile.discoverygo",
+            "HBItemTypeKey": "Application"
+          },
+          {
+            "HBAppGridOrderKey": 182500.0,
+            "HBAppIdentifierKey": "com.runtastic.iphone.results.lite",
+            "HBItemTypeKey": "Application"
+          },
+          {
+            "HBAppGridOrderKey": 183000,
+            "HBAppIdentifierKey": "com.epix.epixhd",
+            "HBItemTypeKey": "Application"
+          },
+          {
+            "HBAppGridOrderKey": 184000.0,
+            "HBAppIdentifierKey": "com.deltatre.atp-tennis-tv-ios",
+            "HBItemTypeKey": "Application"
+          },
+          {
+            "HBAppGridOrderKey": 185000.0,
+            "HBAppIdentifierKey": "com.cardify.tinder",
+            "HBItemTypeKey": "Application"
+          }
+        ],
+        "HBFolderNameKey": "Entertainment",
+        "HBItemTypeKey": "Folder"
+      },
+      {
+        "HBAppGridOrderKey": 33000,
+        "HBAppIdentifierKey": "com.apple.TVBooks",
+        "HBItemTypeKey": "Application"
+      },
+      {
+        "HBAppGridOrderKey": 35000,
+        "HBAppIdentifierKey": "com.aetn.ios.HistoryVault",
+        "HBItemTypeKey": "Application"
+      },
+      {
+        "HBAppGridOrderKey": 36500.0,
+        "HBAppIdentifierKey": "com.espn.ScoreCenter",
+        "HBItemTypeKey": "Application"
+      },
+      {
+        "HBAppGridOrderKey": 37500.0,
+        "HBAppIdentifierKey": "com.papajohns.ios",
+        "HBItemTypeKey": "Application"
+      }
+    ],
+    "HBFolderNameKey": "Home Screen",
+    "HBItemTypeKey": "Folder"
+  }
+}

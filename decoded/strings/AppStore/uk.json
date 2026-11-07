@@ -1,0 +1,43 @@
+{
+  "Localizable": {
+    "ONBOARDING_TV_SPLASH_PICKER_ARCADE": "Apple Arcade",
+    "OFFER_BUTTON_TITLE_BUY": "Купити",
+    "INFO_LIST_REQUIREMENTS_SUMMARY": "Сумісна з цим {deviceName}",
+    "PREORDER_TERMS_FREE": "Цей контент може змінюватися без попередження, і кінцевий продукт може бути інакшим.\n\nЩоб переглянути чи анулювати свої передзамовлення на iPhone чи iPad, перейдіть до Параметрів облікового запису в App Store. На Mac чи ПК використовуйте Mac App Store або iTunes.",
+    "OFFER_BUTTON_TITLE_ARCADE_TRY": "Спробувати безкоштовно",
+    "OFFER_BUTTON_TITLE_BUY_WITH_PRICE": "Купити {price}",
+    "OFFER_BUTTON_TITLE_PREORDER_WITH_PRICE": "Передзамовити {price}",
+    "BADGE_MFI_REQUIRED_HEADING": "Контролер потрібен",
+    "OFFERS_IN_APP_PURCHASES": "Пропонує покупки в програмі",
+    "OFFER_BUTTON_TITLE_ARCADE_OPEN": "Грати у гру",
+    "SEARCH_PLACEHOLDER": "Пошук",
+    "MORE_INFORMATION": "Більше інформації",
+    "ONBOARDING_TV_ARCADE_TITLE": "Зустрічайте Apple Arcade",
+    "ONBOARDING_TV_SPLASH_PICKER_DESCRIPTION": "Служби Apple спроектовано, щоб захищати вашу інформацію і давати вам змогу обирати, що оприлюднювати.",
+    "ARCADE_WELCOME_TV_DEVICES_PRE_MACOS_BODY": "Грайте на своєму iPhone, iPad, Mac і Apple TV. Очікуйте вже восени.",
+    "INLINE_IN_APP_PURCHASES": "Покупки в програмі",
+    "ONBOARDING_TV_ARCADE_DESCRIPTION": "Грайте в 100+ надзвичайних ігор з єдиною передплатою. Без реклами й додаткових покупок.",
+    "VERSION_STRING": "Версія",
+    "ONBOARDING_TV_UNIFIED_APP_STORE_HEADING": "Новація в App Store",
+    "PURCHASES_RESTRICTED_DESCRIPTION": "Покупки обмежено на цьому Apple TV. Щоб змінити обмеження, перейдіть до Параметрів.",
+    "ONBOARDING_TV_UNIFIED_APP_STORE_DESCRIPTION": "Грайте в 100+ надзвичайних ігор з єдиною передплатою. Без реклами й додаткових покупок.",
+    "OFFER_BUTTON_TITLE_ARCADE_NOT_SUBSCRIBED": "Почніть грати",
+    "PREORDER_TERMS_PAID": "Цей контент може змінюватися без попередження, і кінцевий продукт може бути інакшим.\n\nПлата за цю програму не нараховуватиметься до дня її виходу. Щоб переглянути чи анулювати свої передзамовлення на iPhone чи iPad, перейдіть до Параметрів облікового запису в App Store. На Mac чи ПК використовуйте Mac App Store або iTunes.",
+    "ONBOARDING_TV_APP_STORE_DESCRIPTION": "Ваш Apple TV — це неймовірна платформа для чудових програм й ігор, а App Store — це там, де їх знаходять.",
+    "OFFER_BUTTON_TITLE_OPEN": "Відкрити",
+    "PRODUCT_SECTION_TEXT_CARDS": "Опис",
+    "OFFER_BUTTON_TITLE_PREORDER": "Передзамовити",
+    "VERSION_STRING_WITH_RELEASE_DATE": "{version} – випущено {date} р.",
+    "ONBOARDING_TV_SPLASH_PICKER_APP_STORE": "App Store",
+    "PURCHASES_RESTRICTED_TITLE": "Покупки програм обмежено",
+    "ONBOARDING_TV_APP_STORE_TITLE": "Вітаємо в App Store",
+    "ONBOARDING_TV_SPLASH_PICKER_TITLE": "Приватність",
+    "BADGE_MFI_HEADING": "Контролер, якщо є",
+    "OFFER_BUTTON_TITLE_ARCADE_STANDARD": "Отримати",
+    "OFFER_BUTTON_TITLE_GET": "Отримати",
+    "PRODUCT_DESCRIPTION_HEADER": "{title}—{subtitle}"
+  },
+  "InfoPlist": {
+    "CFBundleDisplayName": "App Store"
+  }
+}

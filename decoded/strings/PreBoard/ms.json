@@ -1,0 +1,10 @@
+{
+  "Localizable": {
+    "PREConfirmationMessage": "Adakah anda pasti mahu mereset semua seting?\nAnda perlu menyediakan Apple TV anda sekali lagi.",
+    "PREResetAllSettingsButton": "Reset Semua Seting",
+    "PREDialogTitle": "Mod Pemulihan",
+    "PRERestartButton": "Mula Semula",
+    "PREMainMessage": "Nampaknya Apple TV anda sedang mengalami masalah.\nAnda boleh mereset semua seting dan akaun dengan memilih Reset Semua Seting.\nUntuk memulakan semula tanpa mereset, pilih Mula Semula.",
+    "PRECancelButton": "Batal"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "Localizable": {
+    "PREConfirmationMessage": "Sigurno želite resetirati sve postavke na vašem Apple TV-u? Morat ćete ponovno podesiti vaš Apple TV.",
+    "PREResetAllSettingsButton": "Resetiraj sve postavke",
+    "PREDialogTitle": "Mod oporavka",
+    "PRERestartButton": "Ponovno uključi",
+    "PREMainMessage": "Čini se da je Apple TV naišao na probleme.\nMožete resetirati sve postavke i račune tako da odaberete Resetiraj sve postavke.\nZa ponovno uključenje bez resetiranja odaberite Ponovno uključi.",
+    "PRECancelButton": "Poništi"
+  }
+}

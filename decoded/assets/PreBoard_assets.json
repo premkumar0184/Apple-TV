@@ -1,0 +1,69 @@
+{
+  "application": "PreBoard",
+  "car_path": "/home/prem/Projects/AppleTV/extracted/rootfs/Applications/PreBoard.app/Assets.car",
+  "file_size": 25512,
+  "sha256": "1c3ce0edffa5c2342df17888c71018b9be428938dff10bdef44e635b65ee0482",
+  "car_header": "RATCa@(#)PROGRAM:CoreUI  PROJECT:CoreUI-609.4\nIBCocoaTouchImageCatalogTool-11.411O62d1348",
+  "extended_metadata": "METAcarutil 609.400000, thinned <mode app> <idiom 3,3> <subtype 3840,3840> <subtypefallback *> <scale 1,2> <gamut 0,1> <graphics 4,4> <graphicsfallback (2,1,0),(2,1,0)> <memory *> <deployment+ 5,5> <hostedIdioms *> <removed none>13.4atv@(#)PROGRAM:CoreThemeDefinition  PROJECT:CoreThemeDefinition-447.1",
+  "appearances": {
+    "0": "UIAppearanceAny"
+  },
+  "total_facets": 1,
+  "total_renditions": 2,
+  "extracted_bitmaps": 2,
+  "extracted_vectors": 0,
+  "extracted_layered_images": 0,
+  "facets": {
+    "Logo": {
+      "name": "Logo",
+      "raw_val_hex": "000000000300010055000200b50011007f1c",
+      "facet_id": null
+    }
+  },
+  "renditions": [
+    {
+      "index": 0,
+      "facet_name": "Asset_85",
+      "rendition_id": 85,
+      "key_hex": "01007f1c5500b500",
+      "key_attributes": [
+        1,
+        7295,
+        85,
+        181
+      ],
+      "scale": 1,
+      "appearance": "UIAppearanceAny",
+      "appearance_id": 0,
+      "width": 140,
+      "height": 167,
+      "pixel_format": " 8AG",
+      "uti": "com.apple.coreui.bitmap",
+      "is_inlink": false,
+      "payload_bytes": 2633,
+      "extracted_file": "PreBoard/images/Asset_85_1x_UIAppearanceAny.png"
+    },
+    {
+      "index": 1,
+      "facet_name": "Asset_85",
+      "rendition_id": 85,
+      "key_hex": "02007f1c5500b500",
+      "key_attributes": [
+        2,
+        7295,
+        85,
+        181
+      ],
+      "scale": 2,
+      "appearance": "UIAppearanceAny",
+      "appearance_id": 0,
+      "width": 280,
+      "height": 334,
+      "pixel_format": " 8AG",
+      "uti": "com.apple.coreui.bitmap",
+      "is_inlink": false,
+      "payload_bytes": 5000,
+      "extracted_file": "PreBoard/images/Asset_85_2x_UIAppearanceAny.png"
+    }
+  ]
+}

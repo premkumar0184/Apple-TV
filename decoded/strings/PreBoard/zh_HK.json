@@ -1,0 +1,10 @@
+{
+  "Localizable": {
+    "PREConfirmationMessage": "確定要重設所有設定嗎？\n你將需要重新設定Apple TV。",
+    "PREResetAllSettingsButton": "重設所有設定",
+    "PREDialogTitle": "還原模式",
+    "PRERestartButton": "重新啟動",
+    "PREMainMessage": "你的Apple TV似乎發生問題。\n你可以選擇「重置所有設定」以重置所有設定和帳户。\n如不想重置設定，要直接重新啟動，請選擇「重新啟動」。",
+    "PRECancelButton": "取消"
+  }
+}

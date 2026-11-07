@@ -1,0 +1,51 @@
+{
+  "com.apple.PairingManager.Read": true,
+  "com.apple.PairingManager.Write": true,
+  "com.apple.UIKit.vends-view-services": true,
+  "com.apple.accounts.appleaccount.fullaccess": true,
+  "com.apple.appletv.pbs.allow-custom-playpause": true,
+  "com.apple.appletv.pbs.allow-custom-volume": true,
+  "com.apple.appletv.pbs.allow-now-playing-presentation": true,
+  "com.apple.appletv.pbs.allow-sleep": true,
+  "com.apple.appletv.pbs.bulletin-service-access": true,
+  "com.apple.appletv.pbs.now-playing-view-service": true,
+  "com.apple.appletv.pbs.picture-in-picture-service-access": true,
+  "com.apple.authkit.client.private": true,
+  "com.apple.avfoundation.allow-system-wide-context": true,
+  "com.apple.avfoundation.allows-access-to-device-list": true,
+  "com.apple.avfoundation.allows-set-output-device": true,
+  "com.apple.developer.homekit": true,
+  "com.apple.frontboard.launchapplications": true,
+  "com.apple.itunescloud.delegate-account-store": true,
+  "com.apple.itunescloud.delegation-provider": true,
+  "com.apple.itunesstored.private": true,
+  "com.apple.private.accounts.allaccounts": true,
+  "com.apple.private.coreservices.canmaplsdatabase": true,
+  "com.apple.private.familycircle": true,
+  "com.apple.private.homekit": true,
+  "com.apple.private.security.container-required": true,
+  "com.apple.private.tcc.allow": [
+    "kTCCServiceAddressBook",
+    "kTCCServiceMediaLibrary",
+    "kTCCServiceWillow"
+  ],
+  "com.apple.private.tvos.TVSUsers": true,
+  "com.apple.security.exception.mach-lookup.global-name": [
+    "com.apple.itunescloud.delegation-provider",
+    "com.apple.itunescloud.delegate-account-store",
+    "com.apple.TVServices.TVProfileService"
+  ],
+  "com.apple.security.exception.process-info": true,
+  "com.apple.security.exception.shared-preference.read-only": [
+    "com.apple.Music",
+    "com.apple.airplay"
+  ],
+  "com.apple.security.exception.shared-preference.read-write": [
+    "com.apple.UIKit"
+  ],
+  "keychain-access-groups": [
+    "apple",
+    "appleaccount"
+  ],
+  "platform-application": true
+}

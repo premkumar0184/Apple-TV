@@ -1,0 +1,39 @@
+{
+  "CFBundleName": "TVSystemBulletinService",
+  "DTXcode": "1140",
+  "DTSDKName": "appletvos13.4.internal",
+  "UIViewServiceUsesNSXPCConnection": true,
+  "SBAppTags": [
+    "hidden"
+  ],
+  "DTSDKBuild": "17M59",
+  "CFBundleDevelopmentRegion": "en",
+  "CFBundleVersion": "1",
+  "BuildMachineOSBuild": "18A391024",
+  "UIUserInterfaceStyle": "Automatic",
+  "DTPlatformName": "appletvos",
+  "CFBundlePackageType": "APPL",
+  "CFBundleShortVersionString": "1.0",
+  "CFBundleSupportedPlatforms": [
+    "AppleTVOS"
+  ],
+  "CFBundleInfoDictionaryVersion": "6.0",
+  "CFBundleExecutable": "TVSystemBulletinService",
+  "DTCompiler": "com.apple.compilers.llvm.clang.1_0",
+  "UIRequiredDeviceCapabilities": [
+    "arm64"
+  ],
+  "MinimumOSVersion": "13.4",
+  "CFBundleIdentifier": "com.apple.TVSystemBulletinService",
+  "UIDeviceFamily": [
+    3
+  ],
+  "DTPlatformVersion": "13.4",
+  "DTXcodeBuild": "11O62d",
+  "CFBundleSignature": "????",
+  "LSRequiresIPhoneOS": true,
+  "SBMachServices": [
+    "com.apple.uikit.viewservice.com.apple.TVSystemBulletinService"
+  ],
+  "DTPlatformBuild": "11O62d"
+}

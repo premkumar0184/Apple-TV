@@ -1,0 +1,10 @@
+{
+  "Localizable": {
+    "PREConfirmationMessage": "Confermi di voler inizializzare tutte le impostazioni?\nDovrai configurare nuovamente Apple TV.",
+    "PREResetAllSettingsButton": "Ripristina impostazioni",
+    "PREDialogTitle": "Modalità di recupero",
+    "PRERestartButton": "Riavvia",
+    "PREMainMessage": "C’è qualche problema con Apple TV.\nPuoi ripristinare tutte le impostazioni e gli account selezionando l’opzione “Ripristina impostazioni”.\nPer riavviare senza inizializzare le impostazioni, scegli l’opzione Riavvia.",
+    "PRECancelButton": "Annulla"
+  }
+}

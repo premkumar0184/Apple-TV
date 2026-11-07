@@ -1,0 +1,43 @@
+{
+  "Localizable": {
+    "ONBOARDING_TV_SPLASH_PICKER_ARCADE": "Apple Arcade",
+    "OFFER_BUTTON_TITLE_BUY": "Vásárlás",
+    "INFO_LIST_REQUIREMENTS_SUMMARY": "Működik {deviceName} eszközén",
+    "PREORDER_TERMS_FREE": "Ez a tartalom értesítés nélkül változhat, és a végső termék eltérő lehet.\n\nHa iPhone-on vagy iPaden szeretné megtekinteni vagy törölni az előrendeléseit, nyissa meg a fiókbeállításokat az App Store-ban. Mac gépen vagy PC-n használja a Mac App Store-t vagy az iTunest.",
+    "OFFER_BUTTON_TITLE_ARCADE_TRY": "Ingyenes kipróbálás",
+    "OFFER_BUTTON_TITLE_BUY_WITH_PRICE": "Vásárlás: {price}",
+    "OFFER_BUTTON_TITLE_PREORDER_WITH_PRICE": "Előrendelés: {price}",
+    "BADGE_MFI_REQUIRED_HEADING": "Vezérlő szükséges",
+    "OFFERS_IN_APP_PURCHASES": "Alkalmazáson belüli vásárlást kínál",
+    "OFFER_BUTTON_TITLE_ARCADE_OPEN": "Játék indítása",
+    "SEARCH_PLACEHOLDER": "Keresés",
+    "MORE_INFORMATION": "Több információ",
+    "ONBOARDING_TV_ARCADE_TITLE": "Üdvözli az Apple Arcade",
+    "ONBOARDING_TV_SPLASH_PICKER_DESCRIPTION": "Az Apple szolgáltatásokat úgy tervezték, hogy megvédjék az Ön információit, és lehetővé tegyék, hogy Ön kiválassza, mit oszt meg.",
+    "ARCADE_WELCOME_TV_DEVICES_PRE_MACOS_BODY": "Játszhat az iPhone-ján, az iPadjén, a Mac gépén és az Apple TV-jén. Ez a szolgáltatás idén ősztől lesz elérhető.",
+    "INLINE_IN_APP_PURCHASES": "Alkalmazáson belüli vásárlások",
+    "ONBOARDING_TV_ARCADE_DESCRIPTION": "Egyetlen előfizetéssel 100+ különleges játékkal játszhat reklámok és további vásárlások nélkül.",
+    "VERSION_STRING": "Verzió",
+    "ONBOARDING_TV_UNIFIED_APP_STORE_HEADING": "Az App Store újdonságai",
+    "PURCHASES_RESTRICTED_DESCRIPTION": "A vásárlás korlátozva van ezen az Apple TV-n. A korlátozások módosításához nyissa meg a Beállításokat.",
+    "ONBOARDING_TV_UNIFIED_APP_STORE_DESCRIPTION": "Egyetlen előfizetéssel 100+ különleges játékkal játszhat reklámok és további vásárlások nélkül.",
+    "OFFER_BUTTON_TITLE_ARCADE_NOT_SUBSCRIBED": "Játék indítása",
+    "PREORDER_TERMS_PAID": "Ez a tartalom értesítés nélkül változhat, és a végső termék eltérő lehet.\n\nAkkor kell kifizetnie a díjat, amikor az alkalmazás elérhetővé válik. Ha iPhone-on vagy iPaden szeretné megtekinteni vagy törölni az előrendeléseit, nyissa meg a fiókbeállításokat az App Store-ban. Mac gépen vagy PC-n használja a Mac App Store-t vagy az iTunest.",
+    "ONBOARDING_TV_APP_STORE_DESCRIPTION": "Az Apple TV kiváló platform a nagyszerű alkalmazásokhoz és játékokhoz, amelyeket az App Store-ból szerezhet be.",
+    "OFFER_BUTTON_TITLE_OPEN": "Megnyitás",
+    "PRODUCT_SECTION_TEXT_CARDS": "Névjegy",
+    "OFFER_BUTTON_TITLE_PREORDER": "Előrendelés",
+    "VERSION_STRING_WITH_RELEASE_DATE": "{version} – Kiadva: {date}",
+    "ONBOARDING_TV_SPLASH_PICKER_APP_STORE": "App Store",
+    "PURCHASES_RESTRICTED_TITLE": "Alkalmazásvásárlások korlátozva",
+    "ONBOARDING_TV_APP_STORE_TITLE": "Üdvözli az App Store",
+    "ONBOARDING_TV_SPLASH_PICKER_TITLE": "Adatvédelem",
+    "BADGE_MFI_HEADING": "Opcionális vezérlő",
+    "OFFER_BUTTON_TITLE_ARCADE_STANDARD": "Letöltés",
+    "OFFER_BUTTON_TITLE_GET": "Letöltés",
+    "PRODUCT_DESCRIPTION_HEADER": "{title}–{subtitle}"
+  },
+  "InfoPlist": {
+    "CFBundleDisplayName": "App Store"
+  }
+}

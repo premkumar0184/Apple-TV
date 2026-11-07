@@ -1,0 +1,43 @@
+{
+  "Localizable": {
+    "ONBOARDING_TV_SPLASH_PICKER_ARCADE": "Apple Arcade",
+    "OFFER_BUTTON_TITLE_BUY": "Acquista",
+    "INFO_LIST_REQUIREMENTS_SUMMARY": "Compatibile con questa {deviceName}",
+    "PREORDER_TERMS_FREE": "Questo contenuto potrebbe cambiare senza preavviso e il prodotto finale potrebbe essere diverso.\n\nPer vedere o annullare i contenuti prenotati su iPhone o iPad, vai alle impostazioni del tuo account su App Store. Se utilizzi un Mac o un PC, puoi utilizzare App Store sul Mac o iTunes.",
+    "OFFER_BUTTON_TITLE_ARCADE_TRY": "Prova gratis",
+    "OFFER_BUTTON_TITLE_BUY_WITH_PRICE": "Acquista a {price}",
+    "OFFER_BUTTON_TITLE_PREORDER_WITH_PRICE": "Prenota a {price}",
+    "BADGE_MFI_REQUIRED_HEADING": "Richiede il controller di gioco",
+    "OFFERS_IN_APP_PURCHASES": "Offre acquisti in-app",
+    "OFFER_BUTTON_TITLE_ARCADE_OPEN": "Gioca",
+    "SEARCH_PLACEHOLDER": "Cerca",
+    "MORE_INFORMATION": "Ulteriori informazioni",
+    "ONBOARDING_TV_ARCADE_TITLE": "Apple Arcade ti dà il benvenuto",
+    "ONBOARDING_TV_SPLASH_PICKER_DESCRIPTION": "I servizi Apple sono concepiti in modo da proteggere le tue informazioni e consentirti di scegliere i contenuti da condividere.",
+    "ARCADE_WELCOME_TV_DEVICES_PRE_MACOS_BODY": "Gioca su iPhone, iPad, Mac e Apple TV. La funzionalità sarà disponibile il prossimo autunno.",
+    "INLINE_IN_APP_PURCHASES": "Acquisti in-app",
+    "ONBOARDING_TV_ARCADE_DESCRIPTION": "Un unico abbonamento ti consente di accedere a oltre 100 giochi straordinari, senza pubblicità né acquisti aggiuntivi.",
+    "VERSION_STRING": "Versione",
+    "ONBOARDING_TV_UNIFIED_APP_STORE_HEADING": "Novità di App Store",
+    "PURCHASES_RESTRICTED_DESCRIPTION": "Gli acquisti su Apple TV sono soggetti a restrizioni. Per modificarle, vai a Impostazioni.",
+    "ONBOARDING_TV_UNIFIED_APP_STORE_DESCRIPTION": "Un unico abbonamento ti consente di accedere a oltre 100 giochi straordinari, senza pubblicità né acquisti aggiuntivi.",
+    "OFFER_BUTTON_TITLE_ARCADE_NOT_SUBSCRIBED": "Inizia a giocare",
+    "PREORDER_TERMS_PAID": "Questo contenuto potrebbe cambiare senza preavviso e il prodotto finale potrebbe essere diverso.\n\nNon ti verranno addebitati costi fino al giorno di uscita dell'app. Per vedere o annullare i contenuti prenotati su iPhone o iPad, vai alle impostazioni del tuo account su App Store. Se utilizzi un Mac o un PC, puoi utilizzare App Store sul Mac o iTunes.",
+    "ONBOARDING_TV_APP_STORE_DESCRIPTION": "Apple TV è una piattaforma straordinaria per scaricare da App Store tutte le app e i videogiochi migliori.",
+    "OFFER_BUTTON_TITLE_OPEN": "Apri",
+    "PRODUCT_SECTION_TEXT_CARDS": "Informazioni",
+    "OFFER_BUTTON_TITLE_PREORDER": "Prenota",
+    "VERSION_STRING_WITH_RELEASE_DATE": "{version} - Uscita in data {date}",
+    "ONBOARDING_TV_SPLASH_PICKER_APP_STORE": "App Store",
+    "PURCHASES_RESTRICTED_TITLE": "Gli acquisti di app sono soggetti a restrizioni",
+    "ONBOARDING_TV_APP_STORE_TITLE": "App Store ti dà il benvenuto",
+    "ONBOARDING_TV_SPLASH_PICKER_TITLE": "Privacy",
+    "BADGE_MFI_HEADING": "Supporta controller",
+    "OFFER_BUTTON_TITLE_ARCADE_STANDARD": "Ottieni",
+    "OFFER_BUTTON_TITLE_GET": "Ottieni",
+    "PRODUCT_DESCRIPTION_HEADER": "{title}: {subtitle}"
+  },
+  "InfoPlist": {
+    "CFBundleDisplayName": "App Store"
+  }
+}

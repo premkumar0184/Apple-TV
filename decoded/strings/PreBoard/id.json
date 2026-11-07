@@ -1,0 +1,10 @@
+{
+  "Localizable": {
+    "PREConfirmationMessage": "Apakah Anda yakin ingin mengatur ulang semua pengaturan?\nAnda harus mengatur Apple TV Anda lagi.",
+    "PREResetAllSettingsButton": "Atur Ulang Pengaturan",
+    "PREDialogTitle": "Mode Pemulihan",
+    "PRERestartButton": "Mulai Ulang",
+    "PREMainMessage": "Sepertinya Apple TV Anda mengalami masalah.\nAnda dapat mengatur ulang semua pengaturan dan akun dengan memilih Atur Ulang Semua Pengaturan.\nUntuk memulai ulang tanpa mengatur ulang, pilih Mulai Ulang.",
+    "PRECancelButton": "Batalkan"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "CFBundleName": "TVUpNextExtension",
+  "DTXcode": "1140",
+  "DTSDKName": "appletvos13.4.internal",
+  "DTSDKBuild": "17M59",
+  "CFBundleDevelopmentRegion": "en",
+  "CFBundleVersion": "1",
+  "BuildMachineOSBuild": "18A391024",
+  "DTPlatformName": "appletvos",
+  "CFBundlePackageType": "XPC!",
+  "CFBundleShortVersionString": "1.0",
+  "CFBundleSupportedPlatforms": [
+    "AppleTVOS"
+  ],
+  "CFBundleInfoDictionaryVersion": "6.0",
+  "CFBundleExecutable": "TVUpNextExtension",
+  "DTCompiler": "com.apple.compilers.llvm.clang.1_0",
+  "UIRequiredDeviceCapabilities": [
+    "arm64"
+  ],
+  "MinimumOSVersion": "13.4",
+  "CFBundleIdentifier": "com.apple.TVWatchList.TVUpNextExtension",
+  "UIDeviceFamily": [
+    3
+  ],
+  "DTPlatformVersion": "13.4",
+  "DTXcodeBuild": "11O62d",
+  "CFBundleDisplayName": "TVUpNextExtension",
+  "DTPlatformBuild": "",
+  "NSExtension": {
+    "NSExtensionPrincipalClass": "TVUNTopShelfProvider",
+    "NSExtensionPointIdentifier": "com.apple.tv-top-shelf"
+  }
+}

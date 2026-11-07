@@ -1,0 +1,65 @@
+{
+  "HBRootFolderKey": {
+    "HBAppGridOrderKey": 1,
+    "HBFolderIdentifierKey": "HomeScreen",
+    "HBFolderItemsKey": [
+      {
+        "HBAppGridOrderKey": 1000,
+        "HBAppIdentifierKey": "com.apple.TVWatchList",
+        "HBItemTypeKey": "Application"
+      },
+      {
+        "HBAppGridOrderKey": 2000,
+        "HBAppIdentifierKey": "com.apple.TVMusic",
+        "HBItemTypeKey": "Application"
+      },
+      {
+        "HBAppGridOrderKey": 3000,
+        "HBAppIdentifierKey": "com.apple.Arcade",
+        "HBItemTypeKey": "Application"
+      },
+      {
+        "HBAppGridOrderKey": 4000,
+        "HBAppIdentifierKey": "com.apple.TVPhotos",
+        "HBItemTypeKey": "Application"
+      },
+      {
+        "HBAppGridOrderKey": 5000,
+        "HBAppIdentifierKey": "com.apple.TVAppStore",
+        "HBItemTypeKey": "Application"
+      },
+      {
+        "HBAppGridOrderKey": 6000,
+        "HBAppIdentifierKey": "com.apple.podcasts",
+        "HBItemTypeKey": "Application"
+      },
+      {
+        "HBAppGridOrderKey": 7000,
+        "HBAppIdentifierKey": "com.apple.TVMovies",
+        "HBItemTypeKey": "Application"
+      },
+      {
+        "HBAppGridOrderKey": 8000,
+        "HBAppIdentifierKey": "com.apple.TVShows",
+        "HBItemTypeKey": "Application"
+      },
+      {
+        "HBAppGridOrderKey": 9000,
+        "HBAppIdentifierKey": "com.apple.TVSearch",
+        "HBItemTypeKey": "Application"
+      },
+      {
+        "HBAppGridOrderKey": 10000,
+        "HBAppIdentifierKey": "com.apple.TVHomeSharing",
+        "HBItemTypeKey": "Application"
+      },
+      {
+        "HBAppGridOrderKey": 11000,
+        "HBAppIdentifierKey": "com.apple.TVSettings",
+        "HBItemTypeKey": "Application"
+      }
+    ],
+    "HBFolderNameKey": "RootFolder",
+    "HBItemTypeKey": "Folder"
+  }
+}

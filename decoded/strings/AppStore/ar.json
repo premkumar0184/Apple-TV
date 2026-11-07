@@ -1,0 +1,43 @@
+{
+  "Localizable": {
+    "ONBOARDING_TV_SPLASH_PICKER_ARCADE": "‏Apple آركيد",
+    "OFFER_BUTTON_TITLE_BUY": "شراء",
+    "INFO_LIST_REQUIREMENTS_SUMMARY": "يعمل على هذا الـ {deviceName}",
+    "PREORDER_TERMS_FREE": "قد يتغير هذا المحتوى دون إخطار، وقد يكون المنتج النهائي مختلفًا.\n\n لعرض أو إلغاء طلباتك المسبقة على الـ iPhone أو الـ iPad، انتقل إلى إعدادات الحساب في App Store. أما على الـ Mac أو الـ PC، فاستخدم Mac App Store أو iTunes.",
+    "OFFER_BUTTON_TITLE_ARCADE_TRY": "التجربة مجانًا",
+    "OFFER_BUTTON_TITLE_BUY_WITH_PRICE": "شراء {price}",
+    "OFFER_BUTTON_TITLE_PREORDER_WITH_PRICE": "الطلب المسبق {price}",
+    "BADGE_MFI_REQUIRED_HEADING": "يلزم استخدام ذراع التحكم",
+    "OFFERS_IN_APP_PURCHASES": "يعرض مشتريات داخل التطبيق",
+    "OFFER_BUTTON_TITLE_ARCADE_OPEN": "العب اللعبة",
+    "SEARCH_PLACEHOLDER": "بحث",
+    "MORE_INFORMATION": "مزيد من المعلومات",
+    "ONBOARDING_TV_ARCADE_TITLE": "مرحبًا بك في Apple آركيد",
+    "ONBOARDING_TV_SPLASH_PICKER_DESCRIPTION": "صُمِّمَت خدمات Apple بطريقة تحمي معلوماتك وتمكّنك من اختيار ما تود مشاركته.",
+    "ARCADE_WELCOME_TV_DEVICES_PRE_MACOS_BODY": "العب على كل من الـ iPhone والـ iPad والـ Mac والـ Apple TV. قريبًا في هذا الخريف.",
+    "INLINE_IN_APP_PURCHASES": "مشتريات داخل التطبيق",
+    "ONBOARDING_TV_ARCADE_DESCRIPTION": "لعب أكثر من ١٠٠ لعبة رائعة باشتراك واحد، بلا إعلانات ولا مشتريات إضافية.",
+    "VERSION_STRING": "الإصدار",
+    "ONBOARDING_TV_UNIFIED_APP_STORE_HEADING": "الجديد في App Store",
+    "PURCHASES_RESTRICTED_DESCRIPTION": "الشراء مقيّد على هذا الـ Apple TV. لتغيير القيود، انتقل إلى الإعدادات.",
+    "ONBOARDING_TV_UNIFIED_APP_STORE_DESCRIPTION": "لعب أكثر من ١٠٠ لعبة رائعة باشتراك واحد، بلا إعلانات ولا مشتريات إضافية.",
+    "OFFER_BUTTON_TITLE_ARCADE_NOT_SUBSCRIBED": "بدء اللعب",
+    "PREORDER_TERMS_PAID": "قد يتغير هذا المحتوى دون إخطار، وقد يكون المنتج النهائي مختلفًا.\n\n لن يُخصم من رصيدك حتى يوم إصدار هذا التطبيق. لعرض أو إلغاء طلباتك المسبقة على الـ iPhone أو الـ iPad، انتقل إلى إعدادات الحساب في App Store. أما على الـ Mac أو الـ PC، فاستخدم Mac App Store أو iTunes.",
+    "ONBOARDING_TV_APP_STORE_DESCRIPTION": "يعد Apple TV نظامًا أساسيًا مدهشًا للتطبيقات والألعاب الرائعة، والـ App Store هو المكان الذي يمكنك العثور عليها فيه.",
+    "OFFER_BUTTON_TITLE_OPEN": "فتح",
+    "PRODUCT_SECTION_TEXT_CARDS": "حول",
+    "OFFER_BUTTON_TITLE_PREORDER": "طلب مسبق",
+    "VERSION_STRING_WITH_RELEASE_DATE": "‏{version}—تاريخ الإصدار {date}",
+    "ONBOARDING_TV_SPLASH_PICKER_APP_STORE": "App Store",
+    "PURCHASES_RESTRICTED_TITLE": "شراء التطبيقات مقيّد",
+    "ONBOARDING_TV_APP_STORE_TITLE": "مرحبًا بك في App Store",
+    "ONBOARDING_TV_SPLASH_PICKER_TITLE": "الخصوصية",
+    "BADGE_MFI_HEADING": "ذراع التحكم اختيارية",
+    "OFFER_BUTTON_TITLE_ARCADE_STANDARD": "تنزيل",
+    "OFFER_BUTTON_TITLE_GET": "تنزيل",
+    "PRODUCT_DESCRIPTION_HEADER": "‏{title}—‏{subtitle}"
+  },
+  "InfoPlist": {
+    "CFBundleDisplayName": "‏App Store"
+  }
+}

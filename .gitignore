@@ -1,0 +1,53 @@
+# ==============================================================================
+# Apple TV Firmware & Raw Binary Exclusions (IPSW & Proprietary Blobs)
+# ==============================================================================
+
+# Raw Firmware Archives & Directories
+*.ipsw
+*.zip
+8988ef3518b1f20f95c66d03be3c15eb4e1be2a0/
+8988ef3518b1f20f95c66d03be3c15eb4e1be2a0*
+AppleTV5,3_26.6.1_23L781_Restore/
+AppleTV5,3_26.6.1_23L781_Restore*
+
+# Raw Extracted Partitions & Firmware Roots
+extracted/
+raw/
+
+# Disk Images & Encrypted Containers
+*.dmg
+*.dmg.aea
+*.aea
+*.root_hash
+*.trust_cache
+
+# Raw Binaries & Mach-O Images
+*.macho
+*.bin
+*.img4
+*.img3
+*.im4p
+*.im4m
+*.iboot
+dyld_shared_cache*
+
+# Python & Environment Artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+ENV/
+
+# System & OS Files
+.DS_Store
+Thumbs.db
+
+# ==============================================================================
+# Whitelist Multi-Agent Transcripts & Orchestration History
+# ==============================================================================
+!.agents/
+!.agents/**

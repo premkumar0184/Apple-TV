@@ -1,0 +1,72 @@
+--- a/tests/test_ipsw_m1_integrity.py
++++ b/tests/test_ipsw_m1_integrity.py
+@@ -14,6 +14,8 @@
+ import os
+ import plistlib
+ import struct
++import hashlib
++import re
+ import unittest
+ import zlib
+ from PIL import Image
+@@ -192,6 +194,54 @@
+         self.assertIn("sep-firmware.j42d.RELEASE.im4p", ledger_text)
+         self.assertIn("094-98312-089.dmg.aea", ledger_text)
+ 
++    def test_09_extraction_ledger_veracity(self):
++        """Programmatically audit all markdown table rows in reports/IPSW_EXTRACTION_LEDGER.md against disk."""
++        ledger_path = "reports/IPSW_EXTRACTION_LEDGER.md"
++        self.assertTrue(os.path.isfile(ledger_path), f"Ledger missing: {ledger_path}")
++
++        with open(ledger_path, "r", encoding="utf-8") as f:
++            text = f.read()
++
++        row_pattern = re.compile(
++            r"\|\s*`([^`]+)`\s*\|\s*([0-9,]+)\s*\|.*?`([0-9a-f]{64})`\s*\|",
++            re.MULTILINE,
++        )
++
++        matches = row_pattern.findall(text)
++        self.assertGreater(len(matches), 50, f"Expected >50 audited table rows, found {len(matches)}")
++
++        mismatches = []
++        for rel_path, size_str, recorded_hash in matches:
++            expected_size = int(size_str.replace(",", ""))
++
++            candidates = [
++                os.path.join(self.PROJECT_ROOT, rel_path),
++                os.path.join(self.PROJECT_ROOT, "extracted/ipsw/ramdisk_erase", rel_path),
++                os.path.join(self.PROJECT_ROOT, "extracted/ipsw/ramdisk_update", rel_path),
++                os.path.join(self.PROJECT_ROOT, "AppleTV5,3_26.6.1_23L781_Restore", rel_path),
++            ]
++
++            disk_file = None
++            for cand in candidates:
++                if os.path.exists(cand) and not os.path.isdir(cand):
++                    disk_file = cand
++                    break
++
++            if disk_file is None:
++                mismatches.append(f"MISSING FILE on disk: {rel_path}")
++                continue
++
++            actual_size = os.path.getsize(disk_file)
++            if actual_size != expected_size:
++                mismatches.append(
++                    f"SIZE MISMATCH for {rel_path} ({disk_file}): actual {actual_size:,} vs recorded {expected_size:,}"
++                )
++                continue
++
++            with open(disk_file, "rb") as fp:
++                actual_hash = hashlib.sha256(fp.read()).hexdigest()
++            if actual_hash != recorded_hash:
++                mismatches.append(
++                    f"HASH MISMATCH for {rel_path} ({disk_file}): actual {actual_hash} vs recorded {recorded_hash}"
++                )
++                continue
++
++        self.assertEqual(mismatches, [], f"Ledger veracity audit failed with discrepancies: {mismatches}")
++
+ 
+ if __name__ == "__main__":
+     unittest.main()

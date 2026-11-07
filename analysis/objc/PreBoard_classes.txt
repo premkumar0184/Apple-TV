@@ -1,0 +1,182 @@
+// Objective-C Class Dump: PreBoard
+// Target: extracted/rootfs/Applications/PreBoard.app/PreBoard
+// Statistics: 8 classes, 87 methods, 13 ivars
+
+@interface KBSecureWindow : UIWindow
+
+// Class Methods
++ (id)_isSecure; // imp: 0x1000069b0
+@end
+
+@interface PREAppDelegate : UIResponder
+{
+    0x10000fdca @UIWindow _window;
+    0x10000fdd6 @UIViewController _mainViewController;
+    0x10000fdea @PREStackViewController _stackViewController;
+    0x10000fe04 @UIRootWindowScenePresentationBinder _rootWindowScenePresentationBinder;
+    0x10000fe2b @BKSAssertion _dispatchingRulesAssertion;
+    0x10000fe3b @<BSInvalidatable> _focusDeferral;
+}
+@property (nonatomic) id mainViewController; // 0x10000d120 T@"UIViewController",&,N,V_mainViewController
+@property (nonatomic) id stackViewController; // 0x10000d162 T@"PREStackViewController",&,N,V_stackViewController
+@property (nonatomic) id rootWindowScenePresentationBinder; // 0x10000d1b9 T@"UIRootWindowScenePresentationBinder",&,N,V_rootWindowScenePresentationBinder
+@property (nonatomic) id dispatchingRulesAssertion; // 0x10000d223 T@"BKSAssertion",&,N,V_dispatchingRulesAssertion
+@property (nonatomic) id focusDeferral; // 0x10000d262 T@"<BSInvalidatable>",R,N,V_focusDeferral
+@property (nonatomic) id window; // 0x10000d28c T@"UIWindow",&,N,V_window
+@property (nonatomic) id hash; // 0x10000d0b2 TQ,R
+@property (nonatomic) id superclass; // 0x10000d0c2 T#,R
+@property (nonatomic) id description; // 0x10000d0d3 T@"NSString",R,C
+@property (nonatomic) id debugDescription; // 0x10000d0d3 T@"NSString",R,C
+
+// Class Methods
++ (id)sharedAppDelegate; // imp: 0x1000069cc
+
+// Instance Methods
+- (id)application:didFinishLaunchingWithOptions:; // imp: 0x100006a34
+- (id)applicationWillResignActive:; // imp: 0x10000714c
+- (id)applicationDidEnterBackground:; // imp: 0x100007198
+- (id)applicationWillEnterForeground:; // imp: 0x1000071e4
+- (id)applicationDidBecomeActive:; // imp: 0x100007230
+- (id)applicationWillTerminate:; // imp: 0x10000727c
+- (id)clearFailedBootCountAndRestart; // imp: 0x100007354
+- (id)failedBootCountObliterate; // imp: 0x1000074fc
+- (id)_createInitialAppScene; // imp: 0x100007888
+- (id)_setupButtonRecognition; // imp: 0x100007f30
+- (id)_startReceivingEvents; // imp: 0x100008114
+- (id)_setMainViewController:; // imp: 0x100008758
+- (id)_setMainViewController:animated:; // imp: 0x100008818
+- (id)_menuHomeButtonTriplePressUp:; // imp: 0x100008994
+- (id)_clearBootCount; // imp: 0x100008a90
+- (id)window; // imp: 0x100008e44
+- (id)setWindow:; // imp: 0x100008e70
+- (id)mainViewController; // imp: 0x100008eb8
+- (id)setMainViewController:; // imp: 0x100008ee4
+- (id)stackViewController; // imp: 0x100008f2c
+- (id)setStackViewController:; // imp: 0x100008f58
+- (id)rootWindowScenePresentationBinder; // imp: 0x100008fa0
+- (id)setRootWindowScenePresentationBinder:; // imp: 0x100008fcc
+- (id)dispatchingRulesAssertion; // imp: 0x100009014
+- (id)setDispatchingRulesAssertion:; // imp: 0x100009040
+- (id)focusDeferral; // imp: 0x100009088
+- (id).cxx_destruct; // imp: 0x1000090b4
+@end
+
+@interface PREApplication : UISystemShellApplication
+{
+    0x10000fe7a @PREIdleSleepManager _idleSleepManager;
+}
+@property (nonatomic) id idleSleepManager; // 0x10000d359 T@"PREIdleSleepManager",&,N,V_idleSleepManager
+
+// Class Methods
++ (id)sharedApplication; // imp: 0x100009e54
++ (id)_newApplicationInitializationContext; // imp: 0x10000a0c0
++ (id)shouldCheckInWithBackboard; // imp: 0x10000a4f4
++ (id)registerAsSystemApp; // imp: 0x10000a510
++ (id)systemIdleSleepInterval; // imp: 0x10000a52c
+
+// Instance Methods
+- (id)init; // imp: 0x100009e94
+- (id)_createStatusBarWithRequestedStyle:orientation:hidden:; // imp: 0x10000a390
+- (id)disablesFrontBoardImplicitWindowScenes; // imp: 0x10000a3b0
+- (id)_isSpringBoard; // imp: 0x10000a3cc
+- (id)_handlePhysicalButtonEvent:; // imp: 0x10000a3e8
+- (id)applicationWillOrderInContext:windowLevel:screen:; // imp: 0x10000a548
+- (id)applicationDidOrderOutContext:screen:; // imp: 0x10000a5d4
+- (id)idleSleepManager; // imp: 0x10000a654
+- (id)setIdleSleepManager:; // imp: 0x10000a680
+- (id).cxx_destruct; // imp: 0x10000a6c8
+@end
+
+@interface PREIdleSleepManager : NSObject
+{
+    0x10000f4b9 B _displayDim;
+    0x10000f4bb @AWAttentionAwarenessClient _attentionAwarenessClient;
+    0x10000f4d9 @SSDisplay _display;
+}
+@property (nonatomic) id displayDim; // 0x10000cf02 TB,N,GisDisplayDim,V_displayDim
+@property (nonatomic) id attentionAwarenessClient; // 0x10000cf3b T@"AWAttentionAwarenessClient",&,N,V_attentionAwarenessClient
+@property (nonatomic) id display; // 0x10000cf81 T@"SSDisplay",&,N,V_display
+
+// Class Methods
++ (id)sharedController; // imp: 0x100004da0
+
+// Instance Methods
+- (id)init; // imp: 0x100004e70
+- (id)undimDisplay; // imp: 0x1000054b4
+- (id)dimDisplay; // imp: 0x100005798
+- (id)isDisplayDim; // imp: 0x100005964
+- (id)setDisplayDim:; // imp: 0x100005984
+- (id)attentionAwarenessClient; // imp: 0x1000059ac
+- (id)setAttentionAwarenessClient:; // imp: 0x1000059c8
+- (id)display; // imp: 0x100005a04
+- (id)setDisplay:; // imp: 0x100005a20
+- (id).cxx_destruct; // imp: 0x100005a5c
+@end
+
+@interface PRELogoViewController : UIViewController
+
+// Instance Methods
+- (id)loadView; // imp: 0x100009cd4
+- (id)viewDidLoad; // imp: 0x100009dbc
+- (id)didReceiveMemoryWarning; // imp: 0x100009e08
+@end
+
+@interface PREStackViewController : UIViewController
+{
+    0x10000fecd @NSArray _viewControllers;
+    0x10000fed8 @UIView _containerView;
+}
+@property (nonatomic) id topViewController; // 0x10000d3a3 T@"UIViewController",R,N
+@property (nonatomic) id visibleViewController; // 0x10000d3a3 T@"UIViewController",R,N
+@property (nonatomic) id viewControllers; // 0x10000d3e2 T@"NSArray",C,N,V_viewControllers
+
+// Instance Methods
+- (id)initWithNibName:bundle:; // imp: 0x10000a70c
+- (id)initWithRootViewController:; // imp: 0x10000a848
+- (id)loadView; // imp: 0x10000a934
+- (id)setViewControllers:; // imp: 0x10000aa2c
+- (id)setViewControllers:animated:; // imp: 0x10000aa9c
+- (id)_setViewControllers:animated:completion:; // imp: 0x10000ab20
+- (id)topViewController; // imp: 0x10000be78
+- (id)visibleViewController; // imp: 0x10000bec4
+- (id)pushViewController:animated:completion:; // imp: 0x10000bf94
+- (id)popViewControllerAnimated:; // imp: 0x10000c09c
+- (id)popToRootViewControllerAnimated:; // imp: 0x10000c1c0
+- (id)popToViewController:animated:; // imp: 0x10000c294
+- (id)removeViewController:animated:; // imp: 0x10000c3d8
+- (id)replaceViewController:withViewController:animated:; // imp: 0x10000c4bc
+- (id)showViewController:sender:; // imp: 0x10000c604
+- (id)viewDidLoad; // imp: 0x10000c6d8
+- (id)didReceiveMemoryWarning; // imp: 0x10000c8d0
+- (id)viewControllers; // imp: 0x10000c91c
+- (id).cxx_destruct; // imp: 0x10000c958
+@end
+
+@interface PRESystemIndicator : NSObject
+{
+    0x10000f4e6 @SSIndicatorLight _sil;
+}
+@property (nonatomic) id sil; // 0x10000cfa1 T@"SSIndicatorLight",&,N,V_sil
+
+// Class Methods
++ (id)sharedInstance; // imp: 0x100005ab4
+
+// Instance Methods
+- (id)init; // imp: 0x100005b84
+- (id)flashMorseCodePattern:; // imp: 0x100005c4c
+- (id)on; // imp: 0x100005df4
+- (id)off; // imp: 0x100005ec0
+- (id)sil; // imp: 0x100005f8c
+- (id)setSil:; // imp: 0x100005fa8
+- (id).cxx_destruct; // imp: 0x100005fe4
+@end
+
+@interface PREViewController : UIAlertController
+
+// Class Methods
++ (id)viewController; // imp: 0x1000091b4
+
+// Instance Methods
+- (id)viewDidLoad; // imp: 0x100009c88
+@end
+

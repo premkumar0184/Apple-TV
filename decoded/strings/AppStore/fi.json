@@ -1,0 +1,43 @@
+{
+  "Localizable": {
+    "ONBOARDING_TV_SPLASH_PICKER_ARCADE": "Apple Arcade",
+    "OFFER_BUTTON_TITLE_BUY": "Osta",
+    "INFO_LIST_REQUIREMENTS_SUMMARY": "Tämä {deviceName}",
+    "PREORDER_TERMS_FREE": "Tämä sisältö voi muuttua ilmoittamatta, ja lopullinen tuote voi olla erilainen.\n\nVoit tarkastella ja peruuttaa ennakkotilauksiasi iPhonessa tai iPadissa App Storen Tiliasetuksissa. Käytä Macissa tai PC:ssä Mac App Storea ja iTunesia.",
+    "OFFER_BUTTON_TITLE_ARCADE_TRY": "Kokeile ilmaiseksi",
+    "OFFER_BUTTON_TITLE_BUY_WITH_PRICE": "Osta {price}",
+    "OFFER_BUTTON_TITLE_PREORDER_WITH_PRICE": "Ennakkotilaa {price}",
+    "BADGE_MFI_REQUIRED_HEADING": "Ohjain vaaditaan",
+    "OFFERS_IN_APP_PURCHASES": "Tarjoaa ostoja apissa",
+    "OFFER_BUTTON_TITLE_ARCADE_OPEN": "Pelaa peliä",
+    "SEARCH_PLACEHOLDER": "Haku",
+    "MORE_INFORMATION": "Lisätietoja",
+    "ONBOARDING_TV_ARCADE_TITLE": "Tervetuloa Apple Arcadeen",
+    "ONBOARDING_TV_SPLASH_PICKER_DESCRIPTION": "Applen palvelut on suunniteltu suojaamaan tietojasi. Voit itse valita, mitä haluat jakaa.",
+    "ARCADE_WELCOME_TV_DEVICES_PRE_MACOS_BODY": "Pelaa iPhonella, iPadilla, Macilla ja Apple TV:llä. Tulossa myöhemmin syksyllä.",
+    "INLINE_IN_APP_PURCHASES": "Ostoja apissa",
+    "ONBOARDING_TV_ARCADE_DESCRIPTION": "Pelaa yli sataa upeaa peliä yhdellä tilauksella. Ei mainoksia eikä lisäostoja.",
+    "VERSION_STRING": "Versio",
+    "ONBOARDING_TV_UNIFIED_APP_STORE_HEADING": "Uutta App Storessa",
+    "PURCHASES_RESTRICTED_DESCRIPTION": "Ostot on estetty tässä Apple TV:ssä. Voit muuttaa rajoituksia Asetuksissa.",
+    "ONBOARDING_TV_UNIFIED_APP_STORE_DESCRIPTION": "Pelaa yli sataa upeaa peliä yhdellä tilauksella. Ei mainoksia eikä lisäostoja.",
+    "OFFER_BUTTON_TITLE_ARCADE_NOT_SUBSCRIBED": "Pelaa",
+    "PREORDER_TERMS_PAID": "Tämä sisältö voi muuttua ilmoittamatta, ja lopullinen tuote voi olla erilainen.\n\nSinua veloitetaan vasta tämän apin julkaisupäivänä. Voit tarkastella ja peruuttaa ennakkotilauksiasi iPhonessa tai iPadissa App Storen Tiliasetuksissa. Käytä Macissa tai PC:ssä Mac App Storea ja iTunesia.",
+    "ONBOARDING_TV_APP_STORE_DESCRIPTION": "Apple TV:si on uskomaton käyttöympäristö upeille peleille ja apeille, jotka löydät App Storesta.",
+    "OFFER_BUTTON_TITLE_OPEN": "Avaa",
+    "PRODUCT_SECTION_TEXT_CARDS": "Tietoja",
+    "OFFER_BUTTON_TITLE_PREORDER": "Ennakkotilaa",
+    "VERSION_STRING_WITH_RELEASE_DATE": "{version} – julkaistu {date}",
+    "ONBOARDING_TV_SPLASH_PICKER_APP_STORE": "App Store",
+    "PURCHASES_RESTRICTED_TITLE": "Appien ostamista on rajoitettu",
+    "ONBOARDING_TV_APP_STORE_TITLE": "Tervetuloa App Storeen",
+    "ONBOARDING_TV_SPLASH_PICKER_TITLE": "Tietosuoja",
+    "BADGE_MFI_HEADING": "Ohjain valinnainen",
+    "OFFER_BUTTON_TITLE_ARCADE_STANDARD": "Hae",
+    "OFFER_BUTTON_TITLE_GET": "Hae",
+    "PRODUCT_DESCRIPTION_HEADER": "{title} – {subtitle}"
+  },
+  "InfoPlist": {
+    "CFBundleDisplayName": "App Store"
+  }
+}

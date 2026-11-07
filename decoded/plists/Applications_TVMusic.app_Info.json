@@ -1,0 +1,97 @@
+{
+  "SupportsSharedQueue": true,
+  "CFBundleURLTypes": [
+    {
+      "CFBundleURLName": "iTunes Music",
+      "CFBundleURLSchemes": [
+        "com.apple.TVMusic"
+      ]
+    },
+    {
+      "CFBundleURLName": "Music Event URL",
+      "CFBundleURLSchemes": [
+        "audio-player-event",
+        "music",
+        "musics",
+        "itsradio",
+        "itsradios",
+        "itunesradio",
+        "itunesradios"
+      ]
+    }
+  ],
+  "CFBundleInfoDictionaryVersion": "6.0",
+  "UIRequiredDeviceCapabilities": [
+    "arm64"
+  ],
+  "DTPlatformVersion": "13.4",
+  "UISupportedInterfaceOrientations~ipad": [
+    "UIInterfaceOrientationPortrait",
+    "UIInterfaceOrientationPortraitUpsideDown",
+    "UIInterfaceOrientationLandscapeLeft",
+    "UIInterfaceOrientationLandscapeRight"
+  ],
+  "CFBundleName": "TVMusic",
+  "DTSDKName": "appletvos13.4.internal",
+  "UIUserInterfaceStyle": "Automatic",
+  "CFBundleIcons": {
+    "CFBundlePrimaryIcon": "App Icon - Small"
+  },
+  "CFBundleDisplayName": "TVMusic",
+  "LSRequiresIPhoneOS": true,
+  "UIRequiresPersistentWiFi": true,
+  "UIBackgroundModes": [
+    "audio",
+    "fetch"
+  ],
+  "DTSDKBuild": "17M59",
+  "CFBundleShortVersionString": "10.2",
+  "CFBundleSupportedPlatforms": [
+    "AppleTVOS"
+  ],
+  "SBMachServices": [
+    "com.apple.uikit.viewservice.com.apple.TVMusic"
+  ],
+  "TVTopShelfFullScreenImage": "TopShelfMusic",
+  "BuildMachineOSBuild": "18A391024",
+  "DTPlatformBuild": "11O62d",
+  "CFBundlePackageType": "APPL",
+  "MinimumOSVersion": "13.4",
+  "CFBundleDevelopmentRegion": "en",
+  "TVScreenSaver": {
+    "TVScreenSaverShowInSettings": false,
+    "TVScreenSaverStyle": "CoverCascade",
+    "TVScreenSaverTitle": "Music Library",
+    "TVScreenSaverProvidesSettingsUI": false,
+    "TVScreenSaverURLScheme": "com.apple.TVMusic"
+  },
+  "CFBundleVersion": "10.2",
+  "DTXcodeBuild": "11O62d",
+  "PBSupportsActiveRouteNowPlaying": true,
+  "TVTopShelfImage": {
+    "TVTopShelfPrimaryImageWide": "Top Shelf Image Wide"
+  },
+  "UISupportedInterfaceOrientations": [
+    "UIInterfaceOrientationPortrait",
+    "UIInterfaceOrientationLandscapeLeft",
+    "UIInterfaceOrientationLandscapeRight"
+  ],
+  "SBMatchingApplicationGenres": [
+    "Music",
+    "Entertainment"
+  ],
+  "UITemplateLaunchImage": true,
+  "UIDeviceFamily": [
+    3
+  ],
+  "CFBundleIdentifier": "com.apple.TVMusic",
+  "DTXcode": "1140",
+  "UIViewServiceUsesNSXPCConnection": true,
+  "TVNowPlayingServiceViewControllerName": "TVMusicSystemNowPlayingViewController",
+  "CFBundleExecutable": "TVMusic",
+  "CFBundleIcons~ipad": {},
+  "CFBundleSignature": "????",
+  "TVSystemMusicApp": true,
+  "DTPlatformName": "appletvos",
+  "DTCompiler": "com.apple.compilers.llvm.clang.1_0"
+}

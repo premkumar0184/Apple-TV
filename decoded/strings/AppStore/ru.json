@@ -1,0 +1,43 @@
+{
+  "Localizable": {
+    "ONBOARDING_TV_SPLASH_PICKER_ARCADE": "Apple Arcade",
+    "OFFER_BUTTON_TITLE_BUY": "Купить",
+    "INFO_LIST_REQUIREMENTS_SUMMARY": "Работает на этом {deviceName}",
+    "PREORDER_TERMS_FREE": "Данный контент может измениться без предупреждения, и окончательная версия продукта может отличаться от текущей.\n\nЧтобы просмотреть или отменить предварительные заказы на устройствах iPhone или iPad, перейдите в настройки учетной записи в App Store. Для этого на компьютере Mac или ПК с Windows откройте Mac App Store или приложение iTunes.",
+    "OFFER_BUTTON_TITLE_ARCADE_TRY": "Попробовать бесплатно",
+    "OFFER_BUTTON_TITLE_BUY_WITH_PRICE": "Купить за {price}",
+    "OFFER_BUTTON_TITLE_PREORDER_WITH_PRICE": "Предзаказ за {price}",
+    "BADGE_MFI_REQUIRED_HEADING": "Требуется контроллер",
+    "OFFERS_IN_APP_PURCHASES": "Встроенные покупки",
+    "OFFER_BUTTON_TITLE_ARCADE_OPEN": "Играть",
+    "SEARCH_PLACEHOLDER": "Поиск",
+    "MORE_INFORMATION": "Подробнее",
+    "ONBOARDING_TV_ARCADE_TITLE": "Встречайте Apple Arcade!",
+    "ONBOARDING_TV_SPLASH_PICKER_DESCRIPTION": "Ваши данные, используемые службами Apple, надежно защищены, и только Вы решаете, чем поделиться.",
+    "ARCADE_WELCOME_TV_DEVICES_PRE_MACOS_BODY": "Игры на всех Ваших iPhone, iPad, Mac и Apple TV. Встречайте этой осенью.",
+    "INLINE_IN_APP_PURCHASES": "Встроенные покупки",
+    "ONBOARDING_TV_ARCADE_DESCRIPTION": "Играйте в более 100 увлекательных игр по одной подписке. Никакой рекламы и встроенных покупок.",
+    "VERSION_STRING": "Версия",
+    "ONBOARDING_TV_UNIFIED_APP_STORE_HEADING": "Новинки в App Store!",
+    "PURCHASES_RESTRICTED_DESCRIPTION": "Покупки на этом Apple TV ограничены. Ограничения можно изменить в Настройках.",
+    "ONBOARDING_TV_UNIFIED_APP_STORE_DESCRIPTION": "Играйте в более 100 увлекательных игр по одной подписке. Никакой рекламы и встроенных покупок.",
+    "OFFER_BUTTON_TITLE_ARCADE_NOT_SUBSCRIBED": "Играть",
+    "PREORDER_TERMS_PAID": "Данный контент может измениться без предупреждения, и окончательная версия продукта может отличаться от текущей.\n\nСумма для оплаты будет снята с Вашего счета, когда это приложение станет доступно. Чтобы просмотреть или отменить предварительные заказы на iPhone или iPad, перейдите в настройки учетной записи в App Store. Для этого на компьютере Mac или ПК с Windows откройте Mac App Store или приложение iTunes.",
+    "ONBOARDING_TV_APP_STORE_DESCRIPTION": "На Ваш Apple TV можно установить множество интересных приложений и игр. А лучшее место для их поиска — это App Store.",
+    "OFFER_BUTTON_TITLE_OPEN": "Открыть",
+    "PRODUCT_SECTION_TEXT_CARDS": "Описание",
+    "OFFER_BUTTON_TITLE_PREORDER": "Предзаказ",
+    "VERSION_STRING_WITH_RELEASE_DATE": "{version}, дата выпуска: {date}",
+    "ONBOARDING_TV_SPLASH_PICKER_APP_STORE": "App Store",
+    "PURCHASES_RESTRICTED_TITLE": "Покупки приложений ограничены",
+    "ONBOARDING_TV_APP_STORE_TITLE": "Добро пожаловать в App Store!",
+    "ONBOARDING_TV_SPLASH_PICKER_TITLE": "Конфиденциальность",
+    "BADGE_MFI_HEADING": "С поддержкой контроллера",
+    "OFFER_BUTTON_TITLE_ARCADE_STANDARD": "Загрузить",
+    "OFFER_BUTTON_TITLE_GET": "Загрузить",
+    "PRODUCT_DESCRIPTION_HEADER": "{title}: {subtitle}"
+  },
+  "InfoPlist": {
+    "CFBundleDisplayName": "App Store"
+  }
+}

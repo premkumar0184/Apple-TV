@@ -1,0 +1,43 @@
+{
+  "Localizable": {
+    "ONBOARDING_TV_SPLASH_PICKER_ARCADE": "Apple Arcade",
+    "OFFER_BUTTON_TITLE_BUY": "Kaufen",
+    "INFO_LIST_REQUIREMENTS_SUMMARY": "Mit {deviceName}",
+    "PREORDER_TERMS_FREE": "Diese Inhalte werden möglicherweise ohne Ankündigung geändert und das endgültige Produkt kann davon abweichen.\n\nUm deine Vorbestellungen auf einem iPhone oder iPad anzusehen oder zu stornieren, gehe zu den Accounteinstellungen im App Store. Auf einem Mac oder PC verwende den Mac App Store oder iTunes.",
+    "OFFER_BUTTON_TITLE_ARCADE_TRY": "Gratis testen",
+    "OFFER_BUTTON_TITLE_BUY_WITH_PRICE": "Kaufen {price}",
+    "OFFER_BUTTON_TITLE_PREORDER_WITH_PRICE": "Vorbestellen {price}",
+    "BADGE_MFI_REQUIRED_HEADING": "Controller erforderlich",
+    "OFFERS_IN_APP_PURCHASES": "In-App-Käufe möglich",
+    "OFFER_BUTTON_TITLE_ARCADE_OPEN": "Spielen",
+    "SEARCH_PLACEHOLDER": "Suchen",
+    "MORE_INFORMATION": "Weitere Informationen",
+    "ONBOARDING_TV_ARCADE_TITLE": "Willkommen bei Apple Arcade",
+    "ONBOARDING_TV_SPLASH_PICKER_DESCRIPTION": "Apple-Dienste wurden auf eine Art und Weise entwickelt, die deine Informationen schützt und es dir ermöglicht, auszuwählen, was du teilst.",
+    "ARCADE_WELCOME_TV_DEVICES_PRE_MACOS_BODY": "Spiele auf deinem iPhone, iPad, Mac und Apple TV. Im Herbst verfügbar.",
+    "INLINE_IN_APP_PURCHASES": "In-App-Käufe",
+    "ONBOARDING_TV_ARCADE_DESCRIPTION": "Spiele über 100 außergewöhnliche Spiele mit einem Abo. Ohne Werbung und zusätzliche Käufe.",
+    "VERSION_STRING": "Version",
+    "ONBOARDING_TV_UNIFIED_APP_STORE_HEADING": "Neu im App Store",
+    "PURCHASES_RESTRICTED_DESCRIPTION": "Käufe sind auf diesem Apple TV eingeschränkt. Öffne die Einstellungen, um die Einschränkungen zu ändern.",
+    "ONBOARDING_TV_UNIFIED_APP_STORE_DESCRIPTION": "Spiele über 100 außergewöhnliche Spiele mit einem Abo. Ohne Werbung und zusätzliche Käufe.",
+    "OFFER_BUTTON_TITLE_ARCADE_NOT_SUBSCRIBED": "Jetzt spielen",
+    "PREORDER_TERMS_PAID": "Diese Inhalte werden möglicherweise ohne Ankündigung geändert und das endgültige Produkt kann davon abweichen.\n\nDein Account wird erst an dem Tag belastet, an dem diese App veröffentlicht wird. Um deine Vorbestellungen auf einem iPhone oder iPad anzusehen oder zu stornieren, gehe zu den Accounteinstellungen im App Store. Auf einem Mac oder PC verwende den Mac App Store oder iTunes.",
+    "ONBOARDING_TV_APP_STORE_DESCRIPTION": "Dein Apple TV ist die ideale Plattform für all die großartigen Apps und Spiele, die du im App Store finden kannst.",
+    "OFFER_BUTTON_TITLE_OPEN": "Öffnen",
+    "PRODUCT_SECTION_TEXT_CARDS": "Über",
+    "OFFER_BUTTON_TITLE_PREORDER": "Vorbestellen",
+    "VERSION_STRING_WITH_RELEASE_DATE": "{version}—Veröffentlicht {date}",
+    "ONBOARDING_TV_SPLASH_PICKER_APP_STORE": "App Store",
+    "PURCHASES_RESTRICTED_TITLE": "App-Käufe eingeschränkt",
+    "ONBOARDING_TV_APP_STORE_TITLE": "Willkommen im App Store",
+    "ONBOARDING_TV_SPLASH_PICKER_TITLE": "Datenschutz",
+    "BADGE_MFI_HEADING": "Controller optional",
+    "OFFER_BUTTON_TITLE_ARCADE_STANDARD": "Laden",
+    "OFFER_BUTTON_TITLE_GET": "Laden",
+    "PRODUCT_DESCRIPTION_HEADER": "{title}—{subtitle}"
+  },
+  "InfoPlist": {
+    "CFBundleDisplayName": "App Store"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "Localizable": {
+    "ONBOARDING_TV_SPLASH_PICKER_ARCADE": "Apple Arcade",
+    "OFFER_BUTTON_TITLE_BUY": "Satın Al",
+    "INFO_LIST_REQUIREMENTS_SUMMARY": "Bu {deviceName} ile uyumlu",
+    "PREORDER_TERMS_FREE": "Bu içerik haber verilmeden değiştirilebilir ve son ürün farklı olabilir.\n\niPhone’daki veya iPad’deki ön siparişlerinizi görüntülemek veya onlardan vazgeçmek için App Store’da Hesap Ayarları’na gidin. Mac’te veya PC’de ise Mac App Store’u veya iTunes’u kullanın.",
+    "OFFER_BUTTON_TITLE_ARCADE_TRY": "Ücretsiz Dene",
+    "OFFER_BUTTON_TITLE_BUY_WITH_PRICE": "Satın Al: {price}",
+    "OFFER_BUTTON_TITLE_PREORDER_WITH_PRICE": "Ön Sipariş Ver: {price}",
+    "BADGE_MFI_REQUIRED_HEADING": "Kumanda Gerekli",
+    "OFFERS_IN_APP_PURCHASES": "Uygulama İçi Satın Alımlar Sunar",
+    "OFFER_BUTTON_TITLE_ARCADE_OPEN": "Oyunu Oyna",
+    "SEARCH_PLACEHOLDER": "Ara",
+    "MORE_INFORMATION": "Daha Fazla Bilgi",
+    "ONBOARDING_TV_ARCADE_TITLE": "Apple Arcade’e Hoş Geldiniz",
+    "ONBOARDING_TV_SPLASH_PICKER_DESCRIPTION": "Apple Servisleri, bilgilerinizi koruyacak ve ne paylaştığınızı seçmenizi sağlayacak şekilde tasarlanmıştır.",
+    "ARCADE_WELCOME_TV_DEVICES_PRE_MACOS_BODY": "iPhone’unuzda, iPad’inizde, Mac’inizde ve Apple TV’nizde oynayın. Sonbaharda sizlerle.",
+    "INLINE_IN_APP_PURCHASES": "Uygulama İçi Satın Alımlar",
+    "ONBOARDING_TV_ARCADE_DESCRIPTION": "Bir abonelikle birbirinden ilginç 100’den fazla oyun oynayın. Reklam veya ek satın alma olmadan.",
+    "VERSION_STRING": "Sürüm",
+    "ONBOARDING_TV_UNIFIED_APP_STORE_HEADING": "App Store’da Yeni",
+    "PURCHASES_RESTRICTED_DESCRIPTION": "Bu Apple TV’de satın alma sınırlı. Sınırlamaları değiştirmek için Ayarlar’a gidin.",
+    "ONBOARDING_TV_UNIFIED_APP_STORE_DESCRIPTION": "Bir abonelikle birbirinden ilginç 100’den fazla oyun oynayın. Reklam veya ek satın alma olmadan.",
+    "OFFER_BUTTON_TITLE_ARCADE_NOT_SUBSCRIBED": "Oynamaya Başla",
+    "PREORDER_TERMS_PAID": "Bu içerik haber verilmeden değiştirilebilir ve son ürün farklı olabilir.\n\nBu uygulama kullanıma sunulana kadar sizden ücret alınmaz. iPhone’daki veya iPad’deki ön siparişlerinizi görüntülemek veya onlardan vazgeçmek için App Store’da Hesap Ayarları’na gidin. Mac’te veya PC’de ise Mac App Store’u veya iTunes’u kullanın.",
+    "ONBOARDING_TV_APP_STORE_DESCRIPTION": "Apple TV’niz uygulamalar ve oyunlar için kullanabileceğiniz bir platform, App Store onları bulabileceğiniz yerdir.",
+    "OFFER_BUTTON_TITLE_OPEN": "Aç",
+    "PRODUCT_SECTION_TEXT_CARDS": "Hakkında",
+    "OFFER_BUTTON_TITLE_PREORDER": "Ön Sipariş Ver",
+    "VERSION_STRING_WITH_RELEASE_DATE": "{version}—Çıkış Tarihi: {date}",
+    "ONBOARDING_TV_SPLASH_PICKER_APP_STORE": "App Store",
+    "PURCHASES_RESTRICTED_TITLE": "Uygulama Satın Alma Sınırlı",
+    "ONBOARDING_TV_APP_STORE_TITLE": "App Store’a Hoş Geldiniz",
+    "ONBOARDING_TV_SPLASH_PICKER_TITLE": "Gizlilik",
+    "BADGE_MFI_HEADING": "Kumanda İsteğe Bağlı",
+    "OFFER_BUTTON_TITLE_ARCADE_STANDARD": "İndir",
+    "OFFER_BUTTON_TITLE_GET": "İndir",
+    "PRODUCT_DESCRIPTION_HEADER": "{title}—{subtitle}"
+  },
+  "InfoPlist": {
+    "CFBundleDisplayName": "App Store"
+  }
+}

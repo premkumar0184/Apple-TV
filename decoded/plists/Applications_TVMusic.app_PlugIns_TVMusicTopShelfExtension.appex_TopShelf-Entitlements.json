@@ -1,0 +1,41 @@
+{
+  "com.apple.accounts.appleaccount.fullaccess": true,
+  "com.apple.itunesstored.private": true,
+  "com.apple.private.coreservices.canmaplsdatabase": true,
+  "com.apple.private.tcc.allow": [
+    "kTCCServiceMediaLibrary"
+  ],
+  "com.apple.security.exception.files.home-relative-path.read-write": [
+    "/Library/Logs/MediaServices/"
+  ],
+  "com.apple.security.exception.mach-lookup.global-name": [
+    "com.apple.ak.anisette.xpc",
+    "com.apple.askpermissiond",
+    "com.apple.familycircle.agent",
+    "com.apple.hsa-authentication-server",
+    "com.apple.mediaartworkd.xpc",
+    "com.apple.MediaPlayer.MPRadioControllerServer",
+    "com.apple.rtcreportingd",
+    "com.apple.storebookkeeperd.xpc",
+    "com.apple.atc.xpc",
+    "com.apple.atc.xpc.downloadprogress",
+    "com.apple.atc.xpc.runkeeplocaltask",
+    "com.apple.PairingManager",
+    "com.apple.itunescloudd.playactivity",
+    "com.apple.nanoprefsync",
+    "com.apple.itunescloud.delegation-provider",
+    "com.apple.itunescloud.delegate-account-store",
+    "com.apple.coremedia.endpointpicker.xpc",
+    "com.apple.coremedia.routediscoverer.xpc",
+    "com.apple.coremedia.routingcontext.xpc",
+    "com.apple.coremedia.endpointremotecontrolsession.xpc",
+    "com.apple.PairingManager",
+    "com.apple.itunescloud.contenttaste",
+    "com.apple.itunescloud.music-subscription-status-service",
+    "com.apple.adid"
+  ],
+  "com.apple.security.exception.shared-preference.read-write": [
+    "com.apple.TVMusic",
+    "com.apple.TVMusic.TVMusicTopShelfExtension"
+  ]
+}

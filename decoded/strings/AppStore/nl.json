@@ -1,0 +1,43 @@
+{
+  "Localizable": {
+    "ONBOARDING_TV_SPLASH_PICKER_ARCADE": "Apple Arcade",
+    "OFFER_BUTTON_TITLE_BUY": "Koop",
+    "INFO_LIST_REQUIREMENTS_SUMMARY": "Werkt op deze {deviceName}",
+    "PREORDER_TERMS_FREE": "Dit materiaal kan zonder kennisgeving worden gewijzigd en het eindproduct kan variëren.\n\nAls je je vooruitbestellingen op een iPhone of iPad wilt bekijken of annuleren, ga je naar je 'Accountinstellingen' in de App Store. Op een Mac of pc ga je naar de Mac App Store of iTunes.",
+    "OFFER_BUTTON_TITLE_ARCADE_TRY": "Probeer gratis",
+    "OFFER_BUTTON_TITLE_BUY_WITH_PRICE": "Koop {price}",
+    "OFFER_BUTTON_TITLE_PREORDER_WITH_PRICE": "Bestel vooruit {price}",
+    "BADGE_MFI_REQUIRED_HEADING": "Controller vereist",
+    "OFFERS_IN_APP_PURCHASES": "Biedt in-app aankopen",
+    "OFFER_BUTTON_TITLE_ARCADE_OPEN": "Speel game",
+    "SEARCH_PLACEHOLDER": "Zoek",
+    "MORE_INFORMATION": "Meer informatie",
+    "ONBOARDING_TV_ARCADE_TITLE": "Welkom bij Apple Arcade",
+    "ONBOARDING_TV_SPLASH_PICKER_DESCRIPTION": "Voorzieningen van Apple zijn ontworpen om je gegevens te beschermen en om je te laten bepalen wat je deelt.",
+    "ARCADE_WELCOME_TV_DEVICES_PRE_MACOS_BODY": "Speel op je iPhone, iPad, Mac en Apple TV. Beschikbaar in het najaar.",
+    "INLINE_IN_APP_PURCHASES": "In-app aankopen",
+    "ONBOARDING_TV_ARCADE_DESCRIPTION": "Speel meer dan 100 spectaculaire games met één abonnement. Zonder reclame of extra aankopen.",
+    "VERSION_STRING": "Versie",
+    "ONBOARDING_TV_UNIFIED_APP_STORE_HEADING": "Nieuw in de App Store",
+    "PURCHASES_RESTRICTED_DESCRIPTION": "Er zijn beperkingen ingesteld voor het doen van aankopen op deze Apple TV. Ga naar Instellingen om de beperkingen te wijzigen.",
+    "ONBOARDING_TV_UNIFIED_APP_STORE_DESCRIPTION": "Speel meer dan 100 spectaculaire games met één abonnement. Zonder reclame of extra aankopen.",
+    "OFFER_BUTTON_TITLE_ARCADE_NOT_SUBSCRIBED": "Begin met spelen",
+    "PREORDER_TERMS_PAID": "Dit materiaal kan zonder kennisgeving worden gewijzigd en het eindproduct kan variëren.\n\nKosten worden pas in rekening gebracht op de dag dat deze app verkrijgbaar is. Als je je vooruitbestellingen op een iPhone of iPad wilt bekijken of annuleren, ga je naar je 'Accountinstellingen' in de App Store. Op een Mac of pc ga je naar de Mac App Store of iTunes.",
+    "ONBOARDING_TV_APP_STORE_DESCRIPTION": "Je Apple TV is een uitermate geschikt platform voor geweldige apps en games, en de App Store is de plek om ze te vinden.",
+    "OFFER_BUTTON_TITLE_OPEN": "Open",
+    "PRODUCT_SECTION_TEXT_CARDS": "Info",
+    "OFFER_BUTTON_TITLE_PREORDER": "Bestel vooruit",
+    "VERSION_STRING_WITH_RELEASE_DATE": "{version}—Uitgebracht {date}",
+    "ONBOARDING_TV_SPLASH_PICKER_APP_STORE": "App Store",
+    "PURCHASES_RESTRICTED_TITLE": "Beperkingen voor kopen van apps",
+    "ONBOARDING_TV_APP_STORE_TITLE": "Welkom bij de App Store",
+    "ONBOARDING_TV_SPLASH_PICKER_TITLE": "Privacy",
+    "BADGE_MFI_HEADING": "Controller optioneel",
+    "OFFER_BUTTON_TITLE_ARCADE_STANDARD": "Download",
+    "OFFER_BUTTON_TITLE_GET": "Download",
+    "PRODUCT_DESCRIPTION_HEADER": "{title}—{subtitle}"
+  },
+  "InfoPlist": {
+    "CFBundleDisplayName": "App Store"
+  }
+}

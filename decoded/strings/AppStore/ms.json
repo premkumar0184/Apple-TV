@@ -1,0 +1,43 @@
+{
+  "Localizable": {
+    "ONBOARDING_TV_SPLASH_PICKER_ARCADE": "Apple Arked",
+    "OFFER_BUTTON_TITLE_BUY": "Beli",
+    "INFO_LIST_REQUIREMENTS_SUMMARY": "Berfungsi pada {deviceName} ini",
+    "PREORDER_TERMS_FREE": "Kandungan ini mungkin berubah tanpa notis dan produk akhir mungkin berbeza.\n\nUntuk melihat atau membatalkan pratempahan anda pada iPhone atau iPad, pergi ke Seting Akaun dalam App Store. Pada Mac atau PC, gunakan Mac App Store atau iTunes.",
+    "OFFER_BUTTON_TITLE_ARCADE_TRY": "Cuba Secara Percuma",
+    "OFFER_BUTTON_TITLE_BUY_WITH_PRICE": "Beli {price}",
+    "OFFER_BUTTON_TITLE_PREORDER_WITH_PRICE": "Pratempah {price}",
+    "BADGE_MFI_REQUIRED_HEADING": "Pengawal Diperlukan",
+    "OFFERS_IN_APP_PURCHASES": "Menawarkan Pembelian In-App",
+    "OFFER_BUTTON_TITLE_ARCADE_OPEN": "Main Permainan",
+    "SEARCH_PLACEHOLDER": "Cari",
+    "MORE_INFORMATION": "Maklumat Lanjut",
+    "ONBOARDING_TV_ARCADE_TITLE": "Selamat Datang ke Apple Arked",
+    "ONBOARDING_TV_SPLASH_PICKER_DESCRIPTION": "Perkhidmatan Apple direka bentuk untuk melindungi maklumat anda dan membolehkan anda memilih perkara yang anda kongsi.",
+    "ARCADE_WELCOME_TV_DEVICES_PRE_MACOS_BODY": "Main pada iPhone, iPad, Mac dan Apple TV anda. Akan datang musim luruh ini.",
+    "INLINE_IN_APP_PURCHASES": "Pembelian In-App",
+    "ONBOARDING_TV_ARCADE_DESCRIPTION": "Main 100+ permainan hebat dengan satu langganan. Tiada iklan atau pembelian tambahan.",
+    "VERSION_STRING": "Versi",
+    "ONBOARDING_TV_UNIFIED_APP_STORE_HEADING": "Baru di App Store",
+    "PURCHASES_RESTRICTED_DESCRIPTION": "Pembelian dihadkan pada Apple TV ini. Untuk menukar pengehadan, pergi ke Seting.",
+    "ONBOARDING_TV_UNIFIED_APP_STORE_DESCRIPTION": "Main 100+ permainan hebat dengan satu langganan. Tiada iklan atau pembelian tambahan.",
+    "OFFER_BUTTON_TITLE_ARCADE_NOT_SUBSCRIBED": "Mula Mainkan",
+    "PREORDER_TERMS_PAID": "Kandungan ini mungkin berubah tanpa notis dan produk akhir mungkin berbeza.\n\nAnda tidak akan dicaj sehingga hari app ini dikeluarkan. Untuk melihat atau membatalkan pratempahan anda pada iPhone atau iPad, pergi ke Seting Akaun dalam App Store. Pada Mac atau PC, gunakan Mac App Store atau iTunes.",
+    "ONBOARDING_TV_APP_STORE_DESCRIPTION": "Apple TV anda ialah platform yang menakjubkan untuk app dan permainan yang hebat, serta App Store ialah tempat untuk mendapatkannya.",
+    "OFFER_BUTTON_TITLE_OPEN": "Buka",
+    "PRODUCT_SECTION_TEXT_CARDS": "Perihal",
+    "OFFER_BUTTON_TITLE_PREORDER": "Pratempah",
+    "VERSION_STRING_WITH_RELEASE_DATE": "{version}—Keluaran {date}",
+    "ONBOARDING_TV_SPLASH_PICKER_APP_STORE": "App Store",
+    "PURCHASES_RESTRICTED_TITLE": "Pembelian App Dihadkan",
+    "ONBOARDING_TV_APP_STORE_TITLE": "Selamat Datang ke App Store",
+    "ONBOARDING_TV_SPLASH_PICKER_TITLE": "Privasi",
+    "BADGE_MFI_HEADING": "Pengawal Pilihan",
+    "OFFER_BUTTON_TITLE_ARCADE_STANDARD": "Dapatkan",
+    "OFFER_BUTTON_TITLE_GET": "Dapatkan",
+    "PRODUCT_DESCRIPTION_HEADER": "{title}—{subtitle}"
+  },
+  "InfoPlist": {
+    "CFBundleDisplayName": "App Store"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "Localizable": {
+    "PREConfirmationMessage": "Tüm ayarları sıfırlamak istediğinizden emin misiniz?\nApple TV’nizi yeniden ayarlamanız gerekecektir.",
+    "PREResetAllSettingsButton": "Tüm Ayarları Sıfırla",
+    "PREDialogTitle": "Kurtarma Modu",
+    "PRERestartButton": "Yeniden Başlat",
+    "PREMainMessage": "Apple TV’nizde sorun var gibi görünüyor.\nTüm Ayarları Sıfırla’yı seçerek tüm ayarlarınızı ve hesaplarınızı sıfırlayabilirsiniz.\nSıfırlamadan sürdürmek için Yeniden Başlat’ı seçin.",
+    "PRECancelButton": "Vazgeç"
+  }
+}

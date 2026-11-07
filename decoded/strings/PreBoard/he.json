@@ -1,0 +1,10 @@
+{
+  "Localizable": {
+    "PREConfirmationMessage": "האם הינך בטוח/ה שברצונך לאפס את כל ההגדרות?\nיהיה עליך להגדיר שוב את ה-Apple TV.",
+    "PREResetAllSettingsButton": "אפס את כל ההגדרות",
+    "PREDialogTitle": "מצב שחזור",
+    "PRERestartButton": "הפעל מחדש",
+    "PREMainMessage": "נראה כי ה-Apple TV נתקל בבעיות.\nניתן לאפס את כל ההגדרות והחשבונות על-ידי בחירה באפשרות ״אפס את כל ההגדרות״.\nכדי לבצע הפעלה מחדש ללא איפוס, בחר/י ״הפעל מחדש״.",
+    "PRECancelButton": "ביטול"
+  }
+}

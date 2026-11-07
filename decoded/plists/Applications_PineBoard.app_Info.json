@@ -1,0 +1,64 @@
+{
+  "CFBundleName": "PineBoard",
+  "CFBundleAllowMixedLocalizations": true,
+  "DTSDKName": "appletvos13.4.internal",
+  "DTXcode": "1140",
+  "SBAppTags": [
+    "hidden"
+  ],
+  "DTSDKBuild": "17M59",
+  "CFBundleDevelopmentRegion": "en",
+  "CFBundleVersion": "1",
+  "BuildMachineOSBuild": "18A391024",
+  "UIUserInterfaceStyle": "Automatic",
+  "DTPlatformName": "appletvos",
+  "CFBundlePackageType": "APPL",
+  "CFBundleShortVersionString": "1.0",
+  "CFBundleSupportedPlatforms": [
+    "AppleTVOS"
+  ],
+  "CFBundleInfoDictionaryVersion": "6.0",
+  "CFBundleExecutable": "PineBoard",
+  "DTCompiler": "com.apple.compilers.llvm.clang.1_0",
+  "CLSystemService": true,
+  "CFBundleURLTypes": [
+    {
+      "CFBundleURLName": "Store Services URL",
+      "CFBundleURLSchemes": [
+        "itms-services"
+      ]
+    }
+  ],
+  "CFBundleIdentifier": "com.apple.PineBoard",
+  "MinimumOSVersion": "13.4",
+  "DTPlatformVersion": "13.4",
+  "DTXcodeBuild": "11O62d",
+  "LSRequiresIPhoneOS": true,
+  "BSServiceDomains": {
+    "com.apple.frontboard": {
+      "Services": {
+        "com.apple.frontboard.workspace-service": {
+          "LaunchWhitelisted": true
+        },
+        "com.apple.frontboard.system-service": {
+          "LaunchWhitelisted": true
+        },
+        "com.apple.idletimer-service": {
+          "LaunchWhitelisted": true
+        }
+      },
+      "MachName": "com.apple.frontboard.systemappservices"
+    }
+  },
+  "NSLocationAlwaysUsageDescription": "Your location is used to determine the time of day.",
+  "NSLocationAlwaysAndWhenInUseUsageDescription": "Your location is used to determine the time of day.",
+  "UIApplicationInitializationContextFactoryClass": "PBAppDelegate",
+  "UIDeviceFamily": [
+    3
+  ],
+  "DTPlatformBuild": "11O62d",
+  "UIRequiredDeviceCapabilities": [
+    "arm64"
+  ],
+  "NSLocationWhenInUseUsageDescription": "Your location is used to determine the time of day."
+}
