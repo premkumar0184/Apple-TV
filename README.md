@@ -120,18 +120,78 @@ python3 -m http.server 8000 --directory graphify-out
 
 ---
 
-## 🛠️ Reproducibility & Testing
+## 📥 Acquiring the Raw Firmware Files
 
-All extraction scripts and verification suites are fully automated and self-contained:
+Because raw proprietary Apple binaries and multi-gigabyte disk images are excluded from this repository (via `.gitignore`), you must supply the original firmware packages if you wish to re-run the raw extraction pipelines:
 
+### 1. Full Restore IPSW (Apple TV HD — tvOS 26.6.1 / Build 23L781)
+- **Source**: [ipsw.me](https://ipsw.me/AppleTV5,3) or official Apple update servers
+- **Direct Navigation**: Select **Apple TV** → **Apple TV HD (4th Generation / AppleTV5,3)** → Select Build **23L781** (ProductVersion `26.6.1`).
+- **Expected Filename**: `AppleTV5,3_26.6.1_23L781_Restore.ipsw` (5,269,474,064 bytes / 5.27 GB)
+- **Expected SHA-256**: `08bb7001565746699636a00c73ae35c0cba7536a15bafc01c900de26048d77c1`
+- **Placement**: Place the `.ipsw` directly into the repository root.
+- **Unpacked Folder (optional)**: Unpack via `unzip AppleTV5,3_26.6.1_23L781_Restore.ipsw -d AppleTV5,3_26.6.1_23L781_Restore/`
+
+### 2. MobileAsset OTA Update Package (Apple TV 4K — tvOS 13.4.8 / Build 17M61)
+- **Source**: Apple MobileAsset CDN / The iPhone Wiki OTA Catalog
+- **Identifier**: `8988ef3518b1f20f95c66d03be3c15eb4e1be2a0.zip` (2,014,940,073 bytes / 1.97 GB)
+- **Target Device**: Apple TV 4K (1st Generation / `j105a` / `AppleTV6,2`)
+- **Build / OS**: tvOS 13.4.8 (Build `17M61`, Release Train `YagerG`)
+- **Expected SHA-256**: `8725797b4ddfd93fc67023c93c1d9277f128e9731a9ac18618b9b2e812c027c1`
+- **Placement**: Place the `.zip` directly into the repository root, or unpack it to `./8988ef3518b1f20f95c66d03be3c15eb4e1be2a0/`.
+
+---
+
+## 🛠️ Reproducing the Extraction & Analysis Pipelines
+
+Once the raw firmware files are placed in the root directory, you or an AI agent can reproduce all extractions and verifications from scratch:
+
+### 1. Verify Raw Firmware Integrity
+Confirm that the supplied archives match the authoritative cryptographic ledgers:
 ```bash
-# Run the complete test suite (80 unit and integrity tests)
+# Check SHA-256 of the Full Restore IPSW
+echo "08bb7001565746699636a00c73ae35c0cba7536a15bafc01c900de26048d77c1  AppleTV5,3_26.6.1_23L781_Restore.ipsw" | sha256sum -c
+
+# Check SHA-256 of the OTA Update package
+echo "8725797b4ddfd93fc67023c93c1d9277f128e9731a9ac18618b9b2e812c027c1  8988ef3518b1f20f95c66d03be3c15eb4e1be2a0.zip" | sha256sum -c
+```
+
+### 2. Install Python Dependencies
+```bash
+python3 -m pip install pytest networkx cryptography pyyaml
+```
+
+### 3. Extract the Streaming PBZX OTA Payload (tvOS 13.4.8)
+Extract the core UI applications (`PineBoard`, `HeadBoard`, `TVSystemMenuService`), `dyld_shared_cache_arm64`, and asset catalogs from the streaming `payloadv2` chunks:
+```bash
+# Unpack the OTA zip if not already unpacked
+unzip -q 8988ef3518b1f20f95c66d03be3c15eb4e1be2a0.zip -d 8988ef3518b1f20f95c66d03be3c15eb4e1be2a0/
+
+# Run the pure-Python streaming multi-chunk PBZX / XZ extractor
+python3 scripts/extract_payload.py
+```
+
+### 4. Unpack the Full Restore IPSW (tvOS 26.6.1)
+Unpack the restore archive and extract the unencrypted APFS ramdisks and kernelcache:
+```bash
+# Unpack the IPSW archive
+unzip -q AppleTV5,3_26.6.1_23L781_Restore.ipsw -d AppleTV5,3_26.6.1_23L781_Restore/
+
+# Extract APFS restore ramdisks (requires 7z or apfs-fuse/dmg2img)
+mkdir -p extracted/ipsw/ramdisk_erase extracted/ipsw/ramdisk_update extracted/ipsw/kernel
+7z x AppleTV5,3_26.6.1_23L781_Restore/094-97800-089.dmg -oextracted/ipsw/ramdisk_erase/
+7z x AppleTV5,3_26.6.1_23L781_Restore/094-97880-089.dmg -oextracted/ipsw/ramdisk_update/
+```
+
+### 5. Run the Automated Test Suites
+Execute all 80 automated unit, integration, cryptographic, and adversarial integrity tests:
+```bash
 pytest tests/ -v
+```
 
-# Run the PBZX streaming payload extractor
-python3 scripts/extract_payload.py --help
-
-# Rebuild the Graphify knowledge graph
+### 6. Rebuild the Graphify Knowledge Graph
+Regenerate the force-directed interactive knowledge graph (`graphify-out/`):
+```bash
 python3 scripts/build_knowledge_graph.py
 ```
 
