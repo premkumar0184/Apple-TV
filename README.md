@@ -25,6 +25,7 @@ This repository contains all technical reports, reverse-engineering analyses, de
 | **Objective-C Taxonomy** | [`analysis/objc/OBJC_CLASS_INDEX.md`](analysis/objc/OBJC_CLASS_INDEX.md) | Statically extracted catalog of 607 classes, 9,935 methods, and 2,558 ivars |
 | **Swift 5 & Metal Analysis** | [`analysis/swift/SWIFT_ANALYSIS.md`](analysis/swift/SWIFT_ANALYSIS.md) | Swift reflection types, metadata records, and Metal audio-visualizer shaders in `TVMusic` |
 | **IPC & Mach Services** | [`analysis/ipc/IPC_CONTRACTS.md`](analysis/ipc/IPC_CONTRACTS.md) | Mach ports, XPC endpoints, and `NSXPCInterface` contracts (`PBSSystemService`, TopShelf) |
+| **Agent Reasoning & Transcripts** | [`.agents/AGENT_REASONING_AND_TRANSCRIPTS.md`](.agents/AGENT_REASONING_AND_TRANSCRIPTS.md) | Multi-agent execution history, tool invocations, and high-level reasoning summaries |
 
 ---
 
