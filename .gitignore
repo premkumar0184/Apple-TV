@@ -31,7 +31,13 @@ raw/
 *.iboot
 dyld_shared_cache*
 
-# Python & Environment Artifacts
+# ==============================================================================
+# Whitelist Multi-Agent Transcripts & Orchestration History
+# ==============================================================================
+!.agents/
+!.agents/**
+
+# Python & Environment Artifacts (re-applied after whitelist to keep repo clean)
 __pycache__/
 *.py[cod]
 *$py.class
@@ -45,9 +51,3 @@ ENV/
 # System & OS Files
 .DS_Store
 Thumbs.db
-
-# ==============================================================================
-# Whitelist Multi-Agent Transcripts & Orchestration History
-# ==============================================================================
-!.agents/
-!.agents/**
